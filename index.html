@@ -1,0 +1,617 @@
+<title>The Mongol Divergence — A History of the World</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap');
+
+:root {
+  --bg: #F5F0E6;
+  --bg-card: #EDE8DA;
+  --text: #2C2418;
+  --text-secondary: #5C5244;
+  --text-muted: #8A7E6E;
+  --accent: #9E7B2F;
+  --accent-light: #C9A84C;
+  --accent-bg: rgba(158, 123, 47, 0.08);
+  --conflict: #8B3A3A;
+  --indian: #1B6B5A;
+  --islamic: #3D5A80;
+  --mongol: #7A5C2E;
+  --roman: #6B3A6B;
+  --rising: #2E6B3A;
+  --rule: rgba(158, 123, 47, 0.25);
+  --serif: 'Crimson Pro', Georgia, 'Times New Roman', serif;
+  --sans: 'Source Sans 3', system-ui, -apple-system, sans-serif;
+  --mono: 'Cascadia Code', 'Fira Code', monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1A1714;
+    --bg-card: #252019;
+    --text: #E8E0D0;
+    --text-secondary: #B8AE9C;
+    --text-muted: #7A7264;
+    --accent: #C9A84C;
+    --accent-light: #DFC06A;
+    --accent-bg: rgba(201, 168, 76, 0.1);
+    --conflict: #D4736E;
+    --indian: #4ABFA6;
+    --islamic: #6B9AC4;
+    --mongol: #C9A84C;
+    --roman: #C47AC4;
+    --rising: #5CB97A;
+    --rule: rgba(201, 168, 76, 0.2);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1A1714;
+  --bg-card: #252019;
+  --text: #E8E0D0;
+  --text-secondary: #B8AE9C;
+  --text-muted: #7A7264;
+  --accent: #C9A84C;
+  --accent-light: #DFC06A;
+  --accent-bg: rgba(201, 168, 76, 0.1);
+  --conflict: #D4736E;
+  --indian: #4ABFA6;
+  --islamic: #6B9AC4;
+  --mongol: #C9A84C;
+  --roman: #C47AC4;
+  --rising: #5CB97A;
+  --rule: rgba(201, 168, 76, 0.2);
+}
+:root[data-theme="light"] {
+  --bg: #F5F0E6;
+  --bg-card: #EDE8DA;
+  --text: #2C2418;
+  --text-secondary: #5C5244;
+  --text-muted: #8A7E6E;
+  --accent: #9E7B2F;
+  --accent-light: #C9A84C;
+  --accent-bg: rgba(158, 123, 47, 0.08);
+  --conflict: #8B3A3A;
+  --indian: #1B6B5A;
+  --islamic: #3D5A80;
+  --mongol: #7A5C2E;
+  --roman: #6B3A6B;
+  --rising: #2E6B3A;
+  --rule: rgba(158, 123, 47, 0.25);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.masthead {
+  text-align: center;
+  padding: 2rem 0 2.5rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 2.5rem;
+}
+
+.masthead-label {
+  font-family: var(--sans);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  font-family: var(--serif);
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--text);
+  text-wrap: balance;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--text-secondary);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 3rem 0 1rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+  text-wrap: balance;
+}
+
+h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin: 2rem 0 0.5rem;
+}
+
+p { margin-bottom: 1rem; }
+
+.pullquote {
+  border-left: 3px solid var(--accent);
+  padding: 0.75rem 0 0.75rem 1.25rem;
+  margin: 1.75rem 0;
+  font-style: italic;
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+}
+
+.nation {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+}
+.nation.indian { color: var(--indian); }
+.nation.islamic { color: var(--islamic); }
+.nation.mongol { color: var(--mongol); }
+.nation.roman { color: var(--roman); }
+.nation.conflict { color: var(--conflict); }
+.nation.rising { color: var(--rising); }
+
+.power-card {
+  background: var(--bg-card);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+
+.power-card .card-title {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 0.35rem;
+}
+
+.power-card .card-body {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+
+.power-card .stat {
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 0.35rem;
+}
+
+.power-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+.toc {
+  background: var(--accent-bg);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.toc-title {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.toc ol {
+  list-style: none;
+  counter-reset: toc;
+  padding: 0;
+}
+
+.toc li {
+  counter-increment: toc;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+}
+
+.toc li::before {
+  content: counter(toc, upper-roman) ".";
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--accent);
+  margin-right: 0.5rem;
+  font-weight: 600;
+}
+
+.toc a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+.toc a:hover { border-bottom-color: var(--accent); }
+
+.separator {
+  text-align: center;
+  margin: 2.5rem 0;
+  color: var(--accent);
+  font-size: 1.2rem;
+  letter-spacing: 1em;
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  font-family: var(--sans);
+}
+</style>
+
+<div class="page">
+
+<div class="masthead">
+  <div class="masthead-label">Pax Bharata &middot; An Alternate History</div>
+  <h1>The Mongol Divergence</h1>
+  <div class="subtitle">A history of a world where a contained Mongol empire changed everything &mdash; and the Indian subcontinent, not Western Europe, sailed out to meet the world.</div>
+</div>
+
+<div class="toc">
+  <div class="toc-title">Chapters</div>
+  <ol>
+    <li><a href="#divergence">The point of divergence</a></li>
+    <li><a href="#steppe">The contained steppe</a></li>
+    <li><a href="#caliphate">The surviving caliphate</a></li>
+    <li><a href="#china">The hundred kingdoms</a></li>
+    <li><a href="#india">The Indian century</a></li>
+    <li><a href="#war">The War of All Shores</a></li>
+    <li><a href="#colonies">The colonial web</a></li>
+    <li><a href="#tongues">The tongues of trade</a></li>
+    <li><a href="#africa">Africa and the unconquered coast</a></li>
+    <li><a href="#americas">The Americas</a></li>
+    <li><a href="#europe">A fragmented West, a stronger East</a></li>
+    <li><a href="#pacific">The South China Sea</a></li>
+    <li><a href="#present">The present day &mdash; the war and the visitor</a></li>
+    <li><a href="#doctrine">The great debate</a></li>
+    <li><a href="#flashpoints">Who rises, who falls</a></li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="divergence">I. The point of divergence</h2>
+
+<p>In 1227, Genghis Khan dies as in our timeline &mdash; but the succession fractures the empire earlier and more thoroughly. The western campaigns stall. The armies that would have sacked Baghdad in 1258 never arrive. The force that would have conquered the Song dynasty exhausts itself in decades of inconclusive border warfare against the northern Chinese kingdoms. The Mongol Empire remains a vast steppe power, dominant across Inner Asia, but it never becomes the transcontinental colossus that reshaped Eurasia in our history.</p>
+
+<div class="pullquote">The Mongols conquered the steppe, but the steppe was all they could hold. The cities of Persia, the courts of China, and the walls of the Urals proved more durable than any cavalry charge.</div>
+
+<p>The consequences ripple outward across eight centuries. The Abbasid Caliphate survives. China never unifies under Mongol rule, and the fragmentation that follows persists into the modern era. Persia remains a mosaic of successor courts rather than being fused under Ilkhanate rule. And most critically, the Indian Ocean trade networks that the Mongol disruption weakened in our history instead grow <em>stronger</em> &mdash; positioning the maritime kingdoms of the Indian subcontinent to become the dominant global powers of the early modern age.</p>
+
+<!-- ============================================================ -->
+<h2 id="steppe">II. The contained steppe</h2>
+
+<p>The Mongol legacy survives not as one empire but as five khanates, bound together in a loose confederation called <span class="nation mongol">the Kurultai</span>. They are the modern inheritors of the steppe: vast in territory, thin in population, rich in memory.</p>
+
+<div class="power-grid">
+  <div class="power-card">
+    <div class="card-title" style="color: var(--mongol)">Tolui Khanate</div>
+    <div class="card-body">The senior line's inheritance: Mongolia, Inner Mongolia, Liaoning, Western Siberia. The court that once ruled from Karakorum, now a modern authoritarian state.</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--mongol)">Jochi Khanate</div>
+    <div class="card-body">The western wing, centered on the Urals. It held the line against Europe for centuries and has never stopped glancing at Kazan.</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--mongol)">Chagatai Khanate</div>
+    <div class="card-body">Central Asia &mdash; the crossroads between Persia, India, and the steppe, still dreaming Timur's dream.</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--mongol)">K&ouml;lgen Khanate</div>
+    <div class="card-body">Manchuria. The eastern khanate whose pressure kept China divided &mdash; and which believes the Mandate of Heaven belongs to the steppe.</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--mongol)">Gelejian Khanate</div>
+    <div class="card-body">Eastern Siberia, all the way to the strait &mdash; beyond which lies a continent of grass that some in its court have never stopped talking about.</div>
+  </div>
+</div>
+
+<p>The khanates stand together outwardly, and quarrel endlessly within: each claims pieces of the others' patrimony, and every generation someone proposes to redraw the succession of 1227 by force. Family is complicated on the steppe.</p>
+
+<h3>The walls that held</h3>
+
+<p>Three barriers contained the Mongol expansion, and their descendants still stand. To the west, the <span class="nation">Tsardom of Bulgharia</span> on the Volga held the Urals line. To the southwest, <span class="nation">Khorasan</span> &mdash; never sacked in this timeline, its cities intact, its people undecimated &mdash; and <span class="nation">Turkmenistan</span> held firm east of the Caspian. To the southeast, the northern Chinese kingdoms of <span class="nation">Yan</span>, <span class="nation">Jin</span>, and <span class="nation">Qin</span> formed a military frontier that absorbed steppe pressure for centuries &mdash; which is one reason China never unified: the north was always garrisoning the wall while the south was building ships.</p>
+
+<!-- ============================================================ -->
+<h2 id="caliphate">III. The surviving caliphate</h2>
+
+<p>This is the single largest consequence of the Mongol containment: the <span class="nation islamic">Abbasid Caliphate</span> survived.</p>
+
+<p>In our timeline, the sack of Baghdad in 1258 was one of the most devastating events in Islamic history &mdash; the House of Wisdom destroyed, the Mesopotamian irrigation systems wrecked, the center of the Islamic world displaced forever. None of that happened here. Baghdad remained what it had been for five centuries: the seat of learning, commerce, and religious authority for a civilization that transitioned gradually into modernity, much as European civilization did in our world.</p>
+
+<div class="power-card">
+  <div class="card-title" style="color: var(--islamic)">The Abbasid Caliphate</div>
+  <div class="card-body">Eighteen provinces spanning from Syria and Armenia to Oman and the Hijaz &mdash; the largest contiguous state in the world, and the cultural heart of a civilization that was never broken. Its universities are the oldest continuously operating institutions on Earth. Its politics have not changed in living memory, which its ministers cite as proof of stability and its poets describe differently.</div>
+  <div class="stat">Seat: Baghdad &middot; Arabic, with Persian as the language of the chancery</div>
+</div>
+
+<p>Around the Caliphate, Persia is a constellation of independent courts &mdash; the <span class="nation">Kingdom of Media</span>, <span class="nation">Khuzestan</span>, <span class="nation">Atropaten</span>, <span class="nation">Laristan</span>, <span class="nation">Sakastan</span> &mdash; fragmented not because the Mongols shattered it but because the Caliphate's survival meant Persia never needed a Safavid unifier. Each court considers itself the true heir of Eranshahr, and the question of Persian reunification is the oldest running argument in the region's diplomacy.</p>
+
+<h3>The Roman remnant</h3>
+
+<p>North of the Caliphate stands something even older. In our timeline, the Eastern Roman Empire bled out slowly across four centuries &mdash; gutted by the Fourth Crusade, then ground away by Turkic peoples driven westward, wave after wave, by the Mongol storm behind them. Here the storm never came. The migrations that remade Anatolia in our world arrived as a trickle rather than a flood; Constantinople was never sacked by Christian crusaders redirected from a war the popes could no longer control; and the empire that outlived Rome by a thousand years simply &mdash; kept living. It quarreled with Baghdad, traded with Baghdad, learned from Baghdad, and grew old beside it: two ancient neighbors who have buried every empire that ever predicted their fall.</p>
+
+<div class="power-card">
+  <div class="card-title" style="color: var(--roman)">Basile&iacute;a Rhoma&iacute;&omicron;n</div>
+  <div class="card-body">The Eastern Roman Empire, alive in the twenty-first century. Never fatally weakened by crusade or Turkic migration, the empire on the Bosphorus modernized from a position of strength: educated, prosperous, formidable. Not revanchist &mdash; but it keeps very old maps in very good condition.</div>
+  <div class="stat">Seat: Constantinople &middot; Greek</div>
+</div>
+
+<p>To the south, <span class="nation">Kemet</span> on the Nile, <span class="nation">Nobee Gurgu</span> upriver at Luxor, and the Maghrebi states of <span class="nation">Tamazgha</span> and <span class="nation">Marrakesh</span> form a distinct African-Islamic tier &mdash; culturally aligned with Baghdad, politically independent, and deeply entangled with the Indian maritime powers whose ships crowd their harbors.</p>
+
+<!-- ============================================================ -->
+<h2 id="china">IV. The hundred kingdoms</h2>
+
+<p>China never unified. Not under the Mongols, not under any dynasty since. The Song fell to internal fragmentation under sustained northern pressure, and no power since has been strong enough to gather the pieces &mdash; though several have never stopped trying.</p>
+
+<p>Fourteen kingdoms share the old Chinese world: <span class="nation">Yan</span> at Beijing, <span class="nation">Jin</span> in Shanxi, <span class="nation">Qin</span> astride the central plains, <span class="nation">Wu</span> at Shanghai, <span class="nation">Yue</span> at Hangzhou, <span class="nation">Chu</span> in the lake country, <span class="nation">Huainan</span>, <span class="nation">Ba</span> in the Sichuan basin, <span class="nation">Liang</span> along the Hexi corridor, <span class="nation">Minyue</span> facing the strait, <span class="nation">Nanyue</span> at Guangzhou, <span class="nation">Luoyue</span> in the far south, <span class="nation">Tuyuhun</span> by the great lake, and <span class="nation">Buyeo</span> in the northeast. Seven of them are bound in the <span class="nation">Zhongguo Compact</span>, a mutual-defense pact against the steppe &mdash; an alliance in which every member quietly assumes it will one day rule the others.</p>
+
+<div class="pullquote">The Chinese kingdoms are like Europe in our timeline &mdash; culturally one civilization, politically fractured, economically intertwined, and nursing grudges old enough to have their own classical literature.</div>
+
+<p>Qin has unified China before, and its statesmen treat the fact as a standing appointment. The coastal kingdoms, wealthy on trade, would rather drown than be governed from the interior. And Dhaka &mdash; the great maritime power to the south &mdash; has spent centuries making sure neither happens: backing the weak against the strong, funding the coast against the plains, keeping the hundred kingdoms at ninety-nine. The chronicles of Wu record a brief age of westward exploration &mdash; treasure fleets that reached the African coast a generation before the Indian powers closed the ocean to competitors. Nothing remains of it but the charts, which the Indian admiralties bought, copied, and improved.</p>
+
+<p>One kingdom did keep its window on the sea. <span class="nation">Minyue</span> holds both banks of the strait &mdash; Fujian on the mainland, the great island across the water &mdash; and that accident of survival made it the toll-keeper of the China coast: every hull running north to Wu or south to Nanyue passes Minyue's lights, and Taipei has grown into the boom city of the Chinese world, the one place where the hundred kingdoms' merchants all bank in the same harbor. The other kingdoms resent it precisely as much as they depend on it.</p>
+
+<!-- ============================================================ -->
+<h2 id="india">V. The Indian century</h2>
+
+<p>This is the heart of the divergence. In a world where the Indian Ocean trade networks were never severed, where Baghdad's demand for goods never collapsed, where no Atlantic power arose to compete &mdash; the kingdoms of the Indian subcontinent did what Portugal, Spain, the Netherlands, England, and France did in ours. They built ships. They mapped coasts. They planted trading posts. And eventually, inevitably, they colonized.</p>
+
+<p>But no single India did this. <em>Nine</em> great powers share the subcontinent &mdash; and only eight of them globalized the world's economy. Nine, if you count Serendib. Twelve, if you count the three Persian hybrid courts of the trade routes, and the schools of the Caliphate certainly do. Their rivalry drove the age of expansion the way intra-European rivalry drove ours:</p>
+
+<div class="power-card">
+  <div class="card-title" style="color: var(--indian)">Sauvira</div>
+  <div class="card-body">The largest economy on Earth, seated in the Punjab. The self-appointed guardian of Indians everywhere: its founding doctrine is that a Sauviran citizen is under Sauvira's protection no matter whose borders they stand behind, and its navy exists to make the point. Its possessions run from Cabo Verde and S&atilde;o Tom&eacute; to the West Indies.</div>
+  <div class="stat">Seat: Lahore &middot; Punjabi &mdash; spoken from the Indus to the Atlantic islands</div>
+</div>
+
+<div class="power-card">
+  <div class="card-title" style="color: var(--conflict)">Madhya-desa</div>
+  <div class="card-body">The subcontinent's big brother. While its siblings sailed, Madhya-desa stayed home &mdash; keeping the peace of the Gangetic plain, maintaining the institutions, regarding itself as the responsible elder of the Indian family. It has never fully grasped how much wealthier and stronger centuries of maritime trade have made the siblings it still thinks of as junior. Wholly landlocked &mdash; the only great power without a harbor of its own &mdash; and connected to everything by diplomacy.</div>
+  <div class="stat">Seat: New Delhi &middot; Hindustani</div>
+</div>
+
+<div class="power-grid">
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Maharashtra</div>
+    <div class="card-body">The financial heavyweight at Mumbai, with the subcontinent's largest arsenal and far posts at Hong Kong and Okinawa &mdash; a Marathi presence bracketing the whole China trade. The loudest voice for restraint &mdash; it considers both Sauvira's crusading and Madhya-desa's paternalism equally bankrupt.</div>
+    <div class="stat">Marathi</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Tamilakam</div>
+    <div class="card-body">The Dravidian maritime power at Chennai, heir of the Chola sea-lanes, holding Brunei and Mauritius. Keeper of the eastern trade.</div>
+    <div class="stat">Tamil</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Karunadu</div>
+    <div class="card-body">The upland kingdom at Bangalore whose merchants hold Singapore and Honolulu &mdash; the two great crossroads of the eastern oceans.</div>
+    <div class="stat">Kannada</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Vanga Mahajanapadas</div>
+    <div class="card-body">Dhaka's empire: Bengal on both banks of the delta, Myanmar, Tibet. The power whose merchant houses seeded princely states across all of southeast Asia &mdash; and whose statecraft has kept both China and its Indian rivals from ever dominating the eastern seas.</div>
+    <div class="stat">Bengali &mdash; the koine of the eastern trade</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Andhrapatha</div>
+    <div class="card-body">The Telugu power at Hyderabad, polished and prosperous, holding Kaliningrad on the Baltic and the Bahamas in the western sea. Its universities are the envy of the subcontinent; its wealth is more unevenly held than its ministers like to discuss.</div>
+    <div class="stat">Telugu</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Kalinga</div>
+    <div class="card-body">The Bay of Bengal's old seafaring kingdom, holding Djibouti &mdash; the most coveted port on Earth, watched hungrily by all four of its neighbors.</div>
+    <div class="stat">Odia</div>
+  </div>
+  <div class="power-card">
+    <div class="card-title" style="color: var(--indian)">Gurjaratra</div>
+    <div class="card-body">The Gujarati merchant power, holding Zanzibar &mdash; the hinge of the African trade, as it was in our world, but under a different flag.</div>
+    <div class="stat">Gujarati</div>
+  </div>
+</div>
+
+<p>Around the nine: <span class="nation indian">Serendib</span>, the crowded oligarch island commanding the ocean's center together with its holdings at Dili; and the three Persian hybrids &mdash; <span class="nation indian">Makran</span>, the Pashtun-ruled coast at Quetta, holding Banjul on the Gambia and the Seychelles; <span class="nation indian">Sakastan</span>, whose flag flies over Belfast and Belize; <span class="nation indian">Laristan</span>, the Atlantic specialist, holding Bilbao, Bata-Malabo, and the Canaries. There is no India. There are a dozen Indias, and the world's oceans have been their chessboard for four hundred years.</p>
+
+<!-- ============================================================ -->
+<h2 id="war">VI. The War of All Shores</h2>
+
+<p>It was not always so balanced. For a century and a half &mdash; from the first Gujarati factories on the Zanzibar coast in the early 1600s to the end of the eighteenth century &mdash; the Indian empires were empires in the full sense. The dynasty coasts were <em>provinces</em>, governed from Chennai and Mumbai and Lahore; Australia was six provincial administrations under six viceroys; the great southeastern dominion answered to Sauviran governors. The subcontinent's rivalries were exported wholesale to three continents, and for a hundred and fifty years the system grew &mdash; richer, tighter, and more combustible with every fleet launched.</p>
+
+<p>What lit it was the far side of the world. Indian ships had crossed the Pacific &mdash; the <em>eastern route</em>, staged through the Kannada harbor at Honolulu &mdash; and found the coastal cities of the Tawantinsuyu: silver, textiles, and a civilization eager to trade and impossible to intimidate. The American continents themselves were unmapped, their interiors unknown, but everyone understood what the trade would become. Suddenly every gateway mattered at once: the western coast of Africa, the harbors of Iberia, the island ports nearest the Caribbean and the new continent, and above all the right to sail the eastern route without another power's leave. The gateways were finite. The ambitions were not.</p>
+
+<p>The war began in 1794 &mdash; by most accounts with the Cabo Verde closures, when Sauvira shut the Atlantic roads to rival shipping under color of pirate suppression, and Laristan's Canary squadrons answered. Within two years every alliance had cascaded and every ocean was burning. It lasted thirteen years, and it was the only world war this world has ever fought.</p>
+
+<div class="pullquote">Armies of Punjabis and Tamils and Bengalis killed each other in Iberia, on the Gambia, across the straits of Indonesia &mdash; and not one shot was fired on the subcontinent itself. The banks of Lahore cleared the war-loans of Chennai's enemies. The mothers of the soldiers made pilgrimage to the same rivers. That was the horror of it, and the mercy: the family fought everywhere except home.</div>
+
+<p>Iberia was the western front &mdash; Castella's plains the one place Indian field armies met in full strength, in a war otherwise fought by fleets and marines from Sierra Leone to Sulawesi. Africa bore the worst of it; the dynasty coasts changed hands and changed hands again. And in the southeast, the straits ran red over which flag would tax the passage to the Pacific.</p>
+
+<p>It ended the way such wars end: in exhaustion, bankruptcy, and a common terror of what the next decade would cost. In 1807 the powers convened on the island of Kala &mdash; neutral ground at the ocean's center &mdash; and signed the peace known ever since as the <strong>Concord of Kala</strong>. Its terms remade the world. Every Indian power renounced its provincial empire: the overseas provinces became sovereign nations at a stroke &mdash; the dynasty coasts, the six Australian dominions, the great southeastern dominion that had already stopped taking orders mid-war. The powers kept only an enumerated list of city-state trading outposts &mdash; the Cabo Verdes and Singapores and Djiboutis of the map &mdash; ports without hinterlands, commerce without conquest. The island of Kala itself was declared free ground in perpetuity, no nation's territory, every nation's harbor.</p>
+
+<p>They called the settlement the Great Renunciation. What it began, the world calls the <em>Pax Bharata</em>: from the Concord forward, the great Indian powers have competed in every currency except open war. Two hundred and nineteen years, and counting.</p>
+
+<!-- ============================================================ -->
+<h2 id="colonies">VII. The colonial web</h2>
+
+<p>The Concord's children are everywhere. Indian colonization differs from European colonization in our timeline in one structural way that shapes everything: <strong>the colonies are independent, and have been for two centuries</strong>. They are not provinces of the mother country &mdash; the Renunciation ended that. They are sovereign nations &mdash; with their own governments, economies, and armies &mdash; bound to their founding powers by alliance, habit, and blood, not by law.</p>
+
+<h3>The dynasty coasts</h3>
+
+<p>Down the African coastline runs a string of ports named for the dynasties that founded them: <span class="nation">Shivajinagar</span> at the Cape and <span class="nation">Shahuprant</span> on the Angolan coast, tied to Maharashtra; <span class="nation">Rajarajapuram</span> on Madagascar, tied to Tamilakam; <span class="nation">Krishnadevarayapuram</span> on the Ivory Coast, tied to Andhrapatha; <span class="nation">Mayurasharmapura</span> at Sierra Leone, tied to Karunadu; <span class="nation">Kharaveladesha</span> on the Horn, tied to Kalinga; <span class="nation">Chandraguptapura</span>, <span class="nation">Ashokanagar</span>, and <span class="nation">Samudraguptabhumi</span> &mdash; the Mauryan Horn, three states named for three emperors, tied to Madhya-desa; <span class="nation">Kumarapalabhumi</span>, <span class="nation">Daharraje</span>, <span class="nation">Dharmapalapuri</span>, <span class="nation">Naba Bango</span> on the western coasts.</p>
+
+<p>These are not garrisons. They are centuries-old nations, creolized and self-sustaining &mdash; think Brazil and Portugal, not the Raj. Their alliances with the founding powers are real: a security guarantee, a trade preference, a shared table at every congress. But the tie is chosen, and what is chosen can be unchosen &mdash; a fact that both the mother countries and their neighbors think about more than they say.</p>
+
+<h3>The southern dominions</h3>
+
+<p>Australia is six nations, each planted by a different Indian power and each still allied to its founder: <span class="nation">Puthu Tamilakam</span> at Sydney, <span class="nation">Nutan Maharashtra</span> at Melbourne, <span class="nation">Hosa Karunadu</span> at Brisbane, <span class="nation">Nava Gurjaratra</span> in the west, <span class="nation">Nootana Andhrapatha</span> at Adelaide, <span class="nation">Navakalinga</span> in the north. Six flags, six tongues, one continent &mdash; the subcontinent's rivalries transplanted whole into the southern hemisphere.</p>
+
+<h3>Nao Sauvira</h3>
+
+<div class="power-card">
+  <div class="card-title" style="color: var(--indian)">Nao Sauvira</div>
+  <div class="card-body">The crown jewel of Indian Africa: the great settler dominion of the southeast, running from Kenya down the coast to the Cape's borders. It stopped taking orders from Lahore midway through the War of All Shores &mdash; raising its own armies, provisioning every belligerent at a profit &mdash; and arrived at Kala as a fact the Concord could only ratify. Its heart is Mbabane, the highland metropole where the dominion's wealth and people concentrated: fifty-eight million souls, the largest city-region in Africa, speaking a creole that sets Punjabi grammar over Nguni and Swahili roots.</div>
+  <div class="stat">Seat: Mbabane &middot; Sauviri creole</div>
+</div>
+
+<p>In Lahore they call Nao Sauvira the prodigal. In Mbabane they call Sauvira the past. The dominion has imperial ambitions of its own across southern Africa &mdash; and its old mother, watching, has never formally renounced the claim.</p>
+
+<!-- ============================================================ -->
+<h2 id="tongues">VIII. The tongues of trade</h2>
+
+<p>To understand this world, listen to it.</p>
+
+<p>The inhabitants of this world speak Tamil in Brunei and Punjabi in Cabo Verde. Marathi in Hong Kong, Kannada in Singapore and Honolulu. Telugu in Kaliningrad and the Bahamas, Bengali in most of southeast Asia, Odia in Djibouti. Farsi in Belfast and Belize, Armenian in Bilbao, Pashto on the Gambia. And an Islamic merchant captain out of Tripoli has to know them all.</p>
+
+<div class="pullquote">There is no Babel-tongue here &mdash; no single language of the sea. There are eight, and a captain's worth is measured by how many she can bargain in.</div>
+
+<p>The linguistic map records the trade map. Every Indian power carried its language down its own sea-lanes, and where the lane ended, the language took root: a Kannada pilot's chart of Pearl Harbor, Telugu newspapers on the Baltic, the call to prayer in Odia-accented Arabic over Djibouti's harbor. The Armenian of Bilbao is a merchant story four centuries deep &mdash; Laristan's trade houses were built by the Armenian families of Isfahan's New Julfa quarter, and where Laristan's flag went, their ledgers and their language went first. The Persian of the chanceries binds it loosely together: from Constantinople to Dhaka, a treaty is drafted in Persian before it is signed in anything else, and Arabic remains the language of God and of science from Marrakesh to Mindanao.</p>
+
+<p>The Americas are the same story with different roots. No Atlantic empire ever imposed a common tongue on either continent, and so the Americas speak the way Europe speaks: a profusion. Nahuatl in the markets of Mexihcatlan and Yucatec Maya beside it; Quechua and Aymara across the Andes; Guaran&iacute; on the R&iacute;o de la Plata; Mapudungun in the far south; Lakota on the plains, Mohawk in the longhouse country, Tongva on the Pacific shore &mdash; with Punjabi, Telugu, and Tamil spoken in the island entrep&ocirc;ts offshore. In Europe, likewise, no Versailles and no Westminster ever flattened the map: Occitan and Breton are living languages of state, and a traveler crossing from Wessex to Alba changes tongue at the border like changing money.</p>
+
+<p>The world has no English. It never needed one. It has instead the polyglot ordinary &mdash; a dockworker in Zanzibar who speaks Swahili at home, Gujarati at work, and Persian to the customs house, and thinks nothing of it, because that is simply what a port sounds like.</p>
+
+<!-- ============================================================ -->
+<h2 id="africa">IX. Africa and the unconquered coast</h2>
+
+<p>Indian contact shaped Africa's coasts &mdash; but it never broke Africa's interior, and it never came close to breaking the west.</p>
+
+<h3>The unconquered coast</h3>
+
+<p>West Africa met the Indian merchants as rivals, fought them where it had to, traded with them where it paid, and modernized on its own terms. There was no Atlantic slave trade in this timeline &mdash; the Indian powers wanted ports and partners, not plantations. The great kingdoms grew into great states: <span class="nation rising">Oyo Mesi</span>, the Yoruba power seated at Lagos, nuclear-armed and rich, first among the five nations of the <span class="nation rising">West African Union</span>; <span class="nation">Asanteman</span> on the gold coast; <span class="nation">Ibinu</span> in the delta; <span class="nation">Loango</span> and <span class="nation">&#209;gong Fang</span> toward the equator. The Union is the most coherent bloc in the world outside the subcontinent, and its statesmen speak openly of the day the dynasty ports up and down the coast come home &mdash; by invitation or otherwise.</p>
+
+<h3>The interior and the east</h3>
+
+<p><span class="nation">Kel Tamasheq</span> rules the Sahara from the Niger bend to the western sea. <span class="nation">Toubou-Nu</span> holds the central desert; <span class="nation">Tripolitania</span> and <span class="nation">Cyrenaica</span> face the Mediterranean; <span class="nation">M&auml;ng&#601;sta Habesha</span> keeps the highlands it has kept for three thousand years, and regards the Indian ports on the Horn below it &mdash; the whole Mauryan coast &mdash; as a temporary arrangement. <span class="nation">Bunyoro-Kitara</span> and <span class="nation">Vurukporo Azande</span> divide the lakes and the great river basins; <span class="nation">Nsi a Bakongo</span> and the <span class="nation">Kintinu kia Kongo</span> movement dream the Kongo whole again; <span class="nation">Urozvi</span> builds in stone above the Limpopo as its ancestors did. And everywhere on the coast: the Indian ports, the Indian tongues, the Indian silver &mdash; and the long African argument about how much longer any of it stays.</p>
+
+<!-- ============================================================ -->
+<h2 id="americas">X. The Americas</h2>
+
+<p>The Americas were contacted late, and from the west rather than the east &mdash; Indian hulls, not Iberian ones. First contact came over the <em>eastern route</em> across the Pacific, staged through Honolulu, to the coastal cities of the Tawantinsuyu; the Caribbean trade came later, the long way around Africa. The crossings were immense, the arrivals were rival merchants rather than a single crusading crown, and the civilizations they met had had more time. Disease was still catastrophic; conquest never followed it &mdash; and after the Concord of Kala it never could, for the continents were never provinces and the Renunciation froze the pattern at trade. What emerged instead, over four centuries, was accommodation &mdash; and a hemisphere of indigenous states that modernized under pressure but under their own flags.</p>
+
+<h3>The middle world</h3>
+
+<p><span class="nation rising">Mexihcatlan</span> is the great power of the hemisphere &mdash; the Mexica state that survived contact, took what it wanted from the newcomers, and built outward. It leads the <span class="nation">Mesoamerican League</span> beside <span class="nation">Lu'umil Maaya</span>, <span class="nation">Miskitu Nani</span>, and <span class="nation">Muysca</span>, and its capital is the largest Nahuatl-speaking city that has ever existed. Its ambitions run north into the old tribute lands and east into the island sea, where Indian flags fly over Nassau and the West Indies &mdash; a fact Mexihcatlan's admirals describe, in Nahuatl, as weather that will change.</p>
+
+<h3>The north</h3>
+
+<p>North America is a mosaic: <span class="nation">Tovaangar</span> on the golden Pacific shore; <span class="nation">Chinook Illahee</span> and <span class="nation">Inuit Nunaat</span> across the great north; <span class="nation">Oceti Sakowin</span> and <span class="nation">Ts&eacute;ts&#x11B;h&eacute;st&#x227;hese Ho'e</span> on the plains and mountains; <span class="nation">Karankawa M&aacute;t</span> on the gulf; <span class="nation">Waasitenshi</span> along the great river; <span class="nation">Mvskoke Ekvnv</span> and <span class="nation">Tsalagihi Ayeli</span> in the southeast; <span class="nation">Wabanakik</span> on the cold Atlantic. In the northeast, the <span class="nation">Great Council Fire</span> &mdash; the <span class="nation">Haudenosaunee</span>, <span class="nation">Anishinaabeg</span>, <span class="nation">Hochelaga</span>, and <span class="nation">Wabanakik</span> together &mdash; keeps the oldest continuously operating constitutional order on the continent.</p>
+
+<h3>The south</h3>
+
+<p>The <span class="nation">Orinoco-Magdalena Republic</span> anchors the north coast. The Amazon and the Atlantic shore are divided among <span class="nation">Solim&otilde;es</span>, <span class="nation">Mehin</span>, <span class="nation">Tupinamb&aacute;</span>, <span class="nation">Tikm&#x169;'&#x169;n</span>, and <span class="nation">Pindorama</span>; the plata country belongs to <span class="nation">Guaran&iacute; Ret&atilde;</span> and <span class="nation">Het Pot&eacute;</span>; the Andes to the <span class="nation">Tawantinsuyu</span> federation &mdash; <span class="nation">Chachapoyas</span>, <span class="nation">Quitu</span>, <span class="nation">Kuntisuyu</span>, <span class="nation">Qullasuyu</span> &mdash; where the Four Regions of the Inca are, slowly and deliberately, reassembling. <span class="nation">Wallmapu</span> and <span class="nation">Puelmapu</span> hold the far south as the Mapuche have always held it: unconquered. <span class="nation">Ta&iacute;no Neri</span> rules the great islands of the Caribbean, trading in five languages with the Indian entrep&ocirc;ts scattered through the smaller ones.</p>
+
+<!-- ============================================================ -->
+<h2 id="europe">XI. A fragmented West, a stronger East</h2>
+
+<p>Without colonial wealth and without the forcing-house of Atlantic competition, Western Europe never consolidated. There is no France; there are <span class="nation">Brittany</span>, <span class="nation">Aquitaine</span>, and <span class="nation">Burgundy</span>. There is no Spain; there are <span class="nation">Castella</span>, the <span class="nation">Aragonese Confederation</span>, and <span class="nation">Lusitania</span> &mdash; and Bilbao harbor under Laristan's flag, where the merchants keep their books in Armenian. There is no Britain; there are <span class="nation">Wessex</span>, <span class="nation">Northumbria</span>, <span class="nation">Alba</span>, <span class="nation">Cymru</span>, and <span class="nation">&Eacute;ire</span> &mdash; and Belfast, where the customs house works in Farsi. England never unified, never built a navy, never ruled a wave. And Iberia remembers what the rest of Europe only read about: Castella's plains were the western front of the War of All Shores, the one place on Earth where Indian field armies met in full strength &mdash; a war fought <em>through</em> Europe without ever being <em>about</em> it.</p>
+
+<p>The center and east consolidated instead. The <span class="nation">Kingdom of Bavaria</span> is the Holy Roman Empire that worked: eleven provinces from the North Sea to Milan, the great power of the European mainland, its dynasty holding old parchment claims on half its neighbors. The <span class="nation">Archduchy of Danubia</span> holds the middle Danube and the Dniester; the tsardoms &mdash; <span class="nation">Muscovy</span>, <span class="nation">Ingria</span>, <span class="nation">Bulgharia</span>, the <span class="nation">Volgaic</span> &mdash; divide the Russian lands and compete to gather them; <span class="nation">Sk&aring;neland</span> and <span class="nation">Kvenland</span> share the north with an old dream of Kalmar. On the Black Sea, the <span class="nation">Pontic Kingdom</span>, <span class="nation">Taurida</span>, and the <span class="nation">Hetmanate</span> country of <span class="nation">Sloboda</span> keep the wild fields contested, as they have always been.</p>
+
+<p>Europe in this world is what the subcontinent was in ours: rich in history, fractured in politics, and watched by greater powers &mdash; a place empires pass through on the way to somewhere else.</p>
+
+<!-- ============================================================ -->
+<h2 id="pacific">XII. The South China Sea</h2>
+
+<p>In our timeline the Caribbean was the cockpit of empires. Here, that sea is the South China Sea &mdash; the water where the Indian, Chinese, and island worlds grind against each other.</p>
+
+<p>Mainland southeast Asia is a lattice of Janapadas &mdash; princely states seeded centuries ago by Dhaka's merchant houses and grown into nations: <span class="nation">Siam</span>, <span class="nation">Khmer</span>, <span class="nation">Lan Xang</span>, <span class="nation">Viet</span>. The islands continue the pattern &mdash; <span class="nation">Malayu</span>, <span class="nation">Srivijaya</span>, <span class="nation">Majapahit</span>, <span class="nation">Nusantara</span> &mdash; nominally sovereign, Bengali-speaking in the ports, and caught in the gravity of the Indian powers, who hold the chokepoints themselves: Singapore under Karunadu, Brunei under Tamilakam, Dili under Serendib. Every strait has a landlord, and every landlord has rivals.</p>
+
+<p><span class="nation">Moko-uku</span> holds the spice islands; <span class="nation">Maguindanaon</span> and the <span class="nation">Lakanate of Tondo</span> divide the Philippine world; <span class="nation">Akitsushima</span> and <span class="nation">Tsukushi</span> share Japan between them, with Maharashtra's colony port at Okinawa anchoring the Ryukyu chain below &mdash; Marathi spoken on the sea road between Japan and the strait; <span class="nation rising">Korea</span> stands apart &mdash; armed, modern, and beholden to nobody. Further out, <span class="nation">Te Ika-a-M&#257;ui</span> and <span class="nation">Te Waipounamu</span> hold Aotearoa, and <span class="nation">Vanuanagara</span> the island chains &mdash; where the eastern trade routes finally thin into open ocean.</p>
+
+<!-- ============================================================ -->
+<h2 id="present">XIII. The present day &mdash; the war and the visitor</h2>
+
+<p>The world of 2026 is genuinely multipolar. No single superpower; a dozen great powers on five continents; nineteen nuclear states; a global economy resting on one load-bearing assumption. The assumption is called the <em>Pax Bharata</em>, and it has held since the Concord of Kala: the great Indian powers do not fight each other. They litigate, embargo, poach each other's clients, and race each other to orbit &mdash; but no Indian great power has fired on another in two hundred and nineteen years, and no army has crossed a border on the subcontinent itself in living memory or any memory before it. Every insurance contract, currency peg, and trading charter from the Azores to Brunei is priced accordingly.</p>
+
+<p>The assumption just broke.</p>
+
+<h3>The casus belli</h3>
+
+<p>New Delhi is a cosmopolitan city &mdash; the capital of the subcontinent's elder brother, drawing migrants from every Indian nation, Sauvirans most of all. Madhya-desa has always governed its migrant quarters with a firm hand; order is what Madhya-desa is <em>for</em>. When unrest flared &mdash; demonstrations, labor disputes, demands for protections Madhya-desa does not recognize &mdash; the security services did what they have always done. Curfews. Detentions. The quiet machinery of a state that believes dissent is disorder and disorder is the one thing it exists to prevent.</p>
+
+<p>What Delhi did not grasp is what the diaspora means to Lahore. Sauvira's founding doctrine &mdash; the principle its entire colonial world is built on &mdash; is that Sauvira protects its own, anywhere, behind any border. Footage of Sauviran nationals beaten in Delhi detention centers was not, to Lahore, a diplomatic incident. It was the doctrine's test case. Sauvira did not file a complaint. It sent the army. Sauviran soldiers now stand in New Delhi, and the two largest economies on Earth are shooting at each other.</p>
+
+<div class="pullquote">The tragedy is that both sides are acting from principle. Madhya-desa kept order in its own capital &mdash; the thing it has always done. Sauvira protected its citizens abroad &mdash; the thing it has always claimed the right to do. Neither doctrine had ever been tested against the other. Now both are breaking.</div>
+
+<p>Most of the world simply refused to believe it. The ruling theory in the markets of Lagos and the coffeehouses of Munich is still that the war is a hoax, or theatre &mdash; two giants staging a border pantomime to move markets. Respected analysts in Constantinople and Mexihcatlan have staked careers on de-escalation within the quarter. The realization now spreading &mdash; slowly, sickeningly &mdash; that it is real would be the most shocking news of the century.</p>
+
+<p>Would be. If an alien spacecraft had not just crash-landed.</p>
+
+<div class="separator">&middot; &middot; &middot;</div>
+
+<p>Two shocks in one season. One breaks the assumption that the great powers are permanent. The other breaks the assumption that humanity is alone. Together they have cracked open a world order frozen for centuries &mdash; and every nation on Earth is now deciding, quickly, what it intends to be in the order that comes next.</p>
+
+<!-- ============================================================ -->
+<h2 id="doctrine">XIV. The great debate</h2>
+
+<p>For generations the Indian powers have argued about what the Pax Bharata <em>is</em>. The war has turned the argument existential.</p>
+
+<p>At one pole stands <span class="nation indian">Sauvira</span>, the world police: the peace exists because someone enforces it, the sea-lanes are open because someone patrols them, and a Sauviran anywhere is Sauvira everywhere. <span class="nation indian">Tamilakam</span> and <span class="nation indian">Karunadu</span> hold a softer version of the same faith &mdash; they don't want to police the world, only to keep it open for business, but they know an open world is a maintained one.</p>
+
+<p>At the other pole stands <span class="nation conflict">Madhya-desa</span>, the big brother: the family's strength begins at home, the subcontinent's order is the world's foundation, and the siblings' gallivanting empires are a centuries-long distraction from the house they all share. It is a coherent philosophy, sincerely held &mdash; and it has not yet reckoned with the fact that the siblings long ago stopped needing the house. In Delhi's chancelleries there are those who dream past the war to a gathered family, and past the gathered family to something older: the wheel-turning sovereign of the Mauryan ideal, whose writ once ran from Persia to the delta and whose missions reached every court from Alexandria to Suvarnabhumi. The paternalist's logic, followed all the way down, is empire.</p>
+
+<p>Between the poles: <span class="nation indian">Maharashtra</span>, which regards both doctrines as roads to exactly the catastrophe now unfolding, and says so; <span class="nation indian">Kalinga</span>, torn over whether Djibouti &mdash; the indefensible, invaluable port &mdash; is an asset or a hostage; and every colonial capital from Mbabane to Sydney, quietly recalculating what its alliance with a warring mother country is worth.</p>
+
+<div class="pullquote">The war has forced the question the Pax Bharata was designed never to ask: what happens when the world police and the big brother turn on each other? Every chancellery on Earth is watching &mdash; not to pick a side, but to decide whether the framework still stands.</div>
+
+<!-- ============================================================ -->
+<h2 id="flashpoints">XV. Who rises, who falls</h2>
+
+<p>The twin shocks have sorted the world into three kinds of nations, though not everyone has noticed which kind they are.</p>
+
+<h3>The serene and the hollow</h3>
+
+<p>Some of the oldest powers look strongest and are weakest. The <span class="nation islamic">Abbasid Caliphate</span> is the most educated great power on Earth and among the least free; its calm is the calm of a house that has stopped arguing about whether it is on fire. <span class="nation indian">Andhrapatha</span> gleams &mdash; the finest universities, the fullest treasuries &mdash; above a divide between its magnates and everyone else that has stopped being an economy and become a fuse. <span class="nation">Serendib's</span> oligarchs rule a crowded island whose loyal clients are one bad season from renegotiation. These are civilizations whose foundations are crumbling beneath them &mdash; and whose rivals, and subjects, can smell it.</p>
+
+<h3>The turbulent and the sound</h3>
+
+<p>Other powers look chaotic and are anything but. <span class="nation rising">Oyo Mesi's</span> streets are loud and its institutions are granite; it has spent centuries locked out of a global order built on Indian sea-power, and it has noticed that the sea-power is now shooting at itself. <span class="nation rising">Mexihcatlan</span> ferments and builds in equal measure. <span class="nation rising">Korea</span> and <span class="nation rising">Kvenland</span> ride out storms that would sink older ships. These are the nations that were frustrated and divided over never having a seat at the table &mdash; and are realizing, in real time, that the table has empty chairs for the first time in living memory.</p>
+
+<h3>The one that waits</h3>
+
+<div class="power-card">
+  <div class="card-title" style="color: var(--accent)">Outremer-Kala</div>
+  <div class="card-body">The free haven at the center of the world's ocean &mdash; the island where the Concord was signed in 1807, declared free ground in perpetuity, and never anyone's territory since. A microstate of five million &eacute;migr&eacute;s from every nation on Earth, the richest population alive, speaking a creole with a dozen parents. No army, no arsenal, no alliances &mdash; only money, position, the moral authority of the peace's birthplace, and a candid official interest in three island chains held by three Indian powers currently occupied with a war and an alien ship. If the great powers can keep their island holdings, Outremer-Kala remains a curiosity. If they stumble &mdash; even briefly &mdash; the haven where the Pax was signed may outlive it. A future thalassocracy, or a future crater.</div>
+</div>
+
+<p>And so the world holds its breath. The old powers may yet reassert themselves &mdash; end the war, restore the Pax, rebuff every upstart from Lagos to Mbabane, and prove that the order of the last four centuries has centuries left in it. Or the war may widen, the colonial web unravel, the dynasty coasts declare for themselves, and a dozen nations locked out of the old order rise to build the new one. The Caliphate may hold, or the Fitna may come. Bavaria may finally reach for the crowns of the north; the Kurultai may ride once more; the wheel may turn in Delhi after all.</p>
+
+<p>The only certainty is the one thing every language on Earth now has a word for: the ship in the crater, and the question it brought down with it.</p>
+
+<div class="pullquote">The world looks stable. It is not. It is balanced &mdash; which is a different thing, and a briefer one.</div>
+
+<footer>
+  <p>The Mongol Divergence &mdash; a history of the Pax Bharata world. Companion to the design document; written July 2026.</p>
+</footer>
+
+</div>

@@ -1,0 +1,2292 @@
+[
+  {
+    "friendlyName": "The Kalmar Union",
+    "dataName": "RW7_Project_USwedenCoalition",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 12000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "Vanga kwa Kintinu kia Kongo",
+    "dataName": "RW7_Project_UKinshasaUnion",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "\u00ccgb\u00e9ga Olokunb\u016bmi",
+    "dataName": "RW7_Project_UGrandNigerianUnion",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 15000,
+    "prereqs": [
+      "GreatNations",
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "Syria Republic",
+    "dataName": "RW7_Project_BSyriaRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "Hijaz Republic",
+    "dataName": "RW7_Project_BHijazRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 1500,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "Katowice Republic",
+    "dataName": "RW7_Project_BKatowiceRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "Free Kenya",
+    "dataName": "RW7_Project_BFreeKenya",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 1000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "dataName": "Project_AfricanIndependenceMovements",
+    "requiresNation": "NGA"
+  },
+  {
+    "dataName": "Project_AmericanLiberationMovements",
+    "requiresNation": "CAN"
+  },
+  {
+    "dataName": "Project_Asia-PacificRegionalistMovements",
+    "requiresNation": "IRN"
+  },
+  {
+    "dataName": "Project_CelticLeague",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_CentralAsianUnion",
+    "requiresNation": "UZB"
+  },
+  {
+    "dataName": "Project_DissolutionofRussia",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_EndofAmerica",
+    "requiresNation": "USA"
+  },
+  {
+    "dataName": "Project_EndofChina",
+    "requiresNation": "CHN"
+  },
+  {
+    "dataName": "Project_EndofIndia",
+    "requiresNation": "IND"
+  },
+  {
+    "dataName": "Project_EuropeAscendant",
+    "requiresNation": "TUR"
+  },
+  {
+    "dataName": "Project_EuropeanAutonomyMovements",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_EuropeanDecolonization",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_ForwardRussia",
+    "requiresNation": "USA"
+  },
+  {
+    "dataName": "Project_FreistaatConfederation",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_GranColombia",
+    "requiresNation": "PER"
+  },
+  {
+    "dataName": "Project_GreatAfricanUnion",
+    "requiresNation": "EGY"
+  },
+  {
+    "dataName": "Project_GreatEuropa",
+    "requiresNation": "AZE"
+  },
+  {
+    "dataName": "Project_GreaterIntermarium",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_GreaterPanAsia",
+    "requiresNation": "JPN"
+  },
+  {
+    "dataName": "Project_HungarianIrredentism",
+    "requiresNation": "BSM"
+  },
+  {
+    "dataName": "Project_NordicFederation",
+    "requiresNation": "ISL"
+  },
+  {
+    "dataName": "Project_RegionalAfricanUnions",
+    "requiresNation": "COR"
+  },
+  {
+    "dataName": "Project_RestoredWarsawPact",
+    "requiresNation": "GBR"
+  },
+  {
+    "dataName": "Project_SlavicCommonwealth",
+    "requiresNation": "SER"
+  },
+  {
+    "dataName": "Project_TheCaliphate",
+    "requiresNation": "YMS"
+  },
+  {
+    "dataName": "Project_UnitedIndosphere",
+    "requiresNation": "IDN"
+  },
+  {
+    "friendlyName": "The Colonial Reunion",
+    "dataName": "RW7_Project_ColonialReunion",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Dhaka Empire",
+    "dataName": "RW7_Project_DhakaEmpire",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4500,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "Eranshahr",
+    "dataName": "RW7_Project_Eranshahr",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "The Mandate of Heaven",
+    "dataName": "RW7_Project_MandateOfHeaven",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "Renovatio Imperii",
+    "dataName": "RW7_Project_RenovatioImperii",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "Hispania Restored",
+    "dataName": "RW7_Project_HispaniaRestored",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2000,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "The Carthaginian Dream",
+    "dataName": "RW7_Project_CarthaginianDream",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "Tawantinsuyu Rises",
+    "dataName": "RW7_Project_Tawantinsuyu",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2000,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "The Pax Bharata",
+    "dataName": "RW7_Project_PaxBharata",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The Chakravartin",
+    "dataName": "RW7_Project_Chakravartin",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 12000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_PaxBharata"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "Nao Sauvira Reunion",
+    "dataName": "RW7_Project_SauviraReunion",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Dynasty Coasts",
+    "dataName": "RW7_Project_DynastyCoasts",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements",
+      "RW7_Project_ColonialReunion"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "The Unconquered Tide",
+    "dataName": "RW7_Project_UnconqueredTide",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Golden Horde Rides West",
+    "dataName": "RW7_Project_JochiWest",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The K\u00f6lgen Mandate",
+    "dataName": "RW7_Project_KolgenMandate",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "The Timurid Dream",
+    "dataName": "RW7_Project_ChagataiDream",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "The Bering Crossing",
+    "dataName": "RW7_Project_GelejianCrossing",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "The Northern Crowns",
+    "dataName": "RW7_Project_NorthernCrowns",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 8000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_DoctrineROA"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "Renovatio Orientis",
+    "dataName": "RW7_Project_RenovatioOrientis",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "UnityMovements",
+      "RW7_Project_RenovatioImperii"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "Renovatio Occidentis",
+    "dataName": "RW7_Project_RenovatioOccidentis",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_RenovatioOrientis"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "Imperium Sine Fine",
+    "dataName": "RW7_Project_ImperiumSineFine",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 16000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_RenovatioOccidentis"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "The Eagle Throne",
+    "dataName": "RW7_Project_EagleThrone",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The Sixth Sun",
+    "dataName": "RW7_Project_SixthSun",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_EagleThrone"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Head of the Snake",
+    "dataName": "RW7_Project_HeadOfTheSnake",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Gathering of the Lands",
+    "dataName": "RW7_Project_GatheringOfTheLands",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "Vserossiyskaya Derzhava",
+    "dataName": "RW7_Project_VserossiyskayaDerzhava",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4500,
+    "prereqs": [
+      "UnityMovements",
+      "RW7_Project_GatheringOfTheLands"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Yoke Breaks",
+    "dataName": "RW7_Project_YokeBreaks",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "FallofEmpires",
+      "RW7_Project_VserossiyskayaDerzhava"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The High Kingship of the Isles",
+    "dataName": "RW7_Project_HighKingship",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "Cemanahuac",
+    "dataName": "RW7_Project_Cemanahuac",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 16000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_SixthSun"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "All Under Heaven",
+    "dataName": "RW7_Project_AllUnderHeaven",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 9000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_MandateOfHeaven"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "The Pillars of Herakles",
+    "dataName": "RW7_Project_PillarsOfHerakles",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 8000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_HispaniaRestored"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "Te Moana-nui-a-Kiwa",
+    "dataName": "RW7_Project_TeMoananui",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4500,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "The Lion and the Mountain",
+    "dataName": "RW7_Project_LionAndMountain",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "The Scramble Reversed",
+    "dataName": "RW7_Project_ScrambleReversed",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 6000,
+    "prereqs": [
+      "IndependenceMovements",
+      "RW7_Project_LionAndMountain"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "Umoja",
+    "dataName": "RW7_Project_Umoja",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 10000,
+    "prereqs": [
+      "FallofEmpires",
+      "RW7_Project_ScrambleReversed",
+      "RW7_Project_UnconqueredTide"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The Kala Charter",
+    "dataName": "RW7_Project_KalaCharter",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Chain of Harbors",
+    "dataName": "RW7_Project_ChainOfHarbors",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "UnityMovements",
+      "RW7_Project_KalaCharter"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Sea of the Taino",
+    "dataName": "RW7_Project_TainoSea",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2000,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "The Antilles Entire",
+    "dataName": "RW7_Project_AntillesEntire",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "IndependenceMovements",
+      "RW7_Project_TainoSea"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The World Entrep\u00f4t",
+    "dataName": "RW7_Project_WorldEntrepot",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 10000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_ChainOfHarbors"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Ten Thousand Islands",
+    "dataName": "RW7_Project_TenThousandIslands",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 16000,
+    "prereqs": [
+      "GreatNations",
+      "RW7_Project_WorldEntrepot"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "The Amazigh Dawn",
+    "dataName": "RW7_Project_DoctrineAlgeria",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Gedrosian Answer",
+    "dataName": "RW7_Project_DoctrineBaluchistanRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "The Crown of Aragon",
+    "dataName": "RW7_Project_DoctrineBarcelona",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "The Northern Marches",
+    "dataName": "RW7_Project_DoctrineBeijing",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "The Kgotla's Reach",
+    "dataName": "RW7_Project_DoctrineBotswanaRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "The Two Lands",
+    "dataName": "RW7_Project_DoctrineCairo",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "The Golden Shore",
+    "dataName": "RW7_Project_DoctrineCaliforniaCommonwealth",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "The Fang Ascendancy",
+    "dataName": "RW7_Project_DoctrineCameroonRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "The Golden Mandala",
+    "dataName": "RW7_Project_DoctrineChiangMai",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The Seven Council Fires",
+    "dataName": "RW7_Project_DoctrineDakota",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Barbary Ascendancy",
+    "dataName": "RW7_Project_DoctrineDarfurRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Wild Fields",
+    "dataName": "RW7_Project_DoctrineDonetsk",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "The Northern Crossroads",
+    "dataName": "RW7_Project_DoctrineFinland",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Hexi Corridor",
+    "dataName": "RW7_Project_DoctrineFreeGansu",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "Goujian's Patience",
+    "dataName": "RW7_Project_DoctrineFreeHangzhou",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "The Hetmanate",
+    "dataName": "RW7_Project_DoctrineFreeKharkiv",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "Kongo Reborn",
+    "dataName": "RW7_Project_DoctrineFreeKinshasa",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "The Min Maritime League",
+    "dataName": "RW7_Project_DoctrineGreaterFujian",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "The Solanki Tide",
+    "dataName": "RW7_Project_DoctrineGreaterGuinea",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "The Danubian Concert",
+    "dataName": "RW7_Project_DoctrineGreaterKievUnion",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "The Morning Star Rises",
+    "dataName": "RW7_Project_DoctrineGreaterRockyMountains",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "The Don Ascendancy",
+    "dataName": "RW7_Project_DoctrineGreaterRostovskaya",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "A Million Elephants",
+    "dataName": "RW7_Project_DoctrineGreaterYunnan",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Southern Yue",
+    "dataName": "RW7_Project_DoctrineGuangzhouCommonwealth",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Vijayanagara Coast",
+    "dataName": "RW7_Project_DoctrineIvoryCoast",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "The Spice Road",
+    "dataName": "RW7_Project_DoctrineLesserSundas",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Lozi Ascendancy",
+    "dataName": "RW7_Project_DoctrineLubumbashiKhanate",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Kushite Return",
+    "dataName": "RW7_Project_DoctrineLuxorDirectorate",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "Beyond the Passes",
+    "dataName": "RW7_Project_DoctrineNanningRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "The Armorican Crown",
+    "dataName": "RW7_Project_DoctrineNantes",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "The Desert Corridor",
+    "dataName": "RW7_Project_DoctrineNorthernChad",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "Lords of the Pampas",
+    "dataName": "RW7_Project_DoctrinePampas",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "Proclamatio Magni Imperii Sarmatici",
+    "dataName": "RW7_Project_DoctrinePoland",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "The Lion Throne",
+    "dataName": "RW7_Project_DoctrineRLK",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "The Wittelsbach Inheritance",
+    "dataName": "RW7_Project_DoctrineROA",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The Three Fires",
+    "dataName": "RW7_Project_DoctrineRustBelt",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Kitara Restoration",
+    "dataName": "RW7_Project_DoctrineSAH",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Azande Imperium",
+    "dataName": "RW7_Project_DoctrineSAK",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 8000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "The Huai Compact",
+    "dataName": "RW7_Project_DoctrineSCH",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Principal People",
+    "dataName": "RW7_Project_DoctrineSCT",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Tupi Ascendancy",
+    "dataName": "RW7_Project_DoctrineSaoPauloRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "The Jolof Resurgence",
+    "dataName": "RW7_Project_DoctrineSenegambia",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "The Wu Hegemony",
+    "dataName": "RW7_Project_DoctrineShanghaiLeague",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "The Sound Tolls",
+    "dataName": "RW7_Project_DoctrineSweden",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "The Fires of Atropatene",
+    "dataName": "RW7_Project_DoctrineTabrizRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROS"
+  },
+  {
+    "friendlyName": "The Gulf Compact",
+    "dataName": "RW7_Project_DoctrineTexasSultanate",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RWP"
+  },
+  {
+    "friendlyName": "The Occitan Court",
+    "dataName": "RW7_Project_DoctrineToulouse",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "Chardikala Raj",
+    "dataName": "RW7_Project_DoctrineUnionofJohannesburg",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 8000,
+    "prereqs": [
+      "GreatNations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 3,
+    "maxUnlockChance": 30,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The River Sea",
+    "dataName": "RW7_Project_DoctrineUnitedBelem",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Ba-Shu Compact",
+    "dataName": "RW7_Project_DoctrineUnitedChongqing",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "Pelasyik\u00f3 Imperium",
+    "dataName": "RW7_Project_DoctrineUnitedGreece",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "Angkor Restored",
+    "dataName": "RW7_Project_DoctrineUnitedHoChiMinhCity",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Phoenix of the South",
+    "dataName": "RW7_Project_DoctrineUnitedHunan",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Atacama Compact",
+    "dataName": "RW7_Project_DoctrineValparaiso",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "Ateronhto'k\u00f3wa",
+    "dataName": "RW7_Project_DoctrineYork",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 4000,
+    "prereqs": [
+      "UnityMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  },
+  {
+    "friendlyName": "The Adriatic League",
+    "dataName": "RW7_Project_DoctrineZagrebCommonwealth",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "RNE"
+  },
+  {
+    "friendlyName": "Great Zimbabwe",
+    "dataName": "RW7_Project_DoctrineZimbabweRepublic",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 2500,
+    "prereqs": [
+      "ArrivalInternationalRelations"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 0,
+    "deltaUnlockChance": 5,
+    "maxUnlockChance": 50,
+    "resourcesGranted": [],
+    "requiresNation": "ROA"
+  },
+  {
+    "friendlyName": "The Colonial Dawn",
+    "dataName": "RW7_Project_ColonialDawn",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "RYU"
+  },
+  {
+    "friendlyName": "The Continental Divides",
+    "dataName": "RW7_Project_ContinentalDivides",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "SAH"
+  },
+  {
+    "friendlyName": "The Dominions Crack",
+    "dataName": "RW7_Project_DominionsCrack",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "SAK"
+  },
+  {
+    "friendlyName": "The Khanates Fray",
+    "dataName": "RW7_Project_KhanatesFray",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 3000,
+    "prereqs": [
+      "IndependenceMovements"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "SCH"
+  },
+  {
+    "friendlyName": "The Yasa Breaks",
+    "dataName": "RW7_Project_YasaBreaks",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "SCT"
+  },
+  {
+    "friendlyName": "The Concert Collapses",
+    "dataName": "RW7_Project_ConcertCollapses",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "SAO"
+  },
+  {
+    "friendlyName": "The Fitna",
+    "dataName": "RW7_Project_TheFitna",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "RLK"
+  },
+  {
+    "friendlyName": "The Ganges Parts",
+    "dataName": "RW7_Project_GangesParts",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "RMO"
+  },
+  {
+    "friendlyName": "The Islands Remember",
+    "dataName": "RW7_Project_IslandsRemember",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 5000,
+    "prereqs": [
+      "FallofEmpires"
+    ],
+    "oneTimeGlobally": true,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 10,
+    "deltaUnlockChance": 10,
+    "maxUnlockChance": 90,
+    "resourcesGranted": [],
+    "requiresNation": "RNA"
+  }
+]

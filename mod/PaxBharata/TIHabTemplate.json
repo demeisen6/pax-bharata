@@ -1,0 +1,173 @@
+[
+  {
+    "dataName": "RW7_AkashaGhat",
+    "friendlyName": "Akasha Ghat",
+    "habType": "Station",
+    "tier": 1,
+    "habSite": "",
+    "alien": false,
+    "orbitTemplateName": "LowEarthOrbit1",
+    "sectors": [
+      {
+        "faction": "EscapeCouncil",
+        "habModuleNames": [
+          "PlatformCore",
+          "",
+          "SolarCollector",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "dataName": "RW7_BaytAlHikma",
+    "friendlyName": "Bayt al-Hikma",
+    "habType": "Station",
+    "tier": 1,
+    "habSite": "",
+    "alien": false,
+    "orbitTemplateName": "LowEarthOrbit3",
+    "sectors": [
+      {
+        "faction": "CooperateCouncil",
+        "habModuleNames": [
+          "PlatformCore",
+          "",
+          "SolarCollector",
+          "SpaceScienceLab",
+          "SolarCollector"
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "dataName": "RW7_Porphyra",
+    "friendlyName": "The Porphyra",
+    "habType": "Station",
+    "tier": 1,
+    "habSite": "",
+    "alien": false,
+    "orbitTemplateName": "LowEarthOrbit4",
+    "sectors": [
+      {
+        "faction": "ExploitCouncil",
+        "habModuleNames": [
+          "PlatformCore",
+          "",
+          "SolarCollector",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "faction": "",
+        "habModuleNames": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+]

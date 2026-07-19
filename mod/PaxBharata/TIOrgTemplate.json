@@ -1,0 +1,6358 @@
+[
+  {
+    "dataName": "RW7_OrgAmericanMafia",
+    "friendlyName": "Faridabad Syndicate",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Faridabad",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 120,
+    "costInfluence": 120,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 50,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "HostileTakeover"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/AmericanMafia"
+  },
+  {
+    "dataName": "RW7_OrgCamorra",
+    "friendlyName": "Rhomaian Mafia",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Istanbul",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 120,
+    "costInfluence": 80,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 40,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/Camorra"
+  },
+  {
+    "dataName": "RW7_OrgCentralIntelligenceAgency",
+    "friendlyName": "Sauviran Signals Intelligence Agency",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1947,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist",
+      "Exploit"
+    ],
+    "costInfluence": 300,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -400,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 4,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 4,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "Coup",
+      "Purge"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/CIA"
+  },
+  {
+    "dataName": "RW7_OrgCyberspaceAdministrationofChina",
+    "friendlyName": "Madhyadeshi Central Intelligence Directorate",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2014,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -105,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 3,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceAdministration": 100,
+    "administration": 3,
+    "chanceKnowledgeBonus": 100,
+    "knowledgeBonus": 0.02,
+    "chanceUnityBonus": 100,
+    "unityBonus": 0.05,
+    "techBonuses": [],
+    "iconResource": "orglogos/CyberspaceAdministrationofChina"
+  },
+  {
+    "dataName": "RW7_OrgDefenseAdvancedResearchProjectsAgency",
+    "friendlyName": "Sauviran Academy of Sciences",
+    "orgType": "Research",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 4,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -95,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 40,
+    "projectsGranted": 1,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.08,
+    "techBonuses": [
+      {
+        "category": "MilitaryScience",
+        "bonus": 0.15
+      }
+    ],
+    "iconResource": "orglogos/DARPA"
+  },
+  {
+    "dataName": "RW7_OrgDeltaForce",
+    "friendlyName": "Sauviran Central Intelligence Directorate",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeOps": 100,
+    "incomeOps": 4,
+    "chanceCommand": 100,
+    "command": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Extract",
+      "Detain",
+      "AssaultAlienAsset"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/DeltaForce"
+  },
+  {
+    "dataName": "RW7_OrgFederalBureauofInvestigation",
+    "friendlyName": "Sauviran Federal Investigation Bureau",
+    "orgType": "Investigations",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 280,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -250,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 4,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/FBI"
+  },
+  {
+    "dataName": "RW7_OrgFederalSecurityService",
+    "friendlyName": "Mexica Federal Investigation Bureau",
+    "orgType": "Investigations",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -150,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceAdministration": 100,
+    "administration": 6,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/FSS"
+  },
+  {
+    "dataName": "RW7_OrgGoldenTriangleCartel",
+    "friendlyName": "The Oceti Sakowin Cartel",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Dakota",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 100,
+    "costInfluence": 100,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 60,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.06,
+    "techBonuses": [],
+    "grantsMarked": true,
+    "iconResource": "orglogos/GoldenTriangleCartel"
+  },
+  {
+    "dataName": "RW7_OrgHefeiComprehensiveNationalScienceCenter",
+    "friendlyName": "Madhyadeshi Academy of Sciences",
+    "orgType": "Research",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Bihar",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2017,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -150,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 20,
+    "chanceScience": 100,
+    "science": 3,
+    "chanceEconomyBonus": 100,
+    "economyBonus": 0.03,
+    "chanceKnowledgeBonus": 100,
+    "knowledgeBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "Information",
+        "bonus": 0.1
+      }
+    ],
+    "iconResource": "orglogos/HefeiComprehensiveNationalScienceCenter"
+  },
+  {
+    "dataName": "RW7_OrgHezbollah",
+    "friendlyName": "Jochid State Security Bureau",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Urals",
+    "randomized": false,
+    "takeoverDefense": 4,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Escape",
+      "Appease"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceSecurity": 100,
+    "security": 3,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "SabotageFacilities",
+      "AssaultAlienAsset"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/Hezbollah"
+  },
+  {
+    "dataName": "RW7_OrgHongKongTriad",
+    "friendlyName": "Madhyadeshi Mafia",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 100,
+    "costInfluence": 120,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 45,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.04,
+    "techBonuses": [],
+    "grantsMarked": true,
+    "iconResource": "orglogos/HongKongTriad"
+  },
+  {
+    "dataName": "RW7_OrgIntelligenceBureau",
+    "friendlyName": "Majapahit Central Intelligence Directorate",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Java",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1887,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -40,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 3,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/IntelligenceBureau"
+  },
+  {
+    "dataName": "RW7_OrgJetPropulsionLaboratory",
+    "friendlyName": "Sauviran Academy of Sciences II",
+    "orgType": "Research",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Faridabad",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Cooperate"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -45,
+    "chanceIncomeMissionControl": 100,
+    "incomeMissionControl": 1,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 40,
+    "projectsGranted": 1,
+    "chanceScience": 100,
+    "science": 2,
+    "chanceKnowledgeBonus": 100,
+    "knowledgeBonus": 0.01,
+    "chanceSpaceDevBonus": 100,
+    "spaceDevBonus": 0.02,
+    "chanceSpaceflightBonus": 100,
+    "spaceflightBonus": 0.03,
+    "techBonuses": [
+      {
+        "category": "SpaceScience",
+        "bonus": 0.15
+      }
+    ],
+    "iconResource": "orglogos/JPL"
+  },
+  {
+    "dataName": "RW7_OrgLaCosaNostra",
+    "friendlyName": "Istanbul Syndicate",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Istanbul",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 80,
+    "costInfluence": 80,
+    "costOps": 5,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 45,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "HostileTakeover",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/CosaNostra"
+  },
+  {
+    "dataName": "RW7_OrgLawrenceLivermoreNationalLaboratory",
+    "friendlyName": "Sauviran Academy of Sciences III",
+    "orgType": "Research",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Faridabad",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -41,
+    "chanceIncomeOps": 0,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 35,
+    "projectsGranted": 1,
+    "chanceScience": 100,
+    "science": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.1
+      }
+    ],
+    "iconResource": "orglogos/LLNL"
+  },
+  {
+    "dataName": "RW7_OrgLosAlamosNationalLaboratory",
+    "friendlyName": "Sauviran Academy of Sciences IIII",
+    "orgType": "Research",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_CaboVerde",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -81,
+    "chanceIncomeOps": 0,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 35,
+    "projectsGranted": 1,
+    "chanceScience": 100,
+    "science": 3,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.1
+      }
+    ],
+    "iconResource": "orglogos/lanl"
+  },
+  {
+    "dataName": "RW7_OrgMainIntelligenceDirectorate",
+    "friendlyName": "Mexica Signals Intelligence Agency",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -50,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 4,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 3,
+    "chanceAdministration": 100,
+    "administration": 6,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.01,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "Coup",
+      "Purge"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/MID"
+  },
+  {
+    "dataName": "RW7_OrgMinistryofStateSecurity",
+    "friendlyName": "Madhyadeshi Signals Intelligence Agency",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 300,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -220,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 4,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 3,
+    "chanceAdministration": 100,
+    "administration": 6,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceSecurity": 100,
+    "security": 3,
+    "chanceUnityBonus": 100,
+    "unityBonus": 0.03,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "Detain",
+      "DetectCouncilActivity",
+      "Crackdown"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/MinistryofStateSecurity"
+  },
+  {
+    "dataName": "RW7_OrgMossad",
+    "friendlyName": "Huainan Secret Service",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Anhui",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "restricted": [
+      "Submit"
+    ],
+    "costInfluence": 300,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -75,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 3,
+    "chanceSecurity": 100,
+    "security": 3,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "Coup",
+      "Crackdown"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/Mossad"
+  },
+  {
+    "dataName": "RW7_OrgNationalGeospatialIntelligenceAgency",
+    "friendlyName": "Sauviran Space Agency",
+    "orgType": "Aerospace",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -140,
+    "chanceIncomeOps": 0,
+    "chanceIncomeMissionControl": 100,
+    "incomeMissionControl": 3,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 10,
+    "chanceCommand": 100,
+    "command": 3,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceScience": 100,
+    "science": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceEnvironmentBonus": 100,
+    "environmentBonus": 0.03,
+    "chanceMCBonus": 100,
+    "MCBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "InformationScience",
+        "bonus": 0.02
+      }
+    ],
+    "missionsGrantedNames": [
+      "DetectCouncilActivity",
+      "Stabilize"
+    ],
+    "iconResource": "orglogos/NGIA"
+  },
+  {
+    "dataName": "RW7_OrgNationalReconnaissanceOffice",
+    "friendlyName": "Sauviran Space Agency II",
+    "orgType": "Aerospace",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -200,
+    "chanceIncomeOps": 0,
+    "chanceIncomeBoost": 100,
+    "incomeBoost": 0.3,
+    "chanceIncomeMissionControl": 100,
+    "incomeMissionControl": 2,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceMCBonus": 100,
+    "MCBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "SpaceScience",
+        "bonus": 0.02
+      }
+    ],
+    "missionsGrantedNames": [
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/NRO"
+  },
+  {
+    "dataName": "RW7_OrgNationalSecurityAgency",
+    "friendlyName": "Sauviran Federal Investigation Bureau II",
+    "orgType": "Investigations",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist",
+      "Exploit"
+    ],
+    "costInfluence": 300,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -250,
+    "chanceIncomeOps": 0,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "InformationScience",
+        "bonus": 0.05
+      }
+    ],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "SabotageProject"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/NSA"
+  },
+  {
+    "dataName": "RW7_OrgNedrangheta",
+    "friendlyName": "The Istanbul Cartel",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Istanbul",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 100,
+    "costInfluence": 80,
+    "costOps": 5,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 60,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.05,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "HostileTakeover"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/Nedrangheta"
+  },
+  {
+    "dataName": "RW7_OrgOrgKS2400",
+    "friendlyName": "Tamil Heavy Industries",
+    "orgType": "Engineering",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Bangalore",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredTechName": "ArrivalEconomics",
+    "affinities": [
+      "Resist",
+      "Destroy",
+      "Cooperate"
+    ],
+    "restricted": [
+      "Appease",
+      "Exploit",
+      "Submit"
+    ],
+    "costMoney": 1000,
+    "randCostMoney": 500,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 20,
+    "randIncomeResearch": 10,
+    "projectsGranted": 2,
+    "chanceAdministration": 100,
+    "administration": 4,
+    "randAdministration": 1,
+    "chanceScience": 100,
+    "science": 2,
+    "techBonuses": [
+      {
+        "category": "Materials",
+        "bonus": 0.03
+      }
+    ],
+    "missionsGrantedNames": [
+      "SabotageProject"
+    ],
+    "iconResource": "orglogos/Formosa_Industries"
+  },
+  {
+    "dataName": "RW7_OrgQudsForce",
+    "friendlyName": "Haudenosaunee State Security Bureau",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_NewYork",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "restricted": [
+      "Escape",
+      "Appease"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 2,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/QudsForce"
+  },
+  {
+    "dataName": "RW7_OrgResearchandAnalysisWing",
+    "friendlyName": "Majapahit State Security Bureau",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Java",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -25,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "DefendInterests",
+      "Assassinate"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/IndianResearchAnalysisWing"
+  },
+  {
+    "dataName": "RW7_OrgSEALTeamSix",
+    "friendlyName": "Sauviran State Security Bureau",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeOps": 100,
+    "incomeOps": 4,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Extract",
+      "Detain",
+      "AssaultAlienAsset"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SealTeam6"
+  },
+  {
+    "dataName": "RW7_OrgSandiaNationalLaboratories",
+    "friendlyName": "Sauviran Academy of Sciences IIIII",
+    "orgType": "Research",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_WestIndies",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -100,
+    "chanceIncomeOps": 0,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 35,
+    "projectsGranted": 1,
+    "chanceScience": 100,
+    "science": 3,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.02,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.1
+      }
+    ],
+    "iconResource": "orglogos/SandiaNationalLaboratories"
+  },
+  {
+    "dataName": "RW7_OrgSecretIntelligenceService",
+    "friendlyName": "Bavarian Central Intelligence Directorate",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Bavaria",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -50,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 3,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Stabilize"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/MI6"
+  },
+  {
+    "dataName": "RW7_OrgSecretService",
+    "friendlyName": "Sauvira Secret Service",
+    "orgType": "Security",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -62,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 4,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "Protect",
+      "DefendInterests"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/USSS"
+  },
+  {
+    "dataName": "RW7_OrgSinaloaCartel",
+    "friendlyName": "Maguindanaon Mafia",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_ViasyasyMindanao",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Escape"
+    ],
+    "costMoney": 80,
+    "costInfluence": 100,
+    "costOps": 20,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 80,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.05,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SinaloaCartel"
+  },
+  {
+    "dataName": "RW7_OrgSolntsevskayaBratva",
+    "friendlyName": "Mexica Mafia",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 200,
+    "costInfluence": 200,
+    "costOps": 20,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 90,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 5,
+    "chanceSecurity": 100,
+    "security": 3,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.06,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SolntsevskayaBratva"
+  },
+  {
+    "dataName": "RW7_OrgUnitedFrontWorkDepartment",
+    "friendlyName": "Madhyadeshi State Media Group",
+    "orgType": "Influence",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "takeoverDefense": 4,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1942,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -40,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 4,
+    "chancePersuasion": 100,
+    "persuasion": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Propaganda",
+      "GainInfluence",
+      "DefendInterests"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/UnitedFrontWorkDepartment"
+  },
+  {
+    "dataName": "RW7_OrgYamagachigumi",
+    "friendlyName": "Oyo Mafia",
+    "orgType": "Criminal",
+    "tier": 3,
+    "homeRegionMapTemplateName": "map_Lagos",
+    "randomized": false,
+    "takeoverDefense": -3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 150,
+    "costInfluence": 80,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 90,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceEconomyBonus": 50,
+    "economyBonus": 0.02,
+    "chanceWelfareBonus": 50,
+    "welfareBonus": 0.02,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "HostileTakeover",
+      "Stabilize"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/Yamagachi-gumi"
+  },
+  {
+    "dataName": "RW7_Org10thUSSpecialForcesGroup",
+    "friendlyName": "Sauviran Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_SaoTomePrincipe",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/10SFG"
+  },
+  {
+    "dataName": "RW7_Org1stUSSpecialForcesGroup",
+    "friendlyName": "Sauviran Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Peshawar",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/1SFG"
+  },
+  {
+    "dataName": "RW7_Org3rdUSSpecialForcesGroup",
+    "friendlyName": "Sauvira Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/3SFG"
+  },
+  {
+    "dataName": "RW7_Org5thUSSpecialForcesGroup",
+    "friendlyName": "Faridabad Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Faridabad",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/5SFG"
+  },
+  {
+    "dataName": "RW7_Org7thUSSpecialForcesGroup",
+    "friendlyName": "Sindh Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Sindh",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/7SFG"
+  },
+  {
+    "dataName": "RW7_Org9Para",
+    "friendlyName": "Majapahit Janapada Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Java",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/9PARA"
+  },
+  {
+    "dataName": "RW7_OrgAgencenationalederenseignements",
+    "friendlyName": "Almaty Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Almaty",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1997,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 165,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/Agencenationalederenseignements"
+  },
+  {
+    "dataName": "RW7_OrgAgenziaInformazionieSicurezzaEsterna",
+    "friendlyName": "Istanbul Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Istanbul",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2007,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -15,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/AgenziaInformazionieSicurezzaEsterna"
+  },
+  {
+    "dataName": "RW7_OrgAirForceResearchLaboratory",
+    "friendlyName": "Cabo Verde Institute of Technology",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_CaboVerde",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -65,
+    "chanceIncomeOps": 0,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 25,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceMilitaryBonus": 100,
+    "militaryBonus": 0.2,
+    "chanceSpaceDevBonus": 100,
+    "spaceDevBonus": 0.02,
+    "chanceSpaceflightBonus": 100,
+    "spaceflightBonus": 0.01,
+    "chanceMCBonus": 100,
+    "MCBonus": 0.01,
+    "techBonuses": [
+      {
+        "category": "MilitaryScience",
+        "bonus": 0.08
+      }
+    ],
+    "iconResource": "orglogos/AirForceResearchLaboratory"
+  },
+  {
+    "dataName": "RW7_OrgAirForceSpecialOperationsCommand",
+    "friendlyName": "Peshawar Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Peshawar",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -4,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract"
+    ],
+    "iconResource": "orglogos/AFSOC"
+  },
+  {
+    "dataName": "RW7_OrgAlQaida",
+    "friendlyName": "Shenandoah Black Market",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Shenandoah",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Sociopath"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "restricted": [
+      "Resist",
+      "Cooperate",
+      "Escape",
+      "Appease"
+    ],
+    "costMoney": 25,
+    "costInfluence": 100,
+    "costOps": 10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "SabotageFacilities"
+    ],
+    "iconResource": "orglogos/alQaida"
+  },
+  {
+    "dataName": "RW7_OrgArmadeiCarabinieri",
+    "friendlyName": "Istanbul Criminal Directorate",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Istanbul",
+    "randomized": false,
+    "takeoverDefense": 4,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 75,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "Stabilize"
+    ],
+    "iconResource": "orglogos/Carabinieri"
+  },
+  {
+    "dataName": "RW7_OrgBadanIntelijenNegara",
+    "friendlyName": "Orinoco-Magdalena Republic Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Colombia",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/BadanIntelijenNegara"
+  },
+  {
+    "dataName": "RW7_OrgBratskiKrug",
+    "friendlyName": "Mexico City Black Market",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 150,
+    "costInfluence": 50,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 25,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.05,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate"
+    ],
+    "iconResource": "orglogos/BratskiKrug"
+  },
+  {
+    "dataName": "RW7_OrgBrazilianIntelligenceAgency",
+    "friendlyName": "Korean Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_SouthKorea",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1999,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -40,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/BrazilianIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgBrookhavenNationalLaboratory",
+    "friendlyName": "Faridabad Institute of Technology",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Faridabad",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Cooperate"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -14,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 20,
+    "chanceScience": 100,
+    "science": 1,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.05
+      }
+    ],
+    "iconResource": "orglogos/BrookhavenNationalLaboratory"
+  },
+  {
+    "dataName": "RW7_OrgBundesamtfurVerfassungsschutz",
+    "friendlyName": "Tongva Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_California",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1950,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/BundesamtfurVerfassungsschutz"
+  },
+  {
+    "dataName": "RW7_OrgBundesnachrichtendienst",
+    "friendlyName": "Tovaangar Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_California",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -30,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/Bundesnachrichtendienst"
+  },
+  {
+    "dataName": "RW7_OrgCanadianSecurityIntelligenceService",
+    "friendlyName": "Azande Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Mekelle",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist",
+      "Cooperate"
+    ],
+    "costInfluence": 70,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -15,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/CSIS"
+  },
+  {
+    "dataName": "RW7_OrgCentroNacionaldeInteligencia",
+    "friendlyName": "Guangzhou Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Guangzhou",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2002,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 220,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/CentroNacionaldeInteligencia"
+  },
+  {
+    "dataName": "RW7_OrgChinaAcademyofEngineeringPhysics",
+    "friendlyName": "Madhyadeshi National Laboratories",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bihar",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1958,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 50,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -25,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 15,
+    "chanceScience": 100,
+    "science": 2,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.1
+      }
+    ],
+    "iconResource": "orglogos/ChinaAcademyofEngineeringPhysics"
+  },
+  {
+    "dataName": "RW7_OrgComandoVermelho",
+    "friendlyName": "Korean Triads",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_SouthKorea",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Escape"
+    ],
+    "costMoney": 30,
+    "costInfluence": 30,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 35,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.03,
+    "techBonuses": [],
+    "grantsMarked": true,
+    "iconResource": "orglogos/ComandoVermhelho"
+  },
+  {
+    "dataName": "RW7_OrgCoordinationofSecurityServices",
+    "friendlyName": "Igbo Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_PortHarcourt",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -8,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "iconResource": "orglogos/CoordinationofSecurityServices"
+  },
+  {
+    "dataName": "RW7_OrgCriminalIntelligenceBureau",
+    "friendlyName": "Madhyadeshi Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bihar",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/CriminalIntelligenceBureau"
+  },
+  {
+    "dataName": "RW7_OrgDepartmentofStateServices",
+    "friendlyName": "Asante Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Ghana",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1986,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -8,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/DepartmentofStateServices"
+  },
+  {
+    "dataName": "RW7_OrgDireccionNacionaldeInteligencia",
+    "friendlyName": "Sicilian Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Naples",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2011,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/DireccionNacionaldeInteligencia"
+  },
+  {
+    "dataName": "RW7_OrgDirectorateGeneralforExternalSecurity",
+    "friendlyName": "Maratha Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Angola",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -22,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "iconResource": "orglogos/DGSE"
+  },
+  {
+    "dataName": "RW7_OrgDirectorateGeneralforInternalSecurity",
+    "friendlyName": "Shahuprant Criminal Directorate",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Angola",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateAlienActivity",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/DGSI"
+  },
+  {
+    "dataName": "RW7_OrgDrugEnforcementAdministration",
+    "friendlyName": "Sauvira Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -45,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Detain",
+      "Crackdown"
+    ],
+    "iconResource": "orglogos/DEA"
+  },
+  {
+    "dataName": "RW7_OrgElectronicsandTelecommunicationsResearchInstitute",
+    "friendlyName": "Maratha National Laboratories",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Mumbai",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1976,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 50,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 10,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 15,
+    "chanceScience": 100,
+    "science": 2,
+    "techBonuses": [
+      {
+        "category": "Information",
+        "bonus": 0.05
+      }
+    ],
+    "iconResource": "orglogos/ElectronicsandTelecommunicationsResearchInstitute"
+  },
+  {
+    "dataName": "RW7_OrgFederalProtectiveService",
+    "friendlyName": "Mexica Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 3,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "Protect",
+      "DefendInterests"
+    ],
+    "iconResource": "orglogos/FPS"
+  },
+  {
+    "dataName": "RW7_OrgForeignIntelligenceAgency",
+    "friendlyName": "Karankawa Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Texas",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2002,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -15,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "DefendInterests"
+    ],
+    "iconResource": "orglogos/ForeignIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgForeignIntelligenceService",
+    "friendlyName": "Mexico City Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 4,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Propaganda"
+    ],
+    "iconResource": "orglogos/FIS"
+  },
+  {
+    "dataName": "RW7_OrgFuerzadeGuerraNavalEspecial",
+    "friendlyName": "Nanyue Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Guangzhou",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "AssaultAlienAsset",
+      "Detain"
+    ],
+    "iconResource": "orglogos/FuerzadeGuerraNavalEspecial"
+  },
+  {
+    "dataName": "RW7_OrgGROM",
+    "friendlyName": "Karankawa M\u00e1t Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Texas",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/GROM"
+  },
+  {
+    "dataName": "RW7_OrgGSG9derBundespolizei",
+    "friendlyName": "Cascadia Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Cascadia",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Detain",
+      "Protect"
+    ],
+    "iconResource": "orglogos/GSG9"
+  },
+  {
+    "dataName": "RW7_OrgGeneralIntelligenceandSecurityService",
+    "friendlyName": "Shanghai Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Shanghai",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2002,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -8,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "DefendInterests"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/GeneralIntelligenceandSecurityService"
+  },
+  {
+    "dataName": "RW7_OrgGihazElMukhabaratElAmma",
+    "friendlyName": "Scanian Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Sweden",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/EgyptianIntelligence"
+  },
+  {
+    "dataName": "RW7_OrgGoldenCrescentCartel",
+    "friendlyName": "Porto Alegre Black Market",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_PortoAlegre",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 90,
+    "costInfluence": 120,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 45,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.05,
+    "techBonuses": [],
+    "iconResource": "orglogos/GoldenCrescentCartel"
+  },
+  {
+    "dataName": "RW7_OrgGovernmentCommunicationsHeadquarters",
+    "friendlyName": "Bavarian National Police Agency",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bavaria",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/GCHQ"
+  },
+  {
+    "dataName": "RW7_OrgGulfCartel",
+    "friendlyName": "Maguindanaon Smuggling Ring",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_ViasyasyMindanao",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Escape"
+    ],
+    "costMoney": 50,
+    "costInfluence": 50,
+    "costOps": 20,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 40,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 4,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/GulfCartel"
+  },
+  {
+    "dataName": "RW7_OrgHunanBroadcastingSystem",
+    "friendlyName": "Bihar Broadcasting Corporation",
+    "orgType": "Influence",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bihar",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2010,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costMoney": 36,
+    "costInfluence": 75,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 4,
+    "chancePersuasion": 100,
+    "persuasion": 2,
+    "chanceKnowledgeBonus": 100,
+    "knowledgeBonus": 0.02,
+    "techBonuses": [],
+    "iconResource": "orglogos/HunanBroadcastingSystem"
+  },
+  {
+    "dataName": "RW7_OrgInagawakai",
+    "friendlyName": "Oyo Triads",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Kano",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 40,
+    "costInfluence": 50,
+    "costOps": 5,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 25,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "HostileTakeover"
+    ],
+    "iconResource": "orglogos/InagawaKai"
+  },
+  {
+    "dataName": "RW7_OrgInterServicesIntelligence",
+    "friendlyName": "Tsalagihi Ayeli Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Dixie",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/PakistanInter-ServicesIntelligence"
+  },
+  {
+    "dataName": "RW7_OrgInternalSecurityAgency",
+    "friendlyName": "Karankawa Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Texas",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2002,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 125,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -8,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/InternalSecurityAgency"
+  },
+  {
+    "dataName": "RW7_OrgInternationalDepartment",
+    "friendlyName": "Madhyadeshi National Police Agency",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "takeoverDefense": 4,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1951,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Propaganda",
+      "InvestigateCouncilor"
+    ],
+    "iconResource": "orglogos/InternationalDepartment"
+  },
+  {
+    "dataName": "RW7_OrgInvestigationBureau",
+    "friendlyName": "Tamil National Police Agency",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bangalore",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1928,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -15,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/InvestigationBureau"
+  },
+  {
+    "dataName": "RW7_OrgIslamicStateofIraqandtheLevant",
+    "friendlyName": "Mayurasharmapura Smuggling Ring",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_SierraLeone",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Sociopath"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "restricted": [
+      "Resist",
+      "Cooperate",
+      "Escape",
+      "Appease"
+    ],
+    "costInfluence": 125,
+    "costOps": 10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "SabotageFacilities"
+    ],
+    "iconResource": "orglogos/isil"
+  },
+  {
+    "dataName": "RW7_OrgJapanAtomicEnergyAgency",
+    "friendlyName": "Kano Institute of Technology",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Kano",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2005,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -65,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 20,
+    "chanceScience": 100,
+    "science": 2,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.1
+      }
+    ],
+    "iconResource": "orglogos/JapanAtomicEnergyAgency"
+  },
+  {
+    "dataName": "RW7_OrgJapanSocietyforthePromotionofScience",
+    "friendlyName": "Oyo National Laboratories",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Kano",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1932,
+    "costMoney": 80,
+    "costInfluence": 100,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 20,
+    "chanceAdministration": 100,
+    "administration": 1,
+    "chanceScience": 100,
+    "science": 2,
+    "chanceEconomyBonus": 100,
+    "economyBonus": 0.02,
+    "chanceKnowledgeBonus": 100,
+    "knowledgeBonus": 0.02,
+    "techBonuses": [],
+    "iconResource": "orglogos/JapanSocietyforthePromotionofScience"
+  },
+  {
+    "dataName": "RW7_OrgJapanSpecialForcesGroup",
+    "friendlyName": "Oyo Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Kano",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/JapanSpecialForcesGroup"
+  },
+  {
+    "dataName": "RW7_OrgJointCipherBureau",
+    "friendlyName": "Majapahit Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Java",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2002,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/JointCipherBureau"
+  },
+  {
+    "dataName": "RW7_OrgKoanchosacho",
+    "friendlyName": "Kano Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Kano",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -25,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/Koanchosacho"
+  },
+  {
+    "dataName": "RW7_OrgKoreaAtomicEnergyResearchInstitute",
+    "friendlyName": "Mumbai Institute of Technology",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Mumbai",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1959,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -35,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 15,
+    "chanceScience": 100,
+    "science": 2,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.05
+      }
+    ],
+    "iconResource": "orglogos/KoreaAtomicEnergyResearchInstitute"
+  },
+  {
+    "dataName": "RW7_OrgKoreaInstituteofMaterialsScience",
+    "friendlyName": "Mumbai Institute of Technology II",
+    "orgType": "Research",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Mumbai",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2007,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 50,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 20,
+    "chanceAdministration": 100,
+    "administration": 1,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceEconomyBonus": 100,
+    "economyBonus": 0.03,
+    "techBonuses": [],
+    "iconResource": "orglogos/KoreaInstituteofMaterialsScience"
+  },
+  {
+    "dataName": "RW7_OrgLifeRegimentHussars",
+    "friendlyName": "Bunyoro-Kitara Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Uganda",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Protect",
+      "Extract"
+    ],
+    "iconResource": "orglogos/LifeRegimentHussars"
+  },
+  {
+    "dataName": "RW7_OrgLosZetas",
+    "friendlyName": "Visayas Black Market",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Visayas",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Escape"
+    ],
+    "costMoney": 50,
+    "costInfluence": 40,
+    "costOps": 20,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 50,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/LosZetas"
+  },
+  {
+    "dataName": "RW7_OrgMalaysianExternalIntelligenceOrganisation",
+    "friendlyName": "Yan Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Beijing",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1960,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -8,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/MalaysianExternalIntelligenceOrganisation"
+  },
+  {
+    "dataName": "RW7_OrgMilliIstihbaratTeskilati",
+    "friendlyName": "Mali Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Mali",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Unrest"
+    ],
+    "iconResource": "orglogos/TurkishIntelligence"
+  },
+  {
+    "dataName": "RW7_OrgMinistryofIntelligence",
+    "friendlyName": "Haudenosaunee Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_NewYork",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1983,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceAdministration": 100,
+    "administration": 3,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/MinistryofIntelligence"
+  },
+  {
+    "dataName": "RW7_OrgNationalCrimeAgency",
+    "friendlyName": "Bavaria Criminal Directorate",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bavaria",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2013,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -45,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/NationalCrimeAgency"
+  },
+  {
+    "dataName": "RW7_OrgNationalCyberandCryptoAgency",
+    "friendlyName": "Orinocan Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Colombia",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2017,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist",
+      "Exploit"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/NationalCyberandCryptoAgency"
+  },
+  {
+    "dataName": "RW7_OrgNationalDefenceRadioEstablishment",
+    "friendlyName": "Nyoro Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Uganda",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1942,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/NationalDefenceRadioEstablishment"
+  },
+  {
+    "dataName": "RW7_OrgNationalGendarmerieInterventionGroup",
+    "friendlyName": "Shahuprant Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Angola",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "AssaultAlienAsset",
+      "Detain"
+    ],
+    "iconResource": "orglogos/GIGN"
+  },
+  {
+    "dataName": "RW7_OrgNationalIntelligenceService",
+    "friendlyName": "Maratha Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Mumbai",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -45,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/NationalIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgNationalIntelligenceandSecurityService",
+    "friendlyName": "Yemen Criminal Directorate",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Yemen",
+    "randomized": false,
+    "takeoverDefense": 4,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1941,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 125,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "DefendInterests",
+      "Stabilize",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/NISS"
+  },
+  {
+    "dataName": "RW7_OrgOffice39",
+    "friendlyName": "Waasitenshi Triads",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_MississippiDelta",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Exploit",
+      "Destroy"
+    ],
+    "costMoney": 100,
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 25,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 4,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.03,
+    "techBonuses": [],
+    "iconResource": "orglogos/Office39"
+  },
+  {
+    "dataName": "RW7_OrgOrgKS1487",
+    "friendlyName": "Sauvira Guards Regiment II",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredTechName": "AugmentedReality",
+    "affinities": [
+      "Resist",
+      "Appease",
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Submit"
+    ],
+    "costMoney": 250,
+    "randCostMoney": 250,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "randIncomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceEspionage": 50,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Assassinate",
+      "Coup",
+      "Stabilize"
+    ],
+    "iconResource": "orglogos/Pax_Robotica"
+  },
+  {
+    "dataName": "RW7_OrgOrgKS2688",
+    "friendlyName": "Sao Tome Principe Aerospace Consortium",
+    "orgType": "Aerospace",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_SaoTomePrincipe",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredTechName": "SpaceMiningandRefining",
+    "affinities": [
+      "Resist",
+      "Destroy",
+      "Exploit"
+    ],
+    "restricted": [
+      "Appease",
+      "Submit",
+      "Alien"
+    ],
+    "costMoney": 350,
+    "randCostMoney": 250,
+    "chanceIncomeMoney": 50,
+    "incomeMoney": 1,
+    "randIncomeMoney": 14,
+    "chanceIncomeBoost": 100,
+    "incomeBoost": 1,
+    "randIncomeBoost": 1,
+    "chanceAdministration": 100,
+    "administration": 3,
+    "randAdministration": 1,
+    "chanceScience": 100,
+    "science": 1,
+    "techBonuses": [],
+    "iconResource": "orglogos/Espero"
+  },
+  {
+    "dataName": "RW7_OrgOrgKS314",
+    "friendlyName": "Sauvira Broadcasting Corporation",
+    "orgType": "Influence",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "affinities": [
+      "Resist",
+      "Destroy",
+      "Exploit"
+    ],
+    "restricted": [
+      "Appease",
+      "Submit"
+    ],
+    "costInfluence": 100,
+    "randCostInfluence": 50,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 2,
+    "randIncomeInfluence": 2,
+    "chancePersuasion": 100,
+    "persuasion": 2,
+    "chanceInvestigation": 25,
+    "investigation": 1,
+    "chanceSecurity": 25,
+    "security": 1,
+    "chanceUnityBonus": 25,
+    "unityBonus": 0.01,
+    "randUnityBonus": 0.01,
+    "chanceSpoilsBonus": 50,
+    "spoilsBonus": 0.01,
+    "randSpoilsBonus": 0.01,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "DefendInterests",
+      "GainInfluence",
+      "SetNationalPolicy"
+    ],
+    "iconResource": "orglogos/Madisonian_Society"
+  },
+  {
+    "dataName": "RW7_OrgOrgKS4203",
+    "friendlyName": "Bunyoro-Kitara Aerospace Consortium",
+    "orgType": "Aerospace",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Uganda",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredTechName": "AdvancedChemicalRocketry",
+    "affinities": [
+      "Resist",
+      "Destroy",
+      "Cooperate"
+    ],
+    "restricted": [
+      "Appease",
+      "Exploit",
+      "Submit"
+    ],
+    "costMoney": 350,
+    "randCostMoney": 250,
+    "chanceIncomeBoost": 100,
+    "incomeBoost": 1,
+    "chanceIncomeMissionControl": 100,
+    "incomeMissionControl": 2,
+    "projectsGranted": 1,
+    "chanceScience": 100,
+    "science": 2,
+    "techBonuses": [
+      {
+        "category": "Energy",
+        "bonus": 0.02
+      }
+    ],
+    "iconResource": "orglogos/Libertatem_Terrae"
+  },
+  {
+    "dataName": "RW7_OrgOrgKS4464",
+    "friendlyName": "Dutch Caribbean Black Market",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_DutchCaribbean",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "requiredTechName": "AdvancedChemicalRocketry",
+    "affinities": [
+      "Resist",
+      "Destroy",
+      "Exploit"
+    ],
+    "restricted": [
+      "Submit",
+      "Appease"
+    ],
+    "costMoney": 500,
+    "randCostMoney": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 7,
+    "randIncomeMoney": 7,
+    "chanceIncomeMissionControl": 100,
+    "incomeMissionControl": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Coup"
+    ],
+    "iconResource": "orglogos/KazKo_Industries"
+  },
+  {
+    "dataName": "RW7_OrgPakistanIntelligenceBureau",
+    "friendlyName": "Tsalagi Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Dixie",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1830,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "iconResource": "orglogos/PakistanIntelligenceBureau"
+  },
+  {
+    "dataName": "RW7_OrgPathfinders",
+    "friendlyName": "Korean Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_SouthKorea",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/BrazilianPathfinders"
+  },
+  {
+    "dataName": "RW7_OrgSayeretMatkal",
+    "friendlyName": "Huainan Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Anhui",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/SayeretMatkal"
+  },
+  {
+    "dataName": "RW7_OrgSeaDragon",
+    "friendlyName": "Delhi Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Protect",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/SeaDragon"
+  },
+  {
+    "dataName": "RW7_OrgSecurityService",
+    "friendlyName": "Bavaria Criminal Directorate II",
+    "orgType": "Investigations",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bavaria",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -50,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/MI5"
+  },
+  {
+    "dataName": "RW7_OrgSecurityServiceofUkraine",
+    "friendlyName": "Kumarapalabhumi Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Guinea",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1991,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SecurityServiceofUkraine"
+  },
+  {
+    "dataName": "RW7_OrgSecurityandIntelligenceDivision",
+    "friendlyName": "Bavarian Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_EastGermany",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1966,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SecurityandIntelligenceDivision"
+  },
+  {
+    "dataName": "RW7_OrgShinBet",
+    "friendlyName": "Huainan Special Operations Group",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Anhui",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1949,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 250,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -35,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 3,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain",
+      "Crackdown"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/ShinBet"
+  },
+  {
+    "dataName": "RW7_OrgSiberianTigers",
+    "friendlyName": "Seychelles Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Seychelles",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 70,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Detain",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/SiberianTigers"
+  },
+  {
+    "dataName": "RW7_OrgSnowLeopardCommandoGroup",
+    "friendlyName": "Delhi Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_NewDelhi",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Stabilize",
+      "Protect",
+      "Detain",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/SnowLeopardCommandoGroup"
+  },
+  {
+    "dataName": "RW7_OrgSouthernSword",
+    "friendlyName": "Bihar Commando Brigade",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bihar",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Detain",
+      "Stabilize",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/SouthernSword"
+  },
+  {
+    "dataName": "RW7_OrgSpecialAirService",
+    "friendlyName": "Bavarian Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bavaria",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 3,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Detain",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/UKSAS"
+  },
+  {
+    "dataName": "RW7_OrgSpecialBoatService",
+    "friendlyName": "Bavaria Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Bavaria",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "AssaultAlienAsset",
+      "Protect"
+    ],
+    "iconResource": "orglogos/UKSpecialBoatService"
+  },
+  {
+    "dataName": "RW7_OrgSpecialServicesGroup",
+    "friendlyName": "Tsalagi Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Dixie",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Stabilize",
+      "Unrest"
+    ],
+    "iconResource": "orglogos/PakistanSSG"
+  },
+  {
+    "dataName": "RW7_OrgStateSecurityAgency",
+    "friendlyName": "Solim\u00f5es Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Belem",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2009,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/StateSecurityAgency"
+  },
+  {
+    "dataName": "RW7_OrgStateSecurityDepartment",
+    "friendlyName": "Johannesburg Guards Regiment",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Johannesburg",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1974,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 180,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/StateSecurityDepartment"
+  },
+  {
+    "dataName": "RW7_OrgSumiyoshikai",
+    "friendlyName": "Kano Black Market",
+    "orgType": "Criminal",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Kano",
+    "randomized": false,
+    "takeoverDefense": -2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 50,
+    "costInfluence": 50,
+    "costOps": 10,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 30,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chancePersuasion": 50,
+    "persuasion": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.03,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "HostileTakeover"
+    ],
+    "iconResource": "orglogos/SumiyoshiKai"
+  },
+  {
+    "dataName": "RW7_OrgSwedishSecurityService",
+    "friendlyName": "Nyoro Counterintelligence Office",
+    "orgType": "Security",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Uganda",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1989,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 150,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -6,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Protect"
+    ],
+    "iconResource": "orglogos/SwedishSecurityService"
+  },
+  {
+    "dataName": "RW7_OrgVoiceofAmerica",
+    "friendlyName": "Sauviran Political Machine",
+    "orgType": "Influence",
+    "tier": 2,
+    "homeRegionMapTemplateName": "map_Punjab",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -6,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 2,
+    "chancePersuasion": 100,
+    "persuasion": 1,
+    "chanceKnowledgeBonus": 100,
+    "knowledgeBonus": 0.01,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Propaganda"
+    ],
+    "iconResource": "orglogos/VOA"
+  },
+  {
+    "dataName": "RW7_OrgAgaziCommandos",
+    "friendlyName": "Yemen Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Yemen",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/AgaziCommandos"
+  },
+  {
+    "dataName": "RW7_OrgAgencenationaledesecurite",
+    "friendlyName": "Nusa Tenggara Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_LesserSundas",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1990,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 20,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/Agencenationaledesecurite"
+  },
+  {
+    "dataName": "RW7_OrgAirborneSpecialServiceCompany",
+    "friendlyName": "Tamil Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Bangalore",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/AirborneSpecialServiceCompany"
+  },
+  {
+    "dataName": "RW7_OrgAizukotetsukai",
+    "friendlyName": "Lagos Street Gangs",
+    "orgType": "Criminal",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Lagos",
+    "randomized": false,
+    "takeoverDefense": -1,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 30,
+    "costInfluence": 20,
+    "costOps": 5,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 10,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "HostileTakeover"
+    ],
+    "iconResource": "orglogos/Aizukotetsu-kai"
+  },
+  {
+    "dataName": "RW7_OrgAlMukhabaratAlAamah",
+    "friendlyName": "Sao Paulo Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_SaoPaulo",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/SaudiIntelligence"
+  },
+  {
+    "dataName": "RW7_OrgAlkotmanyvedelmiHivatal",
+    "friendlyName": "Chongqing Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Chongqing",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2010,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/AlkotmanyvedelmiHivatal"
+  },
+  {
+    "dataName": "RW7_OrgAustralianSecretIntelligenceService",
+    "friendlyName": "Minyue Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Fujian",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Extract"
+    ],
+    "iconResource": "orglogos/ASIS"
+  },
+  {
+    "dataName": "RW7_OrgAustralianSecurityIntelligenceOrganization",
+    "friendlyName": "Minyue Detective Bureau",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Fujian",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -4,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateAlienActivity",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/ASIO"
+  },
+  {
+    "dataName": "RW7_OrgAustralianSignalsDirectorate",
+    "friendlyName": "Minyue Customs Service",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Fujian",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -4,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/AusSD"
+  },
+  {
+    "dataName": "RW7_OrgAustralianSpecialAirService",
+    "friendlyName": "Minyue Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Fujian",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist",
+      "Destroy"
+    ],
+    "costInfluence": 75,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Detain",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/AustralianSAS"
+  },
+  {
+    "dataName": "RW7_OrgAzeriMafia",
+    "friendlyName": "Mexico City Street Gangs",
+    "orgType": "Criminal",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_MexicoCity",
+    "randomized": false,
+    "takeoverDefense": -1,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 30,
+    "costInfluence": 20,
+    "costOps": 5,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 20,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.02,
+    "techBonuses": [],
+    "iconResource": "orglogos/AzeriMafia"
+  },
+  {
+    "dataName": "RW7_OrgCommunicationsSecurityEstablishment",
+    "friendlyName": "Mekelle Detective Bureau",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mekelle",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/CSEC"
+  },
+  {
+    "dataName": "RW7_OrgCompaadeComandos601",
+    "friendlyName": "Siamese Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_NorthThailand",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/601CommandoCompany"
+  },
+  {
+    "dataName": "RW7_OrgCriminalIntelligenceServiceCanada",
+    "friendlyName": "Mekelle Customs Service",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mekelle",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1970,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -12,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor"
+    ],
+    "iconResource": "orglogos/CriminalIntelligenceServiceCanada"
+  },
+  {
+    "dataName": "RW7_OrgDanishSecurityandIntelligenceService",
+    "friendlyName": "Andhra Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Kolkata",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1951,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/DanishSecurityandIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgDenjaka",
+    "friendlyName": "Orinocan Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Colombia",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/DenjakaIndonesia"
+  },
+  {
+    "dataName": "RW7_OrgDireccionGeneraldeInteligencia",
+    "friendlyName": "Krishnadevarayapuram Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_IvoryCoast",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1961,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/DireccionGeneraldeInteligencia"
+  },
+  {
+    "dataName": "RW7_OrgDirectorateofIntelligenceandSecurity",
+    "friendlyName": "Median Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Tehran",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2007,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 40,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/DirectorateofIntelligenceandSecurity"
+  },
+  {
+    "dataName": "RW7_OrgDirectorateofResearchandDocumentation",
+    "friendlyName": "Qin Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Zhengzhou",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1973,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/DirectorateofResearchandDocumentation"
+  },
+  {
+    "dataName": "RW7_OrgDirektionStaatsschutzundNachrichtendienst",
+    "friendlyName": "Yamato Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_NorthHonshu",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2021,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Resist",
+      "Cooperate"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -6,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/DirektionStaatsschutzundNachrichtendienst"
+  },
+  {
+    "dataName": "RW7_OrgFederalIntelligenceAgency",
+    "friendlyName": "Siam Janapada Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_NorthThailand",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2015,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 70,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -12,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceAdministration": 100,
+    "administration": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/FederalIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgFederalIntelligenceService",
+    "friendlyName": "Amazigh Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Algeria",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2010,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -15,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/FederalIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgFinnishSecurityandIntelligenceService",
+    "friendlyName": "Lao Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Yunnan",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1948,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -4,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/FinnishSecurityandIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgGeneralDirectorateforTerritorialSurveillance",
+    "friendlyName": "Zhengzhou Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Zhengzhou",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1973,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.01,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/GeneralDirectorateforTerritorialSurveillance"
+  },
+  {
+    "dataName": "RW7_OrgGeneralIntelligenceDepartment",
+    "friendlyName": "Anishinaabeg Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_RustBelt",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1964,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/GeneralIntelligenceDepartment"
+  },
+  {
+    "dataName": "RW7_OrgInformaciosHivatal",
+    "friendlyName": "Ba Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Chongqing",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1990,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/InformaciosHivatal"
+  },
+  {
+    "dataName": "RW7_OrgInternalSecurityService",
+    "friendlyName": "Hanoi Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Hanoi",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1987,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/InternalSecurityService"
+  },
+  {
+    "dataName": "RW7_OrgJaegerCorps",
+    "friendlyName": "Kolkata Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Kolkata",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/JaegerCorps"
+  },
+  {
+    "dataName": "RW7_OrgJagdkommando",
+    "friendlyName": "Akitsushima Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_NorthHonshu",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/Jagdkommando"
+  },
+  {
+    "dataName": "RW7_OrgJemaahIslamiyah",
+    "friendlyName": "Venezuela Street Gangs",
+    "orgType": "Criminal",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Venezuela",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Sociopath"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "restricted": [
+      "Resist",
+      "Cooperate",
+      "Escape",
+      "Appease"
+    ],
+    "costInfluence": 80,
+    "costOps": 5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Unrest",
+      "SabotageFacilities"
+    ],
+    "iconResource": "orglogos/JemaahIslamiyah"
+  },
+  {
+    "dataName": "RW7_OrgJointTaskForce2",
+    "friendlyName": "Azande Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mekelle",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Protect",
+      "Extract"
+    ],
+    "iconResource": "orglogos/CanadaJTF2"
+  },
+  {
+    "dataName": "RW7_OrgKingsGuard",
+    "friendlyName": "Baghdad Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Baghdad",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Protect",
+      "Extract"
+    ],
+    "iconResource": "orglogos/KingsGuard"
+  },
+  {
+    "dataName": "RW7_OrgKopassus",
+    "friendlyName": "Orinocan Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Colombia",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "restricted": [
+      "Cooperate",
+      "Escape"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/KopassusIndonesia"
+  },
+  {
+    "dataName": "RW7_OrgKoreaAerospaceResearchInstitute",
+    "friendlyName": "Mumbai Aeronautics Club",
+    "orgType": "Aerospace",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mumbai",
+    "randomized": false,
+    "takeoverDefense": 5,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1989,
+    "prohibitedOwnerTraits": [
+      "Criminal"
+    ],
+    "costInfluence": 50,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeResearch": 100,
+    "incomeResearch": 15,
+    "chanceCommand": 50,
+    "command": 1,
+    "chanceScience": 100,
+    "science": 2,
+    "chanceSpaceflightBonus": 100,
+    "spaceflightBonus": 0.02,
+    "chanceMCBonus": 100,
+    "MCBonus": 0.01,
+    "techBonuses": [],
+    "iconResource": "orglogos/KoreaAerospaceResearchInstitute"
+  },
+  {
+    "dataName": "RW7_OrgMalaysianSpecialBranch",
+    "friendlyName": "Yan Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Beijing",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1948,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/MalaysianSpecialBranch"
+  },
+  {
+    "dataName": "RW7_OrgNationalCoordinatorforCounterterrorismandSecurity",
+    "friendlyName": "Shanghai Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Shanghai",
+    "randomized": false,
+    "takeoverDefense": 2,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2012,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Stabilize"
+    ],
+    "iconResource": "orglogos/NationalCoordinatorforCounterterrorismandSecurity"
+  },
+  {
+    "dataName": "RW7_OrgNationalIntelligenceAgency",
+    "friendlyName": "Chachapoyas Detective Bureau",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Peru",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2004,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 60,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -4,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/NationalIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgNationalIntelligenceCoordinatingAgency",
+    "friendlyName": "Quitu Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Ecuador",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1949,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/NationalIntelligenceCoordinatingAgency"
+  },
+  {
+    "dataName": "RW7_OrgNationalSecurityBureau",
+    "friendlyName": "Bangalore Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Bangalore",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 75,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/ROCNSB"
+  },
+  {
+    "dataName": "RW7_OrgNationalSecurityIntelligence",
+    "friendlyName": "Kemetic Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Egypt",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1972,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/NationalSecurityIntelligence"
+  },
+  {
+    "dataName": "RW7_OrgNationalTelecommunicationMonitoringCentre",
+    "friendlyName": "Kemet Customs Service",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Egypt",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2008,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 60,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "InvestigateAlienActivity"
+    ],
+    "iconResource": "orglogos/NationalTelecommunicationMonitoringCentre"
+  },
+  {
+    "dataName": "RW7_OrgNorwegianIntelligenceService",
+    "friendlyName": "Rozvi Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Zimbabwe",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1915,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -2,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/NorwegianIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgNorwegianPoliceSecurityService",
+    "friendlyName": "Urozvi Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Zimbabwe",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1937,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 70,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Protect"
+    ],
+    "iconResource": "orglogos/NorwegianPoliceSecurityService"
+  },
+  {
+    "dataName": "RW7_OrgReconnaissanceGeneralBureau",
+    "friendlyName": "Waasitenshi Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_MississippiDelta",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2009,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -3,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.04,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Assassinate",
+      "Unrest",
+      "Coup",
+      "Purge"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/ReconnaissanceGeneralBureau"
+  },
+  {
+    "dataName": "RW7_OrgRomanianIntelligenceService",
+    "friendlyName": "Saka Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mashhad",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1990,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -40,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/RomanianIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgSakaForces",
+    "friendlyName": "Scanian Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Sweden",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/Sa'ka_Forces"
+  },
+  {
+    "dataName": "RW7_OrgSecurityInformationService",
+    "friendlyName": "Tajikistan Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Tajikistan",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1994,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 60,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SecurityInformationService"
+  },
+  {
+    "dataName": "RW7_OrgSecurityIntelligenceService",
+    "friendlyName": "Wessex Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_NewEngland",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1984,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -4,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 2,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "DefendInterests"
+    ],
+    "iconResource": "orglogos/SecurityIntelligenceService"
+  },
+  {
+    "dataName": "RW7_OrgSecurityandIntelligenceAgency",
+    "friendlyName": "Makrani Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Baluchistan",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2006,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 80,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SecurityandIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgSecurityandIntelligenceAgencySerbia",
+    "friendlyName": "Vanga Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Bangladesh",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2002,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -6,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.01,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SecurityandIntelligenceAgencySerbia"
+  },
+  {
+    "dataName": "RW7_OrgSerbianCobras",
+    "friendlyName": "Vanga Mahajanapadas Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Bangladesh",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Protect",
+      "Extract",
+      "Detain"
+    ],
+    "iconResource": "orglogos/SerbianCobras"
+  },
+  {
+    "dataName": "RW7_OrgSerbianMafia",
+    "friendlyName": "Vanga Mahajanapadas Racketeers",
+    "orgType": "Criminal",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Bangladesh",
+    "randomized": false,
+    "takeoverDefense": -1,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Criminal"
+    ],
+    "affinities": [
+      "Exploit"
+    ],
+    "restricted": [
+      "Cooperate"
+    ],
+    "costMoney": 30,
+    "costInfluence": 20,
+    "costOps": 5,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": 20,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSpoilsBonus": 100,
+    "spoilsBonus": 0.03,
+    "techBonuses": [],
+    "iconResource": "orglogos/SerbianMafia"
+  },
+  {
+    "dataName": "RW7_OrgShayetet13",
+    "friendlyName": "Huainan Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Anhui",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "affinities": [
+      "Destroy"
+    ],
+    "costInfluence": 120,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 2,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "Extract",
+      "Protect",
+      "AssaultAlienAsset"
+    ],
+    "iconResource": "orglogos/Shayetet13"
+  },
+  {
+    "dataName": "RW7_OrgSignalsIntelligenceAgency",
+    "friendlyName": "Sauviran Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Johannesburg",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2012,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -6,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 2,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/SignalsIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgSpecialForcesCommand",
+    "friendlyName": "Malian Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mali",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 60,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceCommand": 100,
+    "command": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/SpecialForcesCommand_MaroonBerets"
+  },
+  {
+    "dataName": "RW7_OrgSpecialTelecommunicationService",
+    "friendlyName": "Sakastan Detective Bureau",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Mashhad",
+    "randomized": false,
+    "takeoverDefense": 3,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1992,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 50,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -15,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceScience": 100,
+    "science": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/SpecialTelecommunicationService"
+  },
+  {
+    "dataName": "RW7_OrgStateAgencyforNationalSecurity",
+    "friendlyName": "Chu Customs Service",
+    "orgType": "Investigations",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Hunan",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2008,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/StateAgencyforNationalSecurity"
+  },
+  {
+    "dataName": "RW7_OrgStateIntelligenceAgency",
+    "friendlyName": "Chu Militia Association",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Hunan",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2015,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Propaganda"
+    ],
+    "grantsMarked": true,
+    "iconResource": "orglogos/StateIntelligenceAgency"
+  },
+  {
+    "dataName": "RW7_OrgStateSecurityCommittee",
+    "friendlyName": "Breton Border Guard",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Nantes",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1991,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 260,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeInfluence": 100,
+    "incomeInfluence": 1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceUnityBonus": 100,
+    "unityBonus": 0.02,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.02,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "Detain",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/StateSecurityCommittee"
+  },
+  {
+    "dataName": "RW7_OrgStateSecurityService",
+    "friendlyName": "Kven Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Finland",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 2015,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -5,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "chanceOppressionBonus": 100,
+    "oppressionBonus": 0.01,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity",
+      "Detain"
+    ],
+    "iconResource": "orglogos/StateSecurityService"
+  },
+  {
+    "dataName": "RW7_OrgSrskildaOperationsgruppen",
+    "friendlyName": "Nyoro Veterans League",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Uganda",
+    "randomized": false,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 100,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -1,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceSecurity": 100,
+    "security": 1,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "AssaultAlienAsset",
+      "Extract"
+    ],
+    "iconResource": "orglogos/SpecialOperationsTaskGroup"
+  },
+  {
+    "dataName": "RW7_OrgSretdeltat",
+    "friendlyName": "Gurjaratra Constabulary",
+    "orgType": "Security",
+    "tier": 1,
+    "homeRegionMapTemplateName": "map_Gujarat",
+    "randomized": false,
+    "takeoverDefense": 6,
+    "allowedOnMarket": true,
+    "requiresNationality": true,
+    "minScenarioYear": 1830,
+    "requiredOwnerTraits": [
+      "Government"
+    ],
+    "costInfluence": 200,
+    "chanceIncomeMoney": 100,
+    "incomeMoney": -10,
+    "chanceIncomeOps": 100,
+    "incomeOps": 1,
+    "chanceInvestigation": 100,
+    "investigation": 1,
+    "chanceEspionage": 100,
+    "espionage": 1,
+    "chanceSecurity": 100,
+    "security": 2,
+    "techBonuses": [],
+    "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "DetectCouncilActivity"
+    ],
+    "iconResource": "orglogos/S\u00fbret\u00e9del'\u00c9tat"
+  }
+]

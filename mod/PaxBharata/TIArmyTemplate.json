@@ -1,0 +1,425 @@
+[
+  {
+    "dataName": "RW7_RLKArmy1",
+    "friendlyName": "Mechanized Corps",
+    "startRegionStr": "RW7_NewDelhi",
+    "homeRegionStr": "RW7_Punjab",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RLKArmy2",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Sindh",
+    "homeRegionStr": "RW7_Sindh",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RLKArmy3",
+    "friendlyName": "2nd Army",
+    "startRegionStr": "RW7_CaboVerde",
+    "homeRegionStr": "RW7_CaboVerde",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RNAArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Kano",
+    "homeRegionStr": "RW7_Kano",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RNAArmy3",
+    "friendlyName": "Expeditionary Force",
+    "startRegionStr": "RW7_Lagos",
+    "homeRegionStr": "RW7_Lagos",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RMOArmy1",
+    "friendlyName": "Expeditionary Force",
+    "startRegionStr": "RW7_NewDelhi",
+    "homeRegionStr": "RW7_NewDelhi",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RNEArmy3",
+    "friendlyName": "3rd Army",
+    "startRegionStr": "RW7_Tijuana",
+    "homeRegionStr": "RW7_Tijuana",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_ROAArmy1",
+    "friendlyName": "3rd Army",
+    "startRegionStr": "RW7_Bavaria",
+    "homeRegionStr": "RW7_Bavaria",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RWPArmy1",
+    "friendlyName": "Mountain Corps",
+    "startRegionStr": "RW7_Colombia",
+    "homeRegionStr": "RW7_Colombia",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_RYUArmy1",
+    "friendlyName": "2nd Army",
+    "startRegionStr": "RW7_Istanbul",
+    "homeRegionStr": "RW7_Istanbul",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_SCHArmy1",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Anhui",
+    "homeRegionStr": "RW7_Anhui",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_SCTArmy1",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Shenandoah",
+    "homeRegionStr": "RW7_Shenandoah",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_ROSArmy1",
+    "friendlyName": "Rapid Response Corps",
+    "startRegionStr": "RW7_Mumbai",
+    "homeRegionStr": "RW7_Mumbai",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_SAOArmy1",
+    "friendlyName": "Home Defense Army",
+    "startRegionStr": "RW7_Java",
+    "homeRegionStr": "RW7_Java",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_GreaterFujianArmy1",
+    "friendlyName": "Rapid Response Corps",
+    "startRegionStr": "RW7_Fujian",
+    "homeRegionStr": "RW7_Fujian",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_SriLankaKhanateArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_SriLanka",
+    "homeRegionStr": "RW7_SriLanka",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_SriLankaKhanateArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Maldives",
+    "homeRegionStr": "RW7_Maldives",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_ChennaiLeagueArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Chennai",
+    "homeRegionStr": "RW7_Chennai",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_ChennaiLeagueArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Brunei",
+    "homeRegionStr": "RW7_Brunei",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_BangladeshFederationArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Bangladesh",
+    "homeRegionStr": "RW7_Bangladesh",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_BangladeshFederationArmy2",
+    "friendlyName": "2nd Army",
+    "startRegionStr": "RW7_Bangladesh",
+    "homeRegionStr": "RW7_Bangladesh",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_BangladeshFederationArmy3",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Bangladesh",
+    "homeRegionStr": "RW7_Bangladesh",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_BangladeshFederationArmy4",
+    "friendlyName": "Expeditionary Force",
+    "startRegionStr": "RW7_Myanmar",
+    "homeRegionStr": "RW7_Myanmar",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_UnionofKolkataArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_AndhraPradesh",
+    "homeRegionStr": "RW7_AndhraPradesh",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_UnionofKolkataArmy2",
+    "friendlyName": "2nd Army",
+    "startRegionStr": "RW7_AndhraPradesh",
+    "homeRegionStr": "RW7_AndhraPradesh",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_UnionofKolkataArmy3",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_AndhraPradesh",
+    "homeRegionStr": "RW7_AndhraPradesh",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_GujaratArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Gujarat",
+    "homeRegionStr": "RW7_Gujarat",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_GujaratArmy2",
+    "friendlyName": "2nd Army",
+    "startRegionStr": "RW7_Gujarat",
+    "homeRegionStr": "RW7_Gujarat",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_GujaratArmy3",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Gujarat",
+    "homeRegionStr": "RW7_Gujarat",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_GujaratArmy4",
+    "friendlyName": "Expeditionary Force",
+    "startRegionStr": "RW7_Zanzibar",
+    "homeRegionStr": "RW7_Zanzibar",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_BaluchistanRepublicArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Baluchistan",
+    "homeRegionStr": "RW7_Baluchistan",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_BaluchistanRepublicArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Baluchistan",
+    "homeRegionStr": "RW7_Baluchistan",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_MashhadArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Mashhad",
+    "homeRegionStr": "RW7_Mashhad",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_MashhadArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Azores",
+    "homeRegionStr": "RW7_Azores",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_IsfahanRepublicArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Isfahan",
+    "homeRegionStr": "RW7_Isfahan",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_IsfahanRepublicArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_CanaryIslands",
+    "homeRegionStr": "RW7_CanaryIslands",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_OdishaArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Odisha",
+    "homeRegionStr": "RW7_Odisha",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_OdishaArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_BritishWestIndies",
+    "homeRegionStr": "RW7_BritishWestIndies",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_KoreaArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_SouthKorea",
+    "homeRegionStr": "RW7_SouthKorea",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_GreaterFujianArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Taiwan",
+    "homeRegionStr": "RW7_Taiwan",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_KarunaduArmy1",
+    "friendlyName": "1st Army",
+    "startRegionStr": "RW7_Bangalore",
+    "homeRegionStr": "RW7_Bangalore",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_KarunaduArmy2",
+    "friendlyName": "Marine Division",
+    "startRegionStr": "RW7_Singapore",
+    "homeRegionStr": "RW7_Singapore",
+    "armyType": "Human",
+    "deploymentType": "Naval",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_UralsArmy1",
+    "friendlyName": "Horde",
+    "startRegionStr": "RW7_Urals",
+    "homeRegionStr": "RW7_Urals",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_FreeAlmatyArmy1",
+    "friendlyName": "Horde",
+    "startRegionStr": "RW7_Uzbekistan",
+    "homeRegionStr": "RW7_Uzbekistan",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_LiaoningDirectorateArmy1",
+    "friendlyName": "Horde",
+    "startRegionStr": "RW7_Xinjiang",
+    "homeRegionStr": "RW7_Xinjiang",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_EasternSiberiaLeagueArmy1",
+    "friendlyName": "Horde",
+    "startRegionStr": "RW7_EasternSiberia",
+    "homeRegionStr": "RW7_EasternSiberia",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  },
+  {
+    "dataName": "RW7_FreeManchuriaArmy1",
+    "friendlyName": "Horde",
+    "startRegionStr": "RW7_Liaoning",
+    "homeRegionStr": "RW7_Liaoning",
+    "armyType": "Human",
+    "deploymentType": "Standard",
+    "startingStrength": 1
+  }
+]

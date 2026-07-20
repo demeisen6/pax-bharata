@@ -35,3 +35,13 @@ Dark Skies launches.
 
 Open an issue here:
 https://github.com/demeisen6/pax-bharata/issues
+
+## Credits
+
+Designed and directed by Demeisen, with Claude (Anthropic's AI) as writing
+and engineering collaborator. The divergence, the story canon and its
+revisions, the nation roster, borders, national stats, alliances, and the
+claim webs — both the claims nations hold on day one and those unlocked by
+each project — were authored or given final human approval, decision by
+decision. The commit history of this repository is public and credits the
+collaboration on every commit.

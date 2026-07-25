@@ -5516,7 +5516,7 @@
     "relationType": "Claim",
     "nation1": "RW7_BaluchistanRepublic",
     "region1": "RW7_Afghanistan",
-    "projectUnlockName": "RW7_Project_DoctrineBaluchistanRepublic",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_BaluchistanRepublicRW7_Afghanistan"
   },
   {
@@ -5532,7 +5532,7 @@
     "nation1": "RW7_BaluchistanRepublic",
     "region1": "RW7_Mashhad",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBaluchistanRepublic",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_BaluchistanRepublicRW7_Mashhad"
   },
   {
@@ -5540,7 +5540,7 @@
     "nation1": "RW7_BaluchistanRepublic",
     "region1": "RW7_Punjab",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBaluchistanRepublic",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_BaluchistanRepublicRW7_Punjab"
   },
   {
@@ -5658,7 +5658,7 @@
     "nation1": "RW7_Barcelona",
     "region1": "RW7_Portugal",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBarcelona",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_BarcelonaRW7_Portugal"
   },
   {
@@ -5666,14 +5666,14 @@
     "nation1": "RW7_Barcelona",
     "region1": "RW7_Spain",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBarcelona",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_BarcelonaRW7_Spain"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Barcelona",
     "region1": "RW7_Toulouse",
-    "projectUnlockName": "RW7_Project_DoctrineBarcelona",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_BarcelonaRW7_Toulouse"
   },
   {
@@ -5689,7 +5689,7 @@
     "nation1": "RW7_Beijing",
     "region1": "RW7_Manchuria",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBeijing",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_BeijingRW7_Manchuria"
   },
   {
@@ -5710,7 +5710,7 @@
     "relationType": "Claim",
     "nation1": "RW7_Beijing",
     "region1": "RW7_Shanghai",
-    "projectUnlockName": "RW7_Project_DoctrineBeijing",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_BeijingRW7_Shanghai"
   },
   {
@@ -5718,7 +5718,7 @@
     "nation1": "RW7_Beijing",
     "region1": "RW7_Shanxi",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBeijing",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_BeijingRW7_Shanxi"
   },
   {
@@ -5726,7 +5726,7 @@
     "nation1": "RW7_Beijing",
     "region1": "RW7_Zhengzhou",
     "dataName": "ClaimRW7_BeijingRW7_Zhengzhou",
-    "projectUnlockName": "RW7_Project_DoctrineBeijing"
+    "projectUnlockName": "RW7_Project_GreatWall"
   },
   {
     "relationType": "Claim",
@@ -5741,14 +5741,14 @@
     "nation1": "RW7_BotswanaRepublic",
     "region1": "RW7_CapeTown",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineBotswanaRepublic",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_BotswanaRepublicRW7_CapeTown"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_BotswanaRepublic",
     "region1": "RW7_Eswatini",
-    "projectUnlockName": "RW7_Project_DoctrineBotswanaRepublic",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_BotswanaRepublicRW7_Eswatini"
   },
   {
@@ -5761,7 +5761,7 @@
     "relationType": "Claim",
     "nation1": "RW7_BotswanaRepublic",
     "region1": "RW7_Lubumbashi",
-    "projectUnlockName": "RW7_Project_DoctrineBotswanaRepublic",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_BotswanaRepublicRW7_Lubumbashi"
   },
   {
@@ -5769,7 +5769,7 @@
     "nation1": "RW7_BotswanaRepublic",
     "region1": "RW7_Zimbabwe",
     "dataName": "ClaimRW7_BotswanaRepublicRW7_Zimbabwe",
-    "projectUnlockName": "RW7_Project_DoctrineBotswanaRepublic"
+    "projectUnlockName": "RW7_Project_GreatZimbabwe"
   },
   {
     "relationType": "Claim",
@@ -5818,14 +5818,14 @@
     "nation1": "RW7_Cairo",
     "region1": "RW7_Cyrenaica",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineCairo",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_CairoRW7_Cyrenaica"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Cairo",
     "region1": "RW7_NorthernChad",
-    "projectUnlockName": "RW7_Project_DoctrineCairo",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_CairoRW7_NorthernChad"
   },
   {
@@ -5833,14 +5833,14 @@
     "nation1": "RW7_Cairo",
     "region1": "RW7_Baghdad",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineCairo",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_CairoRW7_Baghdad"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Cairo",
     "region1": "RW7_Libya",
-    "projectUnlockName": "RW7_Project_DoctrineCairo",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_CairoRW7_Libya"
   },
   {
@@ -5848,20 +5848,20 @@
     "nation1": "RW7_Cairo",
     "region1": "RW7_Luxor",
     "dataName": "ClaimRW7_CairoRW7_Luxor",
-    "projectUnlockName": "RW7_Project_DoctrineCairo"
+    "projectUnlockName": "RW7_Project_SmaTawy"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_CaliforniaCommonwealth",
     "region1": "RW7_Alaska",
-    "projectUnlockName": "RW7_Project_DoctrineCaliforniaCommonwealth",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Alaska"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_CaliforniaCommonwealth",
     "region1": "RW7_BritishColumbia",
-    "projectUnlockName": "RW7_Project_DoctrineCaliforniaCommonwealth",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_BritishColumbia"
   },
   {
@@ -5876,28 +5876,28 @@
     "relationType": "Claim",
     "nation1": "RW7_CaliforniaCommonwealth",
     "region1": "RW7_MexicoCity",
-    "projectUnlockName": "RW7_Project_DoctrineCaliforniaCommonwealth",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_MexicoCity"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_CaliforniaCommonwealth",
     "region1": "RW7_MississippiDelta",
-    "projectUnlockName": "RW7_Project_DoctrineCaliforniaCommonwealth",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_MississippiDelta"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_CaliforniaCommonwealth",
     "region1": "RW7_RockyMountains",
-    "projectUnlockName": "RW7_Project_DoctrineCaliforniaCommonwealth",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_RockyMountains"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_CameroonRepublic",
     "region1": "RW7_Brazzaville",
-    "projectUnlockName": "RW7_Project_DoctrineCameroonRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_CameroonRepublicRW7_Brazzaville"
   },
   {
@@ -5939,7 +5939,7 @@
     "nation1": "RW7_CameroonRepublic",
     "region1": "RW7_Mekelle",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineCameroonRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_CameroonRepublicRW7_Mekelle"
   },
   {
@@ -5952,7 +5952,7 @@
     "relationType": "Claim",
     "nation1": "RW7_CameroonRepublic",
     "region1": "RW7_NorthernChad",
-    "projectUnlockName": "RW7_Project_DoctrineCameroonRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_CameroonRepublicRW7_NorthernChad"
   },
   {
@@ -5960,7 +5960,7 @@
     "nation1": "RW7_CameroonRepublic",
     "region1": "RW7_PortHarcourt",
     "dataName": "ClaimRW7_CameroonRepublicRW7_PortHarcourt",
-    "projectUnlockName": "RW7_Project_DoctrineCameroonRepublic"
+    "projectUnlockName": "RW7_Project_AsSirat"
   },
   {
     "relationType": "Claim",
@@ -5982,7 +5982,7 @@
     "relationType": "Claim",
     "nation1": "RW7_ChiangMai",
     "region1": "RW7_Bangladesh",
-    "projectUnlockName": "RW7_Project_DoctrineChiangMai",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_ChiangMaiRW7_Bangladesh"
   },
   {
@@ -6003,7 +6003,7 @@
     "relationType": "Claim",
     "nation1": "RW7_ChiangMai",
     "region1": "RW7_HoChiMinhCity",
-    "projectUnlockName": "RW7_Project_DoctrineChiangMai",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_ChiangMaiRW7_HoChiMinhCity"
   },
   {
@@ -6016,7 +6016,7 @@
     "relationType": "Claim",
     "nation1": "RW7_ChiangMai",
     "region1": "RW7_Yunnan",
-    "projectUnlockName": "RW7_Project_DoctrineChiangMai",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_ChiangMaiRW7_Yunnan"
   },
   {
@@ -6088,14 +6088,14 @@
     "relationType": "Claim",
     "nation1": "RW7_Dakota",
     "region1": "RW7_MississippiDelta",
-    "projectUnlockName": "RW7_Project_DoctrineDakota",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_DakotaRW7_MississippiDelta"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Dakota",
     "region1": "RW7_NewYork",
-    "projectUnlockName": "RW7_Project_DoctrineDakota",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_DakotaRW7_NewYork"
   },
   {
@@ -6108,7 +6108,7 @@
     "relationType": "Claim",
     "nation1": "RW7_Dakota",
     "region1": "RW7_RockyMountains",
-    "projectUnlockName": "RW7_Project_DoctrineDakota",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_DakotaRW7_RockyMountains"
   },
   {
@@ -6116,7 +6116,7 @@
     "nation1": "RW7_Dakota",
     "region1": "RW7_RustBelt",
     "dataName": "ClaimRW7_DakotaRW7_RustBelt",
-    "projectUnlockName": "RW7_Project_DoctrineDakota"
+    "projectUnlockName": "RW7_Project_SevenCouncilFires"
   },
   {
     "relationType": "Claim",
@@ -6131,14 +6131,14 @@
     "nation1": "RW7_DarfurRepublic",
     "region1": "RW7_Mekelle",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineDarfurRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_DarfurRepublicRW7_Mekelle"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_DarfurRepublic",
     "region1": "RW7_Luxor",
-    "projectUnlockName": "RW7_Project_DoctrineDarfurRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_DarfurRepublicRW7_Luxor"
   },
   {
@@ -6146,7 +6146,7 @@
     "nation1": "RW7_DarfurRepublic",
     "region1": "RW7_Mauritania",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineDarfurRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_DarfurRepublicRW7_Mauritania"
   },
   {
@@ -6154,7 +6154,7 @@
     "nation1": "RW7_DarfurRepublic",
     "region1": "RW7_NorthernChad",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineDarfurRepublic",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_DarfurRepublicRW7_NorthernChad"
   },
   {
@@ -6182,7 +6182,7 @@
     "relationType": "Claim",
     "nation1": "RW7_Donetsk",
     "region1": "RW7_Crimea",
-    "projectUnlockName": "RW7_Project_DoctrineDonetsk",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_DonetskRW7_Crimea"
   },
   {
@@ -6198,14 +6198,14 @@
     "nation1": "RW7_Donetsk",
     "region1": "RW7_Kharkiv",
     "dataName": "ClaimRW7_DonetskRW7_Kharkiv",
-    "projectUnlockName": "RW7_Project_DoctrineDonetsk"
+    "projectUnlockName": "RW7_Project_WildFields"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Donetsk",
     "region1": "RW7_Odesa",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineDonetsk",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_DonetskRW7_Odesa"
   },
   {
@@ -6213,7 +6213,7 @@
     "nation1": "RW7_Donetsk",
     "region1": "RW7_Rostovskaya",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineDonetsk",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_DonetskRW7_Rostovskaya"
   },
   {
@@ -6382,7 +6382,7 @@
     "relationType": "Claim",
     "nation1": "RW7_Finland",
     "region1": "RW7_Volga",
-    "projectUnlockName": "RW7_Project_DoctrineFinland",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_FinlandRW7_Volga"
   },
   {
@@ -6397,13 +6397,13 @@
     "nation1": "RW7_Finland",
     "region1": "RW7_Novgorod",
     "dataName": "ClaimRW7_FinlandRW7_Novgorod",
-    "projectUnlockName": "RW7_Project_DoctrineFinland"
+    "projectUnlockName": "RW7_Project_SoundTolls"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Finland",
     "region1": "RW7_Urals",
-    "projectUnlockName": "RW7_Project_DoctrineFinland",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_FinlandRW7_Urals",
     "hostileClaim": true
   },
@@ -6412,7 +6412,7 @@
     "nation1": "RW7_Finland",
     "region1": "RW7_Sweden",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFinland",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_FinlandRW7_Sweden"
   },
   {
@@ -6437,6 +6437,13 @@
     "region1": "RW7_Kyrgyzstan",
     "projectUnlockName": "RW7_Project_ChagataiDream",
     "dataName": "ClaimRW7_FreeAlmatyRW7_Kyrgyzstan",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_FreeAlmaty",
+    "region1": "RW7_Tajikistan",
+    "dataName": "ClaimRW7_FreeAlmatyRW7_Tajikistan",
     "hostileClaim": true
   },
   {
@@ -6492,7 +6499,7 @@
     "nation1": "RW7_FreeGansu",
     "region1": "RW7_Chongqing",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFreeGansu",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_FreeGansuRW7_Chongqing"
   },
   {
@@ -6515,7 +6522,7 @@
     "nation1": "RW7_FreeGansu",
     "region1": "RW7_Qinghai",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFreeGansu",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_FreeGansuRW7_Qinghai"
   },
   {
@@ -6523,7 +6530,7 @@
     "nation1": "RW7_FreeGansu",
     "region1": "RW7_Zhengzhou",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFreeGansu",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_FreeGansuRW7_Zhengzhou"
   },
   {
@@ -6531,7 +6538,7 @@
     "nation1": "RW7_FreeHangzhou",
     "region1": "RW7_Anhui",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFreeHangzhou",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_FreeHangzhouRW7_Anhui"
   },
   {
@@ -6539,13 +6546,13 @@
     "nation1": "RW7_FreeHangzhou",
     "region1": "RW7_Fujian",
     "dataName": "ClaimRW7_FreeHangzhouRW7_Fujian",
-    "projectUnlockName": "RW7_Project_DoctrineFreeHangzhou"
+    "projectUnlockName": "RW7_Project_GoujiansPatience"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_FreeHangzhou",
     "region1": "RW7_Guangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineFreeHangzhou",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_FreeHangzhouRW7_Guangzhou"
   },
   {
@@ -6561,7 +6568,7 @@
     "nation1": "RW7_FreeHangzhou",
     "region1": "RW7_Shanghai",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFreeHangzhou",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_FreeHangzhouRW7_Shanghai"
   },
   {
@@ -6588,7 +6595,7 @@
     "relationType": "Claim",
     "nation1": "RW7_FreeKharkiv",
     "region1": "RW7_Donetsk",
-    "projectUnlockName": "RW7_Project_DoctrineFreeKharkiv",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_FreeKharkivRW7_Donetsk"
   },
   {
@@ -6603,7 +6610,7 @@
     "relationType": "Claim",
     "nation1": "RW7_FreeKharkiv",
     "region1": "RW7_Kiev",
-    "projectUnlockName": "RW7_Project_DoctrineFreeKharkiv",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_FreeKharkivRW7_Kiev"
   },
   {
@@ -6611,7 +6618,7 @@
     "nation1": "RW7_FreeKharkiv",
     "region1": "RW7_Odesa",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineFreeKharkiv",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_FreeKharkivRW7_Odesa"
   },
   {
@@ -6819,14 +6826,14 @@
     "nation1": "RW7_GreaterFujian",
     "region1": "RW7_Guangzhou",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterFujian",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_GreaterFujianRW7_Guangzhou"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterFujian",
     "region1": "RW7_Hangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterFujian",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_GreaterFujianRW7_Hangzhou"
   },
   {
@@ -6862,14 +6869,14 @@
     "nation1": "RW7_GreaterGuinea",
     "region1": "RW7_IvoryCoast",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterGuinea",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_GreaterGuineaRW7_IvoryCoast"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterGuinea",
     "region1": "RW7_Liberia",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterGuinea",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_GreaterGuineaRW7_Liberia"
   },
   {
@@ -6883,14 +6890,14 @@
     "nation1": "RW7_GreaterGuinea",
     "region1": "RW7_Senegambia",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterGuinea",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_GreaterGuineaRW7_Senegambia"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterGuinea",
     "region1": "RW7_SierraLeone",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterGuinea",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_GreaterGuineaRW7_SierraLeone"
   },
   {
@@ -6905,7 +6912,7 @@
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Greece",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Greece"
   },
   {
@@ -6919,7 +6926,7 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Kharkiv",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Kharkiv"
   },
   {
@@ -6941,21 +6948,21 @@
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Lithuania",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Lithuania",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion"
+    "projectUnlockName": "RW7_Project_PelasyikoImperium"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Novgorod",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Novgorod",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion"
+    "projectUnlockName": "RW7_Project_PelasyikoImperium"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Odesa",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Odesa"
   },
   {
@@ -6963,7 +6970,7 @@
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Poland",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Poland",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion"
+    "projectUnlockName": "RW7_Project_PelasyikoImperium"
   },
   {
     "relationType": "Claim",
@@ -6982,7 +6989,7 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Bavaria",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Bavaria"
   },
   {
@@ -7003,7 +7010,7 @@
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Zagreb",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterKievUnion",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Zagreb"
   },
   {
@@ -7038,28 +7045,28 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_BritishColumbia",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRockyMountains",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_BritishColumbia"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_California",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRockyMountains",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_California"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_Alaska",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRockyMountains",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_Alaska"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_Dakota",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRockyMountains",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_Dakota"
   },
   {
@@ -7073,7 +7080,7 @@
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_NewYork",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRockyMountains",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_NewYork"
   },
   {
@@ -7102,7 +7109,7 @@
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_Texas",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_Texas",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRockyMountains"
+    "projectUnlockName": "RW7_Project_MorningStarRises"
   },
   {
     "relationType": "Claim",
@@ -7114,14 +7121,14 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterRostovskaya",
     "region1": "RW7_Crimea",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRostovskaya",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_GreaterRostovskayaRW7_Crimea"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterRostovskaya",
     "region1": "RW7_Donetsk",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRostovskaya",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_GreaterRostovskayaRW7_Donetsk"
   },
   {
@@ -7135,7 +7142,7 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterRostovskaya",
     "region1": "RW7_Novgorod",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRostovskaya",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_GreaterRostovskayaRW7_Novgorod"
   },
   {
@@ -7150,7 +7157,7 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterRostovskaya",
     "region1": "RW7_Volga",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRostovskaya",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_GreaterRostovskayaRW7_Volga"
   },
   {
@@ -7158,7 +7165,7 @@
     "nation1": "RW7_GreaterRostovskaya",
     "region1": "RW7_Moskva",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterRostovskaya",
+    "projectUnlockName": "RW7_Project_WildFields",
     "dataName": "ClaimRW7_GreaterRostovskayaRW7_Moskva"
   },
   {
@@ -7171,7 +7178,7 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterYunnan",
     "region1": "RW7_ChiangMai",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterYunnan",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_GreaterYunnanRW7_ChiangMai"
   },
   {
@@ -7179,7 +7186,7 @@
     "nation1": "RW7_GreaterYunnan",
     "region1": "RW7_Chongqing",
     "dataName": "ClaimRW7_GreaterYunnanRW7_Chongqing",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterYunnan"
+    "projectUnlockName": "RW7_Project_MekongMandala"
   },
   {
     "relationType": "Claim",
@@ -7191,14 +7198,14 @@
     "relationType": "Claim",
     "nation1": "RW7_GreaterYunnan",
     "region1": "RW7_Hanoi",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterYunnan",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_GreaterYunnanRW7_Hanoi"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GreaterYunnan",
     "region1": "RW7_HoChiMinhCity",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterYunnan",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_GreaterYunnanRW7_HoChiMinhCity"
   },
   {
@@ -7213,7 +7220,7 @@
     "nation1": "RW7_GreaterYunnan",
     "region1": "RW7_Nanning",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGreaterYunnan",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_GreaterYunnanRW7_Nanning"
   },
   {
@@ -7229,13 +7236,13 @@
     "nation1": "RW7_GuangzhouCommonwealth",
     "region1": "RW7_Anhui",
     "dataName": "ClaimRW7_GuangzhouCommonwealthRW7_Anhui",
-    "projectUnlockName": "RW7_Project_DoctrineGuangzhouCommonwealth"
+    "projectUnlockName": "RW7_Project_GoujiansPatience"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_GuangzhouCommonwealth",
     "region1": "RW7_Fujian",
-    "projectUnlockName": "RW7_Project_DoctrineGuangzhouCommonwealth",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_GuangzhouCommonwealthRW7_Fujian"
   },
   {
@@ -7250,7 +7257,7 @@
     "relationType": "Claim",
     "nation1": "RW7_GuangzhouCommonwealth",
     "region1": "RW7_Hangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineGuangzhouCommonwealth",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_GuangzhouCommonwealthRW7_Hangzhou"
   },
   {
@@ -7258,7 +7265,7 @@
     "nation1": "RW7_GuangzhouCommonwealth",
     "region1": "RW7_Hunan",
     "dataName": "ClaimRW7_GuangzhouCommonwealthRW7_Hunan",
-    "projectUnlockName": "RW7_Project_DoctrineGuangzhouCommonwealth"
+    "projectUnlockName": "RW7_Project_GoujiansPatience"
   },
   {
     "relationType": "Claim",
@@ -7272,7 +7279,7 @@
     "nation1": "RW7_GuangzhouCommonwealth",
     "region1": "RW7_Nanning",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineGuangzhouCommonwealth",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_GuangzhouCommonwealthRW7_Nanning"
   },
   {
@@ -7350,21 +7357,21 @@
     "relationType": "Claim",
     "nation1": "RW7_IvoryCoast",
     "region1": "RW7_Accra",
-    "projectUnlockName": "RW7_Project_DoctrineIvoryCoast",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_IvoryCoastRW7_Accra"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_IvoryCoast",
     "region1": "RW7_Mauritania",
-    "projectUnlockName": "RW7_Project_DoctrineIvoryCoast",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_IvoryCoastRW7_Mauritania"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_IvoryCoast",
     "region1": "RW7_Guinea",
-    "projectUnlockName": "RW7_Project_DoctrineIvoryCoast",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_IvoryCoastRW7_Guinea"
   },
   {
@@ -7379,7 +7386,7 @@
     "relationType": "Claim",
     "nation1": "RW7_IvoryCoast",
     "region1": "RW7_Liberia",
-    "projectUnlockName": "RW7_Project_DoctrineIvoryCoast",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_IvoryCoastRW7_Liberia"
   },
   {
@@ -7424,19 +7431,6 @@
     "initialOwner": true,
     "capitalClaim": true,
     "dataName": "ClaimRW7_KyrgyzstanRW7_Kyrgyzstan"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Kyrgyzstan",
-    "region1": "RW7_Tajikistan",
-    "dataName": "ClaimRW7_KyrgyzstanRW7_Tajikistan"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Kyrgyzstan",
-    "region1": "RW7_Uzbekistan",
-    "dataName": "ClaimRW7_KyrgyzstanRW7_Uzbekistan",
-    "hostileClaim": true
   },
   {
     "relationType": "Claim",
@@ -7519,6 +7513,13 @@
   {
     "relationType": "Claim",
     "nation1": "RW7_LiaoningDirectorate",
+    "region1": "RW7_Tajikistan",
+    "hostileClaim": true,
+    "dataName": "ClaimRW7_LiaoningDirectorateRW7_Tajikistan"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_LiaoningDirectorate",
     "region1": "RW7_Urals",
     "dataName": "ClaimRW7_LiaoningDirectorateRW7_Urals"
   },
@@ -7577,7 +7578,7 @@
     "nation1": "RW7_LubumbashiKhanate",
     "region1": "RW7_Mekelle",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineLubumbashiKhanate",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_LubumbashiKhanateRW7_Mekelle"
   },
   {
@@ -7593,7 +7594,7 @@
     "nation1": "RW7_LubumbashiKhanate",
     "region1": "RW7_Eswatini",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineLubumbashiKhanate",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_LubumbashiKhanateRW7_Eswatini"
   },
   {
@@ -7614,35 +7615,35 @@
     "nation1": "RW7_LubumbashiKhanate",
     "region1": "RW7_Zimbabwe",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineLubumbashiKhanate",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_LubumbashiKhanateRW7_Zimbabwe"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_LuxorDirectorate",
     "region1": "RW7_Cairo",
-    "projectUnlockName": "RW7_Project_DoctrineLuxorDirectorate",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_LuxorDirectorateRW7_Cairo"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_LuxorDirectorate",
     "region1": "RW7_Cyrenaica",
-    "projectUnlockName": "RW7_Project_DoctrineLuxorDirectorate",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_LuxorDirectorateRW7_Cyrenaica"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_LuxorDirectorate",
     "region1": "RW7_NorthernChad",
-    "projectUnlockName": "RW7_Project_DoctrineLuxorDirectorate",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_LuxorDirectorateRW7_NorthernChad"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_LuxorDirectorate",
     "region1": "RW7_Eritrea",
-    "projectUnlockName": "RW7_Project_DoctrineLuxorDirectorate",
+    "projectUnlockName": "RW7_Project_SmaTawy",
     "dataName": "ClaimRW7_LuxorDirectorateRW7_Eritrea"
   },
   {
@@ -7776,14 +7777,14 @@
     "relationType": "Claim",
     "nation1": "RW7_NanningRepublic",
     "region1": "RW7_Chongqing",
-    "projectUnlockName": "RW7_Project_DoctrineNanningRepublic",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_NanningRepublicRW7_Chongqing"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_NanningRepublic",
     "region1": "RW7_Hanoi",
-    "projectUnlockName": "RW7_Project_DoctrineNanningRepublic",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_NanningRepublicRW7_Hanoi"
   },
   {
@@ -7791,7 +7792,7 @@
     "nation1": "RW7_NanningRepublic",
     "region1": "RW7_Hunan",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineNanningRepublic",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_NanningRepublicRW7_Hunan"
   },
   {
@@ -7806,14 +7807,14 @@
     "relationType": "Claim",
     "nation1": "RW7_NanningRepublic",
     "region1": "RW7_Yunnan",
-    "projectUnlockName": "RW7_Project_DoctrineNanningRepublic",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_NanningRepublicRW7_Yunnan"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Nantes",
     "region1": "RW7_Bavaria",
-    "projectUnlockName": "RW7_Project_DoctrineNantes",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_NantesRW7_Bavaria"
   },
   {
@@ -7821,13 +7822,13 @@
     "nation1": "RW7_Nantes",
     "region1": "RW7_Belgium",
     "dataName": "ClaimRW7_NantesRW7_Belgium",
-    "projectUnlockName": "RW7_Project_DoctrineNantes"
+    "projectUnlockName": "RW7_Project_TroubadourCrowns"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Nantes",
     "region1": "RW7_England",
-    "projectUnlockName": "RW7_Project_DoctrineNantes",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_NantesRW7_England"
   },
   {
@@ -7842,7 +7843,7 @@
     "relationType": "Claim",
     "nation1": "RW7_Nantes",
     "region1": "RW7_Netherlands",
-    "projectUnlockName": "RW7_Project_DoctrineNantes",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_NantesRW7_Netherlands"
   },
   {
@@ -7850,14 +7851,14 @@
     "nation1": "RW7_Nantes",
     "region1": "RW7_Paris",
     "dataName": "ClaimRW7_NantesRW7_Paris",
-    "projectUnlockName": "RW7_Project_DoctrineNantes"
+    "projectUnlockName": "RW7_Project_TroubadourCrowns"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Nantes",
     "region1": "RW7_Toulouse",
     "dataName": "ClaimRW7_NantesRW7_Toulouse",
-    "projectUnlockName": "RW7_Project_DoctrineNantes"
+    "projectUnlockName": "RW7_Project_TroubadourCrowns"
   },
   {
     "relationType": "Claim",
@@ -7879,28 +7880,28 @@
     "relationType": "Claim",
     "nation1": "RW7_NorthernChad",
     "region1": "RW7_Cameroon",
-    "projectUnlockName": "RW7_Project_DoctrineNorthernChad",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_NorthernChadRW7_Cameroon"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_NorthernChad",
     "region1": "RW7_Cyrenaica",
-    "projectUnlockName": "RW7_Project_DoctrineNorthernChad",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_NorthernChadRW7_Cyrenaica"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_NorthernChad",
     "region1": "RW7_Libya",
-    "projectUnlockName": "RW7_Project_DoctrineNorthernChad",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_NorthernChadRW7_Libya"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_NorthernChad",
     "region1": "RW7_Mauritania",
-    "projectUnlockName": "RW7_Project_DoctrineNorthernChad",
+    "projectUnlockName": "RW7_Project_AsSirat",
     "dataName": "ClaimRW7_NorthernChadRW7_Mauritania"
   },
   {
@@ -7959,7 +7960,7 @@
     "nation1": "RW7_Pampas",
     "region1": "RW7_Patagonia",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrinePampas",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_PampasRW7_Patagonia"
   },
   {
@@ -7967,7 +7968,7 @@
     "nation1": "RW7_Pampas",
     "region1": "RW7_Santiago",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrinePampas",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_PampasRW7_Santiago"
   },
   {
@@ -7981,7 +7982,7 @@
     "nation1": "RW7_Pampas",
     "region1": "RW7_Valparaiso",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrinePampas",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_PampasRW7_Valparaiso"
   },
   {
@@ -8052,21 +8053,21 @@
     "relationType": "Claim",
     "nation1": "RW7_Poland",
     "region1": "RW7_Bavaria",
-    "projectUnlockName": "RW7_Project_DoctrinePoland",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_PolandRW7_Bavaria"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Poland",
     "region1": "RW7_Kiev",
-    "projectUnlockName": "RW7_Project_DoctrinePoland",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_PolandRW7_Kiev"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Poland",
     "region1": "RW7_Lithuania",
-    "projectUnlockName": "RW7_Project_DoctrinePoland",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_PolandRW7_Lithuania"
   },
   {
@@ -8135,14 +8136,14 @@
     "relationType": "Claim",
     "nation1": "RW7_RLK",
     "region1": "RW7_Afghanistan",
-    "projectUnlockName": "RW7_Project_DoctrineRLK",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_RLKRW7_Afghanistan"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_RLK",
     "region1": "RW7_Baluchistan",
-    "projectUnlockName": "RW7_Project_DoctrineRLK",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_RLKRW7_Baluchistan"
   },
   {
@@ -8164,7 +8165,7 @@
     "relationType": "Claim",
     "nation1": "RW7_RLK",
     "region1": "RW7_Gujarat",
-    "projectUnlockName": "RW7_Project_DoctrineRLK",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_RLKRW7_Gujarat"
   },
   {
@@ -8172,7 +8173,7 @@
     "nation1": "RW7_RLK",
     "region1": "RW7_Mumbai",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineRLK",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_RLKRW7_Mumbai"
   },
   {
@@ -8216,7 +8217,7 @@
     "relationType": "Claim",
     "nation1": "RW7_RLK",
     "region1": "RW7_Bangladesh",
-    "projectUnlockName": "RW7_Project_DoctrineRLK",
+    "projectUnlockName": "RW7_Project_LionThrone",
     "dataName": "ClaimRW7_RLKRW7_Bangladesh"
   },
   {
@@ -8660,21 +8661,21 @@
     "relationType": "Claim",
     "nation1": "RW7_RustBelt",
     "region1": "RW7_Dakota",
-    "projectUnlockName": "RW7_Project_DoctrineRustBelt",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_RustBeltRW7_Dakota"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_RustBelt",
     "region1": "RW7_Dixie",
-    "projectUnlockName": "RW7_Project_DoctrineRustBelt",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_RustBeltRW7_Dixie"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_RustBelt",
     "region1": "RW7_MississippiDelta",
-    "projectUnlockName": "RW7_Project_DoctrineRustBelt",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_RustBeltRW7_MississippiDelta"
   },
   {
@@ -8682,7 +8683,7 @@
     "nation1": "RW7_RustBelt",
     "region1": "RW7_NewYork",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineRustBelt",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_RustBeltRW7_NewYork"
   },
   {
@@ -8698,7 +8699,7 @@
     "nation1": "RW7_RustBelt",
     "region1": "RW7_Shenandoah",
     "dataName": "ClaimRW7_RustBeltRW7_Shenandoah",
-    "projectUnlockName": "RW7_Project_DoctrineRustBelt"
+    "projectUnlockName": "RW7_Project_SevenCouncilFires"
   },
   {
     "relationType": "Claim",
@@ -8915,21 +8916,21 @@
     "relationType": "Claim",
     "nation1": "RW7_SCH",
     "region1": "RW7_Guangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineSCH",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_SCHRW7_Guangzhou"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SCH",
     "region1": "RW7_Hangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineSCH",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_SCHRW7_Hangzhou"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SCH",
     "region1": "RW7_Hunan",
-    "projectUnlockName": "RW7_Project_DoctrineSCH",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_SCHRW7_Hunan"
   },
   {
@@ -8937,7 +8938,7 @@
     "nation1": "RW7_SCH",
     "region1": "RW7_Shanghai",
     "dataName": "ClaimRW7_SCHRW7_Shanghai",
-    "projectUnlockName": "RW7_Project_DoctrineSCH"
+    "projectUnlockName": "RW7_Project_MiddleKingdom"
   },
   {
     "relationType": "Claim",
@@ -8950,13 +8951,13 @@
     "nation1": "RW7_SCH",
     "region1": "RW7_Zhengzhou",
     "dataName": "ClaimRW7_SCHRW7_Zhengzhou",
-    "projectUnlockName": "RW7_Project_DoctrineSCH"
+    "projectUnlockName": "RW7_Project_MiddleKingdom"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SCT",
     "region1": "RW7_MississippiDelta",
-    "projectUnlockName": "RW7_Project_DoctrineSCT",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_SCTRW7_MississippiDelta"
   },
   {
@@ -8964,14 +8965,14 @@
     "nation1": "RW7_SCT",
     "region1": "RW7_NewYork",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineSCT",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_SCTRW7_NewYork"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SCT",
     "region1": "RW7_RustBelt",
-    "projectUnlockName": "RW7_Project_DoctrineSCT",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_SCTRW7_RustBelt"
   },
   {
@@ -9000,21 +9001,21 @@
     "relationType": "Claim",
     "nation1": "RW7_SaoPauloRepublic",
     "region1": "RW7_Belem",
-    "projectUnlockName": "RW7_Project_DoctrineSaoPauloRepublic",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_SaoPauloRepublicRW7_Belem"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SaoPauloRepublic",
     "region1": "RW7_Bolivia",
-    "projectUnlockName": "RW7_Project_DoctrineSaoPauloRepublic",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_SaoPauloRepublicRW7_Bolivia"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SaoPauloRepublic",
     "region1": "RW7_Fortaleza",
-    "projectUnlockName": "RW7_Project_DoctrineSaoPauloRepublic",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_SaoPauloRepublicRW7_Fortaleza"
   },
   {
@@ -9028,14 +9029,14 @@
     "relationType": "Claim",
     "nation1": "RW7_SaoPauloRepublic",
     "region1": "RW7_PortoAlegre",
-    "projectUnlockName": "RW7_Project_DoctrineSaoPauloRepublic",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_SaoPauloRepublicRW7_PortoAlegre"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_SaoPauloRepublic",
     "region1": "RW7_RiodeJaneiro",
-    "projectUnlockName": "RW7_Project_DoctrineSaoPauloRepublic",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_SaoPauloRepublicRW7_RiodeJaneiro"
   },
   {
@@ -9056,14 +9057,14 @@
     "relationType": "Claim",
     "nation1": "RW7_Senegambia",
     "region1": "RW7_Guinea",
-    "projectUnlockName": "RW7_Project_DoctrineSenegambia",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_SenegambiaRW7_Guinea"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Senegambia",
     "region1": "RW7_Mauritania",
-    "projectUnlockName": "RW7_Project_DoctrineSenegambia",
+    "projectUnlockName": "RW7_Project_FactorsWar",
     "dataName": "ClaimRW7_SenegambiaRW7_Mauritania"
   },
   {
@@ -9078,21 +9079,21 @@
     "relationType": "Claim",
     "nation1": "RW7_ShanghaiLeague",
     "region1": "RW7_Anhui",
-    "projectUnlockName": "RW7_Project_DoctrineShanghaiLeague",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_ShanghaiLeagueRW7_Anhui"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ShanghaiLeague",
     "region1": "RW7_Beijing",
-    "projectUnlockName": "RW7_Project_DoctrineShanghaiLeague",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_ShanghaiLeagueRW7_Beijing"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ShanghaiLeague",
     "region1": "RW7_Hangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineShanghaiLeague",
+    "projectUnlockName": "RW7_Project_GoujiansPatience",
     "dataName": "ClaimRW7_ShanghaiLeagueRW7_Hangzhou"
   },
   {
@@ -9115,7 +9116,7 @@
     "nation1": "RW7_ShanghaiLeague",
     "region1": "RW7_Zhengzhou",
     "dataName": "ClaimRW7_ShanghaiLeagueRW7_Zhengzhou",
-    "projectUnlockName": "RW7_Project_DoctrineShanghaiLeague"
+    "projectUnlockName": "RW7_Project_GoujiansPatience"
   },
   {
     "relationType": "Claim",
@@ -9196,14 +9197,14 @@
     "relationType": "Claim",
     "nation1": "RW7_Sweden",
     "region1": "RW7_Bavaria",
-    "projectUnlockName": "RW7_Project_DoctrineSweden",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_SwedenRW7_Bavaria"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Sweden",
     "region1": "RW7_Belgium",
-    "projectUnlockName": "RW7_Project_DoctrineSweden",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_SwedenRW7_Belgium"
   },
   {
@@ -9217,14 +9218,14 @@
     "relationType": "Claim",
     "nation1": "RW7_Sweden",
     "region1": "RW7_Finland",
-    "projectUnlockName": "RW7_Project_DoctrineSweden",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_SwedenRW7_Finland"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Sweden",
     "region1": "RW7_Netherlands",
-    "projectUnlockName": "RW7_Project_DoctrineSweden",
+    "projectUnlockName": "RW7_Project_SoundTolls",
     "dataName": "ClaimRW7_SwedenRW7_Netherlands"
   },
   {
@@ -9239,21 +9240,21 @@
     "relationType": "Claim",
     "nation1": "RW7_TabrizRepublic",
     "region1": "RW7_Ahvaz",
-    "projectUnlockName": "RW7_Project_DoctrineTabrizRepublic",
+    "projectUnlockName": "RW7_Project_Eranshahr",
     "dataName": "ClaimRW7_TabrizRepublicRW7_Ahvaz"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_TabrizRepublic",
     "region1": "RW7_Baghdad",
-    "projectUnlockName": "RW7_Project_DoctrineTabrizRepublic",
+    "projectUnlockName": "RW7_Project_Eranshahr",
     "dataName": "ClaimRW7_TabrizRepublicRW7_Baghdad"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_TabrizRepublic",
     "region1": "RW7_Mosul",
-    "projectUnlockName": "RW7_Project_DoctrineTabrizRepublic",
+    "projectUnlockName": "RW7_Project_Eranshahr",
     "dataName": "ClaimRW7_TabrizRepublicRW7_Mosul"
   },
   {
@@ -9269,7 +9270,7 @@
     "nation1": "RW7_TabrizRepublic",
     "region1": "RW7_Tehran",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineTabrizRepublic",
+    "projectUnlockName": "RW7_Project_Eranshahr",
     "dataName": "ClaimRW7_TabrizRepublicRW7_Tehran"
   },
   {
@@ -9320,14 +9321,14 @@
     "relationType": "Claim",
     "nation1": "RW7_TexasSultanate",
     "region1": "RW7_MexicoCity",
-    "projectUnlockName": "RW7_Project_DoctrineTexasSultanate",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_TexasSultanateRW7_MexicoCity"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_TexasSultanate",
     "region1": "RW7_MississippiDelta",
-    "projectUnlockName": "RW7_Project_DoctrineTexasSultanate",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_TexasSultanateRW7_MississippiDelta"
   },
   {
@@ -9341,7 +9342,7 @@
     "relationType": "Claim",
     "nation1": "RW7_TexasSultanate",
     "region1": "RW7_RockyMountains",
-    "projectUnlockName": "RW7_Project_DoctrineTexasSultanate",
+    "projectUnlockName": "RW7_Project_MorningStarRises",
     "dataName": "ClaimRW7_TexasSultanateRW7_RockyMountains"
   },
   {
@@ -9370,21 +9371,21 @@
     "relationType": "Claim",
     "nation1": "RW7_Toulouse",
     "region1": "RW7_Barcelona",
-    "projectUnlockName": "RW7_Project_DoctrineToulouse",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_ToulouseRW7_Barcelona"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Toulouse",
     "region1": "RW7_Nantes",
-    "projectUnlockName": "RW7_Project_DoctrineToulouse",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_ToulouseRW7_Nantes"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Toulouse",
     "region1": "RW7_Paris",
-    "projectUnlockName": "RW7_Project_DoctrineToulouse",
+    "projectUnlockName": "RW7_Project_TroubadourCrowns",
     "dataName": "ClaimRW7_ToulouseRW7_Paris"
   },
   {
@@ -9820,7 +9821,7 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedBelem",
     "region1": "RW7_Arequipa",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedBelem",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_UnitedBelemRW7_Arequipa"
   },
   {
@@ -9835,35 +9836,35 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedBelem",
     "region1": "RW7_SaoPaulo",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedBelem",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_UnitedBelemRW7_SaoPaulo"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedBelem",
     "region1": "RW7_Fortaleza",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedBelem",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_UnitedBelemRW7_Fortaleza"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedBelem",
     "region1": "RW7_FrenchGuiana",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedBelem",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_UnitedBelemRW7_FrenchGuiana"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedBelem",
     "region1": "RW7_Colombia",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedBelem",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_UnitedBelemRW7_Colombia"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedBelem",
     "region1": "RW7_Peru",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedBelem",
+    "projectUnlockName": "RW7_Project_RiverSea",
     "dataName": "ClaimRW7_UnitedBelemRW7_Peru"
   },
   {
@@ -9900,7 +9901,7 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedChongqing",
     "region1": "RW7_Gansu",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedChongqing",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedChongqingRW7_Gansu"
   },
   {
@@ -9915,20 +9916,20 @@
     "nation1": "RW7_UnitedChongqing",
     "region1": "RW7_Hunan",
     "dataName": "ClaimRW7_UnitedChongqingRW7_Hunan",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedChongqing"
+    "projectUnlockName": "RW7_Project_MiddleKingdom"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedChongqing",
     "region1": "RW7_Nanning",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedChongqing",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedChongqingRW7_Nanning"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedChongqing",
     "region1": "RW7_Qinghai",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedChongqing",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedChongqingRW7_Qinghai"
   },
   {
@@ -9947,7 +9948,7 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedChongqing",
     "region1": "RW7_Yunnan",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedChongqing",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedChongqingRW7_Yunnan"
   },
   {
@@ -9969,14 +9970,14 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Kiev",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedGreece",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Kiev"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Kosovo",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedGreece",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Kosovo"
   },
   {
@@ -9990,7 +9991,7 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Tirana",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedGreece",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Tirana"
   },
   {
@@ -9998,7 +9999,7 @@
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Zagreb",
     "hostileClaim": true,
-    "projectUnlockName": "RW7_Project_DoctrineUnitedGreece",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Zagreb"
   },
   {
@@ -10012,14 +10013,14 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedHoChiMinhCity",
     "region1": "RW7_ChiangMai",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHoChiMinhCity",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_UnitedHoChiMinhCityRW7_ChiangMai"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedHoChiMinhCity",
     "region1": "RW7_Hanoi",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHoChiMinhCity",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_UnitedHoChiMinhCityRW7_Hanoi"
   },
   {
@@ -10034,42 +10035,42 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedHoChiMinhCity",
     "region1": "RW7_Yunnan",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHoChiMinhCity",
+    "projectUnlockName": "RW7_Project_MekongMandala",
     "dataName": "ClaimRW7_UnitedHoChiMinhCityRW7_Yunnan"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Anhui",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_Anhui"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Chongqing",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_Chongqing"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Guangzhou",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_Guangzhou"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Hanoi",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_Hanoi"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_HoChiMinhCity",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_HoChiMinhCity"
   },
   {
@@ -10084,7 +10085,7 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Nanning",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_Nanning"
   },
   {
@@ -10104,7 +10105,7 @@
     "relationType": "Claim",
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Yunnan",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan",
+    "projectUnlockName": "RW7_Project_MiddleKingdom",
     "dataName": "ClaimRW7_UnitedHunanRW7_Yunnan"
   },
   {
@@ -10112,7 +10113,7 @@
     "nation1": "RW7_UnitedHunan",
     "region1": "RW7_Zhengzhou",
     "dataName": "ClaimRW7_UnitedHunanRW7_Zhengzhou",
-    "projectUnlockName": "RW7_Project_DoctrineUnitedHunan"
+    "projectUnlockName": "RW7_Project_MiddleKingdom"
   },
   {
     "relationType": "Claim",
@@ -10219,35 +10220,35 @@
     "relationType": "Claim",
     "nation1": "RW7_Valparaiso",
     "region1": "RW7_Arequipa",
-    "projectUnlockName": "RW7_Project_DoctrineValparaiso",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_ValparaisoRW7_Arequipa"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Valparaiso",
     "region1": "RW7_Bolivia",
-    "projectUnlockName": "RW7_Project_DoctrineValparaiso",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_ValparaisoRW7_Bolivia"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Valparaiso",
     "region1": "RW7_PortoAlegre",
-    "projectUnlockName": "RW7_Project_DoctrineValparaiso",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_ValparaisoRW7_PortoAlegre"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Valparaiso",
     "region1": "RW7_Pampas",
-    "projectUnlockName": "RW7_Project_DoctrineValparaiso",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_ValparaisoRW7_Pampas"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Valparaiso",
     "region1": "RW7_Santiago",
-    "projectUnlockName": "RW7_Project_DoctrineValparaiso",
+    "projectUnlockName": "RW7_Project_LordsOfThePampas",
     "dataName": "ClaimRW7_ValparaisoRW7_Santiago"
   },
   {
@@ -10278,28 +10279,28 @@
     "relationType": "Claim",
     "nation1": "RW7_York",
     "region1": "RW7_BritishColumbia",
-    "projectUnlockName": "RW7_Project_DoctrineYork",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_YorkRW7_BritishColumbia"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_York",
     "region1": "RW7_Alaska",
-    "projectUnlockName": "RW7_Project_DoctrineYork",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_YorkRW7_Alaska"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_York",
     "region1": "RW7_Dakota",
-    "projectUnlockName": "RW7_Project_DoctrineYork",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_YorkRW7_Dakota"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_York",
     "region1": "RW7_Laurentia",
-    "projectUnlockName": "RW7_Project_DoctrineYork",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_YorkRW7_Laurentia"
   },
   {
@@ -10313,7 +10314,7 @@
     "relationType": "Claim",
     "nation1": "RW7_York",
     "region1": "RW7_NewEngland",
-    "projectUnlockName": "RW7_Project_DoctrineYork",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_YorkRW7_NewEngland"
   },
   {
@@ -10335,28 +10336,28 @@
     "relationType": "Claim",
     "nation1": "RW7_York",
     "region1": "RW7_RustBelt",
-    "projectUnlockName": "RW7_Project_DoctrineYork",
+    "projectUnlockName": "RW7_Project_SevenCouncilFires",
     "dataName": "ClaimRW7_YorkRW7_RustBelt"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ZagrebCommonwealth",
     "region1": "RW7_Greece",
-    "projectUnlockName": "RW7_Project_DoctrineZagrebCommonwealth",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_ZagrebCommonwealthRW7_Greece"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ZagrebCommonwealth",
     "region1": "RW7_Kiev",
-    "projectUnlockName": "RW7_Project_DoctrineZagrebCommonwealth",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_ZagrebCommonwealthRW7_Kiev"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ZagrebCommonwealth",
     "region1": "RW7_Kosovo",
-    "projectUnlockName": "RW7_Project_DoctrineZagrebCommonwealth",
+    "projectUnlockName": "RW7_Project_PelasyikoImperium",
     "dataName": "ClaimRW7_ZagrebCommonwealthRW7_Kosovo"
   },
   {
@@ -10385,7 +10386,7 @@
     "relationType": "Claim",
     "nation1": "RW7_ZhengzhouRepublic",
     "region1": "RW7_Beijing",
-    "projectUnlockName": "RW7_Project_MandateOfHeaven",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Beijing"
   },
   {
@@ -10399,7 +10400,7 @@
     "relationType": "Claim",
     "nation1": "RW7_ZhengzhouRepublic",
     "region1": "RW7_Gansu",
-    "projectUnlockName": "RW7_Project_MandateOfHeaven",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Gansu"
   },
   {
@@ -10429,7 +10430,7 @@
     "relationType": "Claim",
     "nation1": "RW7_ZhengzhouRepublic",
     "region1": "RW7_Shanxi",
-    "projectUnlockName": "RW7_Project_MandateOfHeaven",
+    "projectUnlockName": "RW7_Project_GreatWall",
     "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Shanxi"
   },
   {
@@ -10458,21 +10459,21 @@
     "relationType": "Claim",
     "nation1": "RW7_ZimbabweRepublic",
     "region1": "RW7_Botswana",
-    "projectUnlockName": "RW7_Project_DoctrineZimbabweRepublic",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_ZimbabweRepublicRW7_Botswana"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ZimbabweRepublic",
     "region1": "RW7_Eswatini",
-    "projectUnlockName": "RW7_Project_DoctrineZimbabweRepublic",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_ZimbabweRepublicRW7_Eswatini"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_ZimbabweRepublic",
     "region1": "RW7_Lubumbashi",
-    "projectUnlockName": "RW7_Project_DoctrineZimbabweRepublic",
+    "projectUnlockName": "RW7_Project_GreatZimbabwe",
     "dataName": "ClaimRW7_ZimbabweRepublicRW7_Lubumbashi"
   },
   {
@@ -12606,13 +12607,6 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Afghanistan",
-    "region1": "RW7_Tajikistan",
-    "initialOwner": true,
-    "dataName": "ClaimRW7_AfghanistanRW7_Tajikistan"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_VolgaRepublic",
     "region1": "RW7_Arkhangelsk",
     "initialOwner": true,
@@ -13154,6 +13148,13 @@
     "capitalClaim": true
   },
   {
+    "relationType": "Claim",
+    "nation1": "RW7_Kyrgyzstan",
+    "region1": "RW7_Tajikistan",
+    "initialOwner": true,
+    "dataName": "ClaimRW7_KyrgyzstanRW7_Tajikistan"
+  },
+  {
     "dataName": "RW7_AllianceRW7_PuthuTamilakamRW7_ChennaiLeague",
     "relationType": "Alliance",
     "nation1": "RW7_PuthuTamilakam",
@@ -13200,6 +13201,12 @@
     "relationType": "Rivalry",
     "nation1": "RW7_BangladeshFederation",
     "nation2": "RW7_ZhengzhouRepublic"
+  },
+  {
+    "dataName": "RW7_RivalryRW7_KyushuandShikokuRW7_Honshu",
+    "relationType": "Rivalry",
+    "nation1": "RW7_KyushuandShikoku",
+    "nation2": "RW7_Honshu"
   },
   {
     "dataName": "RW7_RivalryRW7_FreeAlmatyRW7_GreaterRostovskaya",
@@ -13334,6 +13341,18 @@
     "nation2": "RW7_AngolaRepublic"
   },
   {
+    "dataName": "RW7_AllianceRW7_ROSRW7_KyushuandShikoku",
+    "relationType": "Alliance",
+    "nation1": "RW7_ROS",
+    "nation2": "RW7_KyushuandShikoku"
+  },
+  {
+    "dataName": "RW7_AllianceRW7_KoreaRW7_Honshu",
+    "relationType": "Alliance",
+    "nation1": "RW7_Korea",
+    "nation2": "RW7_Honshu"
+  },
+  {
     "dataName": "RW7_AllianceRW7_ChennaiLeagueRW7_Madagascar",
     "relationType": "Alliance",
     "nation1": "RW7_ChennaiLeague",
@@ -13452,6 +13471,13 @@
     "relationType": "Alliance",
     "nation1": "RW7_TurkmenistanRepublic",
     "nation2": "RW7_VolgaRepublic"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_LiaoningDirectorate",
+    "region1": "RW7_Kyrgyzstan",
+    "dataName": "ClaimRW7_LiaoningDirectorateRW7_Kyrgyzstan",
+    "hostileClaim": true
   },
   {
     "relationType": "Claim",
@@ -13698,6 +13724,13 @@
   {
     "relationType": "Claim",
     "nation1": "RW7_ZhengzhouRepublic",
+    "region1": "RW7_Qinghai",
+    "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Qinghai",
+    "projectUnlockName": "RW7_Project_GreatWall"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ZhengzhouRepublic",
     "region1": "RW7_Guangzhou",
     "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Guangzhou",
     "projectUnlockName": "RW7_Project_MandateOfHeaven"
@@ -13721,13 +13754,6 @@
     "nation1": "RW7_ZhengzhouRepublic",
     "region1": "RW7_Nanning",
     "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Nanning",
-    "projectUnlockName": "RW7_Project_MandateOfHeaven"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_ZhengzhouRepublic",
-    "region1": "RW7_Qinghai",
-    "dataName": "ClaimRW7_ZhengzhouRepublicRW7_Qinghai",
     "projectUnlockName": "RW7_Project_MandateOfHeaven"
   },
   {
@@ -14134,6 +14160,13 @@
     "nation1": "RW7_ROS",
     "region1": "RW7_PortMorseby",
     "dataName": "ClaimRW7_ROSRW7_PortMorseby",
+    "projectUnlockName": "RW7_Project_DynastyCoasts"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ROS",
+    "region1": "RW7_KyushuandShikoku",
+    "dataName": "ClaimRW7_ROSRW7_KyushuandShikoku",
     "projectUnlockName": "RW7_Project_DynastyCoasts"
   },
   {
@@ -16200,11 +16233,22 @@
     "projectUnlockName": "RW7_Project_TenThousandIslands"
   },
   {
+    "dataName": "PhysicalAdjacencymap_Tajikistanmap_Peshawar",
+    "relationType": "PhysicalAdjacency",
+    "region1": "map_Tajikistan",
+    "region2": "map_Peshawar",
+    "projectUnlockName": "RW7_Project_CrossroadsOfEmpires",
+    "friendlyOnly": true,
+    "scenarioTags": [
+      "RW7World"
+    ]
+  },
+  {
     "relationType": "Claim",
     "nation1": "RW7_GreaterFujian",
     "region1": "RW7_Shanghai",
     "dataName": "ClaimRW7_GreaterFujianRW7_Shanghai",
-    "projectUnlockName": "RW7_Project_DoctrineGreaterFujian"
+    "projectUnlockName": "RW7_Project_GoujiansPatience"
   },
   {
     "relationType": "Claim",
@@ -16225,7 +16269,7 @@
     "nation1": "RW7_Senegambia",
     "region1": "RW7_Liberia",
     "dataName": "ClaimRW7_SenegambiaRW7_Liberia",
-    "projectUnlockName": "RW7_Project_DoctrineSenegambia"
+    "projectUnlockName": "RW7_Project_FactorsWar"
   },
   {
     "relationType": "Claim",
@@ -16907,78 +16951,27 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_FreeManchuria",
-    "region1": "RW7_NorthKorea",
-    "dataName": "ClaimRW7_FreeManchuriaRW7_NorthKorea",
-    "hostileClaim": true
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_GreaterKievUnion",
-    "region1": "RW7_Belgrade",
-    "dataName": "ClaimRW7_GreaterKievUnionRW7_Belgrade"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Valparaiso",
-    "region1": "RW7_GranChaco",
-    "dataName": "ClaimRW7_ValparaisoRW7_GranChaco"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Toulouse",
-    "region1": "RW7_BasqueCountry",
-    "dataName": "ClaimRW7_ToulouseRW7_BasqueCountry"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_TurkmenistanRepublic",
-    "region1": "RW7_Astana",
-    "dataName": "ClaimRW7_TurkmenistanRepublicRW7_Astana",
-    "hostileClaim": true
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_DarfurRepublic",
-    "region1": "RW7_Niger",
-    "dataName": "ClaimRW7_DarfurRepublicRW7_Niger"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_GreaterYunnan",
     "region1": "RW7_Tibet",
     "dataName": "ClaimRW7_GreaterYunnanRW7_Tibet"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Kyrgyzstan",
-    "region1": "RW7_Xinjiang",
-    "dataName": "ClaimRW7_KyrgyzstanRW7_Xinjiang",
-    "hostileClaim": true
+    "nation1": "RW7_Barcelona",
+    "region1": "RW7_NorthernSpain",
+    "dataName": "ClaimRW7_BarcelonaRW7_NorthernSpain"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnionofKolkata",
-    "region1": "RW7_Indore",
-    "dataName": "ClaimRW7_UnionofKolkataRW7_Indore"
+    "nation1": "RW7_IvoryCoast",
+    "region1": "RW7_BurkinaFaso",
+    "dataName": "ClaimRW7_IvoryCoastRW7_BurkinaFaso"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_StPetersburg",
-    "region1": "RW7_Arkhangelsk",
-    "dataName": "ClaimRW7_StPetersburgRW7_Arkhangelsk"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Pampas",
-    "region1": "RW7_GranChaco",
-    "dataName": "ClaimRW7_PampasRW7_GranChaco"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_ChiangMai",
-    "region1": "RW7_Myanmar",
-    "dataName": "ClaimRW7_ChiangMaiRW7_Myanmar"
+    "nation1": "RW7_Mashhad",
+    "region1": "RW7_Guatemala",
+    "dataName": "ClaimRW7_MashhadRW7_Guatemala"
   },
   {
     "relationType": "Claim",
@@ -16989,57 +16982,16 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_BotswanaRepublic",
-    "region1": "RW7_Namibia",
-    "dataName": "ClaimRW7_BotswanaRepublicRW7_Namibia"
+    "nation1": "RW7_Dakota",
+    "region1": "RW7_Manitoba",
+    "dataName": "ClaimRW7_DakotaRW7_Manitoba"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_TexasSultanate",
-    "region1": "RW7_HighPlains",
-    "dataName": "ClaimRW7_TexasSultanateRW7_HighPlains"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_IvoryCoast",
-    "region1": "RW7_BurkinaFaso",
-    "dataName": "ClaimRW7_IvoryCoastRW7_BurkinaFaso"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeShanxi",
-    "region1": "RW7_Xian",
-    "dataName": "ClaimRW7_FreeShanxiRW7_Xian"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Barcelona",
-    "region1": "RW7_NorthernSpain",
-    "dataName": "ClaimRW7_BarcelonaRW7_NorthernSpain"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_RabatCommonwealth",
-    "region1": "RW7_SaharanAlgeria",
-    "dataName": "ClaimRW7_RabatCommonwealthRW7_SaharanAlgeria"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeLesotho",
-    "region1": "RW7_Johannesburg",
-    "dataName": "ClaimRW7_FreeLesothoRW7_Johannesburg"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Eritrea",
-    "region1": "RW7_NorthernSudan",
-    "dataName": "ClaimRW7_EritreaRW7_NorthernSudan"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_RMO",
-    "region1": "RW7_Faridabad",
-    "dataName": "ClaimRW7_RMORW7_Faridabad"
+    "nation1": "RW7_Korea",
+    "region1": "RW7_Jilin",
+    "dataName": "ClaimRW7_KoreaRW7_Jilin",
+    "hostileClaim": true
   },
   {
     "relationType": "Claim",
@@ -17049,21 +17001,82 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Dakota",
-    "region1": "RW7_Manitoba",
-    "dataName": "ClaimRW7_DakotaRW7_Manitoba"
+    "nation1": "RW7_Valparaiso",
+    "region1": "RW7_GranChaco",
+    "dataName": "ClaimRW7_ValparaisoRW7_GranChaco"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Poland",
-    "region1": "RW7_Belarus",
-    "dataName": "ClaimRW7_PolandRW7_Belarus"
+    "nation1": "RW7_Qinghai",
+    "region1": "RW7_Xinjiang",
+    "dataName": "ClaimRW7_QinghaiRW7_Xinjiang",
+    "hostileClaim": true
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Belgium",
-    "region1": "RW7_Germany",
-    "dataName": "ClaimRW7_BelgiumRW7_Germany"
+    "nation1": "RW7_MeridaCommonwealth",
+    "region1": "RW7_Belize",
+    "dataName": "ClaimRW7_MeridaCommonwealthRW7_Belize"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_CaliforniaCommonwealth",
+    "region1": "RW7_Boise",
+    "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Boise"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_GreaterKievUnion",
+    "region1": "RW7_Belgrade",
+    "dataName": "ClaimRW7_GreaterKievUnionRW7_Belgrade"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ChennaiLeague",
+    "region1": "RW7_AndhraPradesh",
+    "dataName": "ClaimRW7_ChennaiLeagueRW7_AndhraPradesh"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnionofKolkata",
+    "region1": "RW7_Indore",
+    "dataName": "ClaimRW7_UnionofKolkataRW7_Indore"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnitedCapeTown",
+    "region1": "RW7_Johannesburg",
+    "dataName": "ClaimRW7_UnitedCapeTownRW7_Johannesburg"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_NanningRepublic",
+    "region1": "RW7_Guizhou",
+    "dataName": "ClaimRW7_NanningRepublicRW7_Guizhou"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_Eritrea",
+    "region1": "RW7_NorthernSudan",
+    "dataName": "ClaimRW7_EritreaRW7_NorthernSudan"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_BotswanaRepublic",
+    "region1": "RW7_Namibia",
+    "dataName": "ClaimRW7_BotswanaRepublicRW7_Namibia"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_KyushuandShikoku",
+    "region1": "RW7_SouthHonshu",
+    "dataName": "ClaimRW7_KyushuandShikokuRW7_SouthHonshu"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_Pampas",
+    "region1": "RW7_GranChaco",
+    "dataName": "ClaimRW7_PampasRW7_GranChaco"
   },
   {
     "relationType": "Claim",
@@ -17073,9 +17086,47 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_CaliforniaCommonwealth",
-    "region1": "RW7_Boise",
-    "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Boise"
+    "nation1": "RW7_FreeManchuria",
+    "region1": "RW7_NorthKorea",
+    "dataName": "ClaimRW7_FreeManchuriaRW7_NorthKorea",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_FreeShanxi",
+    "region1": "RW7_Xian",
+    "dataName": "ClaimRW7_FreeShanxiRW7_Xian"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_FreeGansu",
+    "region1": "RW7_Xian",
+    "dataName": "ClaimRW7_FreeGansuRW7_Xian"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_TexasSultanate",
+    "region1": "RW7_HighPlains",
+    "dataName": "ClaimRW7_TexasSultanateRW7_HighPlains"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_MvskokeEkvnv",
+    "region1": "RW7_Cumberland",
+    "dataName": "ClaimRW7_MvskokeEkvnvRW7_Cumberland"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_TurkmenistanRepublic",
+    "region1": "RW7_Astana",
+    "dataName": "ClaimRW7_TurkmenistanRepublicRW7_Astana",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ChiangMai",
+    "region1": "RW7_Myanmar",
+    "dataName": "ClaimRW7_ChiangMaiRW7_Myanmar"
   },
   {
     "relationType": "Claim",
@@ -17086,33 +17137,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_ROS",
-    "region1": "RW7_Faridabad",
-    "dataName": "ClaimRW7_ROSRW7_Faridabad"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_KyushuandShikoku",
-    "region1": "RW7_SouthHonshu",
-    "dataName": "ClaimRW7_KyushuandShikokuRW7_SouthHonshu"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_BaghdadFederation",
-    "region1": "RW7_Makhachkala",
-    "dataName": "ClaimRW7_BaghdadFederationRW7_Makhachkala"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Angola",
-    "region1": "RW7_Zambia",
-    "dataName": "ClaimRW7_AngolaRW7_Zambia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_BaluchistanRepublic",
-    "region1": "RW7_Peshawar",
-    "dataName": "ClaimRW7_BaluchistanRepublicRW7_Peshawar"
+    "nation1": "RW7_IsfahanRepublic",
+    "region1": "RW7_Libreville",
+    "dataName": "ClaimRW7_IsfahanRepublicRW7_Libreville"
   },
   {
     "relationType": "Claim",
@@ -17122,15 +17149,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Mosul",
-    "region1": "RW7_Diyarbakir",
-    "dataName": "ClaimRW7_MosulRW7_Diyarbakir"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_LuxorDirectorate",
-    "region1": "RW7_Alexandria",
-    "dataName": "ClaimRW7_LuxorDirectorateRW7_Alexandria"
+    "nation1": "RW7_DarfurRepublic",
+    "region1": "RW7_Niger",
+    "dataName": "ClaimRW7_DarfurRepublicRW7_Niger"
   },
   {
     "relationType": "Claim",
@@ -17153,15 +17174,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_FreeMalayPeninsula",
-    "region1": "RW7_Bangkok",
-    "dataName": "ClaimRW7_FreeMalayPeninsulaRW7_Bangkok"
+    "nation1": "RW7_Netherlands",
+    "region1": "RW7_Germany",
+    "dataName": "ClaimRW7_NetherlandsRW7_Germany"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_OdesaRepublic",
-    "region1": "RW7_Romania",
-    "dataName": "ClaimRW7_OdesaRepublicRW7_Romania"
+    "nation1": "RW7_Recife",
+    "region1": "RW7_Brasilia",
+    "dataName": "ClaimRW7_RecifeRW7_Brasilia"
   },
   {
     "relationType": "Claim",
@@ -17171,28 +17192,27 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_RiodeJaneiro",
+    "nation1": "RW7_RNA",
+    "region1": "RW7_Niger",
+    "dataName": "ClaimRW7_RNARW7_Niger"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ParisCommonwealth",
+    "region1": "RW7_Milan",
+    "dataName": "ClaimRW7_ParisCommonwealthRW7_Milan"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_EthiopiaRepublic",
+    "region1": "RW7_Kenya",
+    "dataName": "ClaimRW7_EthiopiaRepublicRW7_Kenya"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnitedBelem",
     "region1": "RW7_Brasilia",
-    "dataName": "ClaimRW7_RiodeJaneiroRW7_Brasilia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Korea",
-    "region1": "RW7_Jilin",
-    "dataName": "ClaimRW7_KoreaRW7_Jilin",
-    "hostileClaim": true
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Mashhad",
-    "region1": "RW7_Guatemala",
-    "dataName": "ClaimRW7_MashhadRW7_Guatemala"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Senegambia",
-    "region1": "RW7_GuineaBissau",
-    "dataName": "ClaimRW7_SenegambiaRW7_GuineaBissau"
+    "dataName": "ClaimRW7_UnitedBelemRW7_Brasilia"
   },
   {
     "relationType": "Claim",
@@ -17208,9 +17228,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Qinghai",
-    "region1": "RW7_Xinjiang",
-    "dataName": "ClaimRW7_QinghaiRW7_Xinjiang",
+    "nation1": "RW7_Honshu",
+    "region1": "RW7_Hokkaido",
+    "dataName": "ClaimRW7_HonshuRW7_Hokkaido",
     "hostileClaim": true
   },
   {
@@ -17227,33 +17247,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnitedCapeTown",
-    "region1": "RW7_Johannesburg",
-    "dataName": "ClaimRW7_UnitedCapeTownRW7_Johannesburg"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeGansu",
-    "region1": "RW7_Xian",
-    "dataName": "ClaimRW7_FreeGansuRW7_Xian"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_IsfahanRepublic",
-    "region1": "RW7_Libreville",
-    "dataName": "ClaimRW7_IsfahanRepublicRW7_Libreville"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Hungary",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Hungary"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_BangladeshFederation",
-    "region1": "RW7_Bihar",
-    "dataName": "ClaimRW7_BangladeshFederationRW7_Bihar"
+    "nation1": "RW7_FreeKinshasa",
+    "region1": "RW7_CentralAfricanRepublic",
+    "dataName": "ClaimRW7_FreeKinshasaRW7_CentralAfricanRepublic"
   },
   {
     "relationType": "Claim",
@@ -17269,9 +17271,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_ROA",
-    "region1": "RW7_Hungary",
-    "dataName": "ClaimRW7_ROARW7_Hungary"
+    "nation1": "RW7_UnionofJohannesburg",
+    "region1": "RW7_Mombasa",
+    "dataName": "ClaimRW7_UnionofJohannesburgRW7_Mombasa"
   },
   {
     "relationType": "Claim",
@@ -17294,16 +17296,45 @@
   },
   {
     "relationType": "Claim",
+    "nation1": "RW7_Senegambia",
+    "region1": "RW7_GuineaBissau",
+    "dataName": "ClaimRW7_SenegambiaRW7_GuineaBissau"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_FreeMalayPeninsula",
+    "region1": "RW7_Bangkok",
+    "dataName": "ClaimRW7_FreeMalayPeninsulaRW7_Bangkok"
+  },
+  {
+    "relationType": "Claim",
     "nation1": "RW7_DireDiwaRepublic",
     "region1": "RW7_Kenya",
     "dataName": "ClaimRW7_DireDiwaRepublicRW7_Kenya"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Honshu",
-    "region1": "RW7_Hokkaido",
-    "dataName": "ClaimRW7_HonshuRW7_Hokkaido",
-    "hostileClaim": true
+    "nation1": "RW7_BaluchistanRepublic",
+    "region1": "RW7_Peshawar",
+    "dataName": "ClaimRW7_BaluchistanRepublicRW7_Peshawar"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_RabatCommonwealth",
+    "region1": "RW7_SaharanAlgeria",
+    "dataName": "ClaimRW7_RabatCommonwealthRW7_SaharanAlgeria"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_BaghdadFederation",
+    "region1": "RW7_Makhachkala",
+    "dataName": "ClaimRW7_BaghdadFederationRW7_Makhachkala"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_Belgium",
+    "region1": "RW7_Germany",
+    "dataName": "ClaimRW7_BelgiumRW7_Germany"
   },
   {
     "relationType": "Claim",
@@ -17332,15 +17363,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_SaoPauloRepublic",
-    "region1": "RW7_Paraguay",
-    "dataName": "ClaimRW7_SaoPauloRepublicRW7_Paraguay"
+    "nation1": "RW7_BangladeshFederation",
+    "region1": "RW7_Bihar",
+    "dataName": "ClaimRW7_BangladeshFederationRW7_Bihar"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_ParisCommonwealth",
-    "region1": "RW7_Milan",
-    "dataName": "ClaimRW7_ParisCommonwealthRW7_Milan"
+    "nation1": "RW7_Poland",
+    "region1": "RW7_Belarus",
+    "dataName": "ClaimRW7_PolandRW7_Belarus"
   },
   {
     "relationType": "Claim",
@@ -17374,9 +17405,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Recife",
-    "region1": "RW7_Brasilia",
-    "dataName": "ClaimRW7_RecifeRW7_Brasilia"
+    "nation1": "RW7_SCT",
+    "region1": "RW7_Cumberland",
+    "dataName": "ClaimRW7_SCTRW7_Cumberland"
   },
   {
     "relationType": "Claim",
@@ -17392,9 +17423,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_MeridaCommonwealth",
-    "region1": "RW7_Belize",
-    "dataName": "ClaimRW7_MeridaCommonwealthRW7_Belize"
+    "nation1": "RW7_RMO",
+    "region1": "RW7_Faridabad",
+    "dataName": "ClaimRW7_RMORW7_Faridabad"
   },
   {
     "relationType": "Claim",
@@ -17416,9 +17447,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_EthiopiaRepublic",
-    "region1": "RW7_Kenya",
-    "dataName": "ClaimRW7_EthiopiaRepublicRW7_Kenya"
+    "nation1": "RW7_Angola",
+    "region1": "RW7_Zambia",
+    "dataName": "ClaimRW7_AngolaRW7_Zambia"
   },
   {
     "relationType": "Claim",
@@ -17441,9 +17472,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_CameroonRepublic",
-    "region1": "RW7_Logone",
-    "dataName": "ClaimRW7_CameroonRepublicRW7_Logone"
+    "nation1": "RW7_LuxorDirectorate",
+    "region1": "RW7_Alexandria",
+    "dataName": "ClaimRW7_LuxorDirectorateRW7_Alexandria"
   },
   {
     "relationType": "Claim",
@@ -17459,15 +17490,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnitedBelem",
-    "region1": "RW7_Brasilia",
-    "dataName": "ClaimRW7_UnitedBelemRW7_Brasilia"
+    "nation1": "RW7_FreeLesotho",
+    "region1": "RW7_Johannesburg",
+    "dataName": "ClaimRW7_FreeLesothoRW7_Johannesburg"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_MvskokeEkvnv",
-    "region1": "RW7_Cumberland",
-    "dataName": "ClaimRW7_MvskokeEkvnvRW7_Cumberland"
+    "nation1": "RW7_CameroonRepublic",
+    "region1": "RW7_Logone",
+    "dataName": "ClaimRW7_CameroonRepublicRW7_Logone"
   },
   {
     "relationType": "Claim",
@@ -17477,9 +17508,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_ChennaiLeague",
-    "region1": "RW7_AndhraPradesh",
-    "dataName": "ClaimRW7_ChennaiLeagueRW7_AndhraPradesh"
+    "nation1": "RW7_RiodeJaneiro",
+    "region1": "RW7_Brasilia",
+    "dataName": "ClaimRW7_RiodeJaneiroRW7_Brasilia"
   },
   {
     "relationType": "Claim",
@@ -17495,9 +17526,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_NanningRepublic",
-    "region1": "RW7_Guizhou",
-    "dataName": "ClaimRW7_NanningRepublicRW7_Guizhou"
+    "nation1": "RW7_ROS",
+    "region1": "RW7_Faridabad",
+    "dataName": "ClaimRW7_ROSRW7_Faridabad"
   },
   {
     "relationType": "Claim",
@@ -17514,46 +17545,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnionofJohannesburg",
-    "region1": "RW7_Mombasa",
-    "dataName": "ClaimRW7_UnionofJohannesburgRW7_Mombasa"
+    "nation1": "RW7_Mosul",
+    "region1": "RW7_Diyarbakir",
+    "dataName": "ClaimRW7_MosulRW7_Diyarbakir"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Afghanistan",
-    "region1": "RW7_Xinjiang",
-    "dataName": "ClaimRW7_AfghanistanRW7_Xinjiang",
-    "hostileClaim": true
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeKinshasa",
-    "region1": "RW7_CentralAfricanRepublic",
-    "dataName": "ClaimRW7_FreeKinshasaRW7_CentralAfricanRepublic"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_SCT",
-    "region1": "RW7_Cumberland",
-    "dataName": "ClaimRW7_SCTRW7_Cumberland"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_RNA",
-    "region1": "RW7_Niger",
-    "dataName": "ClaimRW7_RNARW7_Niger"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_ChinookIllahee",
-    "region1": "RW7_Boise",
-    "dataName": "ClaimRW7_ChinookIllaheeRW7_Boise"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Netherlands",
-    "region1": "RW7_Germany",
-    "dataName": "ClaimRW7_NetherlandsRW7_Germany"
+    "nation1": "RW7_Toulouse",
+    "region1": "RW7_BasqueCountry",
+    "dataName": "ClaimRW7_ToulouseRW7_BasqueCountry"
   },
   {
     "relationType": "Claim",
@@ -17563,28 +17563,33 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_GreaterKievUnion",
-    "region1": "RW7_Bulgaria",
-    "dataName": "ClaimRW7_GreaterKievUnionRW7_Bulgaria"
+    "nation1": "RW7_StPetersburg",
+    "region1": "RW7_Arkhangelsk",
+    "dataName": "ClaimRW7_StPetersburgRW7_Arkhangelsk"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Toulouse",
-    "region1": "RW7_Lyon",
-    "dataName": "ClaimRW7_ToulouseRW7_Lyon"
+    "nation1": "RW7_OdesaRepublic",
+    "region1": "RW7_Romania",
+    "dataName": "ClaimRW7_OdesaRepublicRW7_Romania"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_TurkmenistanRepublic",
-    "region1": "RW7_Karakalpakstan",
-    "dataName": "ClaimRW7_TurkmenistanRepublicRW7_Karakalpakstan",
-    "hostileClaim": true
+    "nation1": "RW7_ChinookIllahee",
+    "region1": "RW7_Boise",
+    "dataName": "ClaimRW7_ChinookIllaheeRW7_Boise"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_DarfurRepublic",
-    "region1": "RW7_Tunisia",
-    "dataName": "ClaimRW7_DarfurRepublicRW7_Tunisia"
+    "nation1": "RW7_ROA",
+    "region1": "RW7_Hungary",
+    "dataName": "ClaimRW7_ROARW7_Hungary"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_SaoPauloRepublic",
+    "region1": "RW7_Paraguay",
+    "dataName": "ClaimRW7_SaoPauloRepublicRW7_Paraguay"
   },
   {
     "relationType": "Claim",
@@ -17594,113 +17599,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnionofKolkata",
-    "region1": "RW7_Kolkata",
-    "dataName": "ClaimRW7_UnionofKolkataRW7_Kolkata"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_StPetersburg",
-    "region1": "RW7_Belarus",
-    "dataName": "ClaimRW7_StPetersburgRW7_Belarus"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_ChiangMai",
-    "region1": "RW7_UpperMyanmar",
-    "dataName": "ClaimRW7_ChiangMaiRW7_UpperMyanmar"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_BotswanaRepublic",
-    "region1": "RW7_Zambia",
-    "dataName": "ClaimRW7_BotswanaRepublicRW7_Zambia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_TexasSultanate",
-    "region1": "RW7_Tijuana",
-    "dataName": "ClaimRW7_TexasSultanateRW7_Tijuana"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_IvoryCoast",
     "region1": "RW7_Mali",
     "dataName": "ClaimRW7_IvoryCoastRW7_Mali"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_RMO",
-    "region1": "RW7_Indore",
-    "dataName": "ClaimRW7_RMORW7_Indore"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_Dakota",
     "region1": "RW7_Prairies",
     "dataName": "ClaimRW7_DakotaRW7_Prairies"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Poland",
-    "region1": "RW7_Katowice",
-    "dataName": "ClaimRW7_PolandRW7_Katowice"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_LubumbashiKhanate",
-    "region1": "RW7_Malawi",
-    "dataName": "ClaimRW7_LubumbashiKhanateRW7_Malawi"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_CaliforniaCommonwealth",
-    "region1": "RW7_Tijuana",
-    "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Tijuana"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_VolgaRepublic",
-    "region1": "RW7_Surgut",
-    "dataName": "ClaimRW7_VolgaRepublicRW7_Surgut",
-    "hostileClaim": true
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_ROS",
-    "region1": "RW7_Raipur",
-    "dataName": "ClaimRW7_ROSRW7_Raipur"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_BaluchistanRepublic",
-    "region1": "RW7_Sindh",
-    "dataName": "ClaimRW7_BaluchistanRepublicRW7_Sindh"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Mosul",
-    "region1": "RW7_Syria",
-    "dataName": "ClaimRW7_MosulRW7_Syria"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_LuxorDirectorate",
-    "region1": "RW7_Darfur",
-    "dataName": "ClaimRW7_LuxorDirectorateRW7_Darfur"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_GreaterRockyMountains",
-    "region1": "RW7_Alberta",
-    "dataName": "ClaimRW7_GreaterRockyMountainsRW7_Alberta"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeAlmaty",
-    "region1": "RW7_Tajikistan",
-    "dataName": "ClaimRW7_FreeAlmatyRW7_Tajikistan",
-    "hostileClaim": true
   },
   {
     "relationType": "Claim",
@@ -17711,21 +17618,126 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Senegambia",
-    "region1": "RW7_Mali",
-    "dataName": "ClaimRW7_SenegambiaRW7_Mali"
+    "nation1": "RW7_Qinghai",
+    "region1": "RW7_Tibet",
+    "dataName": "ClaimRW7_QinghaiRW7_Tibet"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_CaliforniaCommonwealth",
+    "region1": "RW7_Tijuana",
+    "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Tijuana"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_GreaterKievUnion",
+    "region1": "RW7_Bulgaria",
+    "dataName": "ClaimRW7_GreaterKievUnionRW7_Bulgaria"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ChennaiLeague",
+    "region1": "RW7_SarawakandSabah",
+    "dataName": "ClaimRW7_ChennaiLeagueRW7_SarawakandSabah"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnionofKolkata",
+    "region1": "RW7_Kolkata",
+    "dataName": "ClaimRW7_UnionofKolkataRW7_Kolkata"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnitedCapeTown",
+    "region1": "RW7_Zambia",
+    "dataName": "ClaimRW7_UnitedCapeTownRW7_Zambia"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_BotswanaRepublic",
+    "region1": "RW7_Zambia",
+    "dataName": "ClaimRW7_BotswanaRepublicRW7_Zambia"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_LubumbashiKhanate",
+    "region1": "RW7_Malawi",
+    "dataName": "ClaimRW7_LubumbashiKhanateRW7_Malawi"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_FreeGansu",
+    "region1": "RW7_Xinjiang",
+    "dataName": "ClaimRW7_FreeGansuRW7_Xinjiang",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_TexasSultanate",
+    "region1": "RW7_Tijuana",
+    "dataName": "ClaimRW7_TexasSultanateRW7_Tijuana"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_TurkmenistanRepublic",
+    "region1": "RW7_Karakalpakstan",
+    "dataName": "ClaimRW7_TurkmenistanRepublicRW7_Karakalpakstan",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ChiangMai",
+    "region1": "RW7_UpperMyanmar",
+    "dataName": "ClaimRW7_ChiangMaiRW7_UpperMyanmar"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_VolgaRepublic",
+    "region1": "RW7_Surgut",
+    "dataName": "ClaimRW7_VolgaRepublicRW7_Surgut",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_IsfahanRepublic",
+    "region1": "RW7_NorthernSpain",
+    "dataName": "ClaimRW7_IsfahanRepublicRW7_NorthernSpain"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_DarfurRepublic",
+    "region1": "RW7_Tunisia",
+    "dataName": "ClaimRW7_DarfurRepublicRW7_Tunisia"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_GreaterRockyMountains",
+    "region1": "RW7_Alberta",
+    "dataName": "ClaimRW7_GreaterRockyMountainsRW7_Alberta"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_ParisCommonwealth",
+    "region1": "RW7_Zurich",
+    "dataName": "ClaimRW7_ParisCommonwealthRW7_Zurich"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_EthiopiaRepublic",
+    "region1": "RW7_Mombasa",
+    "dataName": "ClaimRW7_EthiopiaRepublicRW7_Mombasa"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnitedBelem",
+    "region1": "RW7_Cuiaba",
+    "dataName": "ClaimRW7_UnitedBelemRW7_Cuiaba"
   },
   {
     "relationType": "Claim",
     "nation1": "RW7_Gujarat",
     "region1": "RW7_Jaipur",
     "dataName": "ClaimRW7_GujaratRW7_Jaipur"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Qinghai",
-    "region1": "RW7_Tibet",
-    "dataName": "ClaimRW7_QinghaiRW7_Tibet"
   },
   {
     "relationType": "Claim",
@@ -17741,34 +17753,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnitedCapeTown",
-    "region1": "RW7_Zambia",
-    "dataName": "ClaimRW7_UnitedCapeTownRW7_Zambia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeGansu",
-    "region1": "RW7_Xinjiang",
-    "dataName": "ClaimRW7_FreeGansuRW7_Xinjiang",
-    "hostileClaim": true
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_IsfahanRepublic",
-    "region1": "RW7_NorthernSpain",
-    "dataName": "ClaimRW7_IsfahanRepublicRW7_NorthernSpain"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Romania",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Romania"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_BangladeshFederation",
-    "region1": "RW7_Himalayas",
-    "dataName": "ClaimRW7_BangladeshFederationRW7_Himalayas"
+    "nation1": "RW7_FreeKinshasa",
+    "region1": "RW7_Kisangani",
+    "dataName": "ClaimRW7_FreeKinshasaRW7_Kisangani"
   },
   {
     "relationType": "Claim",
@@ -17781,6 +17774,12 @@
     "nation1": "RW7_Sweden",
     "region1": "RW7_Norway",
     "dataName": "ClaimRW7_SwedenRW7_Norway"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnionofJohannesburg",
+    "region1": "RW7_SouthSudan",
+    "dataName": "ClaimRW7_UnionofJohannesburgRW7_SouthSudan"
   },
   {
     "relationType": "Claim",
@@ -17797,9 +17796,21 @@
   },
   {
     "relationType": "Claim",
+    "nation1": "RW7_Senegambia",
+    "region1": "RW7_Mali",
+    "dataName": "ClaimRW7_SenegambiaRW7_Mali"
+  },
+  {
+    "relationType": "Claim",
     "nation1": "RW7_DireDiwaRepublic",
     "region1": "RW7_Tanzania",
     "dataName": "ClaimRW7_DireDiwaRepublicRW7_Tanzania"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_BaluchistanRepublic",
+    "region1": "RW7_Sindh",
+    "dataName": "ClaimRW7_BaluchistanRepublicRW7_Sindh"
   },
   {
     "relationType": "Claim",
@@ -17809,15 +17820,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_SaoPauloRepublic",
-    "region1": "RW7_Brasilia",
-    "dataName": "ClaimRW7_SaoPauloRepublicRW7_Brasilia"
+    "nation1": "RW7_BangladeshFederation",
+    "region1": "RW7_Himalayas",
+    "dataName": "ClaimRW7_BangladeshFederationRW7_Himalayas"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_ParisCommonwealth",
-    "region1": "RW7_Zurich",
-    "dataName": "ClaimRW7_ParisCommonwealthRW7_Zurich"
+    "nation1": "RW7_Poland",
+    "region1": "RW7_Katowice",
+    "dataName": "ClaimRW7_PolandRW7_Katowice"
   },
   {
     "relationType": "Claim",
@@ -17830,6 +17841,12 @@
     "nation1": "RW7_TabrizRepublic",
     "region1": "RW7_Azerbaijan",
     "dataName": "ClaimRW7_TabrizRepublicRW7_Azerbaijan"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_RMO",
+    "region1": "RW7_Indore",
+    "dataName": "ClaimRW7_RMORW7_Indore"
   },
   {
     "relationType": "Claim",
@@ -17848,12 +17865,6 @@
     "nation1": "RW7_NorthernChad",
     "region1": "RW7_Logone",
     "dataName": "ClaimRW7_NorthernChadRW7_Logone"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_EthiopiaRepublic",
-    "region1": "RW7_Mombasa",
-    "dataName": "ClaimRW7_EthiopiaRepublicRW7_Mombasa"
   },
   {
     "relationType": "Claim",
@@ -17876,6 +17887,12 @@
   },
   {
     "relationType": "Claim",
+    "nation1": "RW7_LuxorDirectorate",
+    "region1": "RW7_Darfur",
+    "dataName": "ClaimRW7_LuxorDirectorateRW7_Darfur"
+  },
+  {
+    "relationType": "Claim",
     "nation1": "RW7_ZagrebCommonwealth",
     "region1": "RW7_Hungary",
     "dataName": "ClaimRW7_ZagrebCommonwealthRW7_Hungary"
@@ -17888,15 +17905,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnitedBelem",
-    "region1": "RW7_Cuiaba",
-    "dataName": "ClaimRW7_UnitedBelemRW7_Cuiaba"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_ChennaiLeague",
-    "region1": "RW7_SarawakandSabah",
-    "dataName": "ClaimRW7_ChennaiLeagueRW7_SarawakandSabah"
+    "nation1": "RW7_ROS",
+    "region1": "RW7_Raipur",
+    "dataName": "ClaimRW7_ROSRW7_Raipur"
   },
   {
     "relationType": "Claim",
@@ -17912,15 +17923,27 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnionofJohannesburg",
-    "region1": "RW7_SouthSudan",
-    "dataName": "ClaimRW7_UnionofJohannesburgRW7_SouthSudan"
+    "nation1": "RW7_Mosul",
+    "region1": "RW7_Syria",
+    "dataName": "ClaimRW7_MosulRW7_Syria"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_FreeKinshasa",
-    "region1": "RW7_Kisangani",
-    "dataName": "ClaimRW7_FreeKinshasaRW7_Kisangani"
+    "nation1": "RW7_Toulouse",
+    "region1": "RW7_Lyon",
+    "dataName": "ClaimRW7_ToulouseRW7_Lyon"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_RWP",
+    "region1": "RW7_Villavicencio",
+    "dataName": "ClaimRW7_RWPRW7_Villavicencio"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_StPetersburg",
+    "region1": "RW7_Belarus",
+    "dataName": "ClaimRW7_StPetersburgRW7_Belarus"
   },
   {
     "relationType": "Claim",
@@ -17930,9 +17953,22 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_RWP",
-    "region1": "RW7_Villavicencio",
-    "dataName": "ClaimRW7_RWPRW7_Villavicencio"
+    "nation1": "RW7_SaoPauloRepublic",
+    "region1": "RW7_Brasilia",
+    "dataName": "ClaimRW7_SaoPauloRepublicRW7_Brasilia"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_Korea",
+    "region1": "RW7_RussianFarEast",
+    "dataName": "ClaimRW7_KoreaRW7_RussianFarEast",
+    "hostileClaim": true
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_CaliforniaCommonwealth",
+    "region1": "RW7_Cascadia",
+    "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Cascadia"
   },
   {
     "relationType": "Claim",
@@ -17948,33 +17984,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_StPetersburg",
-    "region1": "RW7_Estonia",
-    "dataName": "ClaimRW7_StPetersburgRW7_Estonia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_RMO",
-    "region1": "RW7_Jaipur",
-    "dataName": "ClaimRW7_RMORW7_Jaipur"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_Poland",
-    "region1": "RW7_Slovakia",
-    "dataName": "ClaimRW7_PolandRW7_Slovakia"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_LubumbashiKhanate",
     "region1": "RW7_Mozambique",
     "dataName": "ClaimRW7_LubumbashiKhanateRW7_Mozambique"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_CaliforniaCommonwealth",
-    "region1": "RW7_Cascadia",
-    "dataName": "ClaimRW7_CaliforniaCommonwealthRW7_Cascadia"
   },
   {
     "relationType": "Claim",
@@ -17984,22 +17996,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_ROS",
-    "region1": "RW7_Sindh",
-    "dataName": "ClaimRW7_ROSRW7_Sindh"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_GreaterRockyMountains",
     "region1": "RW7_CanadianArctic",
     "dataName": "ClaimRW7_GreaterRockyMountainsRW7_CanadianArctic"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_Korea",
-    "region1": "RW7_RussianFarEast",
-    "dataName": "ClaimRW7_KoreaRW7_RussianFarEast",
-    "hostileClaim": true
+    "nation1": "RW7_UnitedBelem",
+    "region1": "RW7_Guyana",
+    "dataName": "ClaimRW7_UnitedBelemRW7_Guyana"
   },
   {
     "relationType": "Claim",
@@ -18021,9 +18026,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_BangladeshFederation",
-    "region1": "RW7_Raipur",
-    "dataName": "ClaimRW7_BangladeshFederationRW7_Raipur"
+    "nation1": "RW7_FreeKinshasa",
+    "region1": "RW7_Logone",
+    "dataName": "ClaimRW7_FreeKinshasaRW7_Logone"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_UnionofJohannesburg",
+    "region1": "RW7_Zambia",
+    "dataName": "ClaimRW7_UnionofJohannesburgRW7_Zambia"
   },
   {
     "relationType": "Claim",
@@ -18046,9 +18057,27 @@
   },
   {
     "relationType": "Claim",
+    "nation1": "RW7_BangladeshFederation",
+    "region1": "RW7_Raipur",
+    "dataName": "ClaimRW7_BangladeshFederationRW7_Raipur"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_Poland",
+    "region1": "RW7_Slovakia",
+    "dataName": "ClaimRW7_PolandRW7_Slovakia"
+  },
+  {
+    "relationType": "Claim",
     "nation1": "RW7_TabrizRepublic",
     "region1": "RW7_Diyarbakir",
     "dataName": "ClaimRW7_TabrizRepublicRW7_Diyarbakir"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_RMO",
+    "region1": "RW7_Jaipur",
+    "dataName": "ClaimRW7_RMORW7_Jaipur"
   },
   {
     "relationType": "Claim",
@@ -18065,8 +18094,8 @@
   {
     "relationType": "Claim",
     "nation1": "RW7_LiaoningDirectorate",
-    "region1": "RW7_Tajikistan",
-    "dataName": "ClaimRW7_LiaoningDirectorateRW7_Tajikistan",
+    "region1": "RW7_Tibet",
+    "dataName": "ClaimRW7_LiaoningDirectorateRW7_Tibet",
     "hostileClaim": true
   },
   {
@@ -18089,9 +18118,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnitedBelem",
-    "region1": "RW7_Guyana",
-    "dataName": "ClaimRW7_UnitedBelemRW7_Guyana"
+    "nation1": "RW7_ROS",
+    "region1": "RW7_Sindh",
+    "dataName": "ClaimRW7_ROSRW7_Sindh"
   },
   {
     "relationType": "Claim",
@@ -18101,15 +18130,9 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnionofJohannesburg",
-    "region1": "RW7_Zambia",
-    "dataName": "ClaimRW7_UnionofJohannesburgRW7_Zambia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_FreeKinshasa",
-    "region1": "RW7_Logone",
-    "dataName": "ClaimRW7_FreeKinshasaRW7_Logone"
+    "nation1": "RW7_StPetersburg",
+    "region1": "RW7_Estonia",
+    "dataName": "ClaimRW7_StPetersburgRW7_Estonia"
   },
   {
     "relationType": "Claim",
@@ -18122,18 +18145,6 @@
     "nation1": "RW7_GreaterKievUnion",
     "region1": "RW7_Slovenia",
     "dataName": "ClaimRW7_GreaterKievUnionRW7_Slovenia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_StPetersburg",
-    "region1": "RW7_Karelia",
-    "dataName": "ClaimRW7_StPetersburgRW7_Karelia"
-  },
-  {
-    "relationType": "Claim",
-    "nation1": "RW7_RMO",
-    "region1": "RW7_Tibet",
-    "dataName": "ClaimRW7_RMORW7_Tibet"
   },
   {
     "relationType": "Claim",
@@ -18155,16 +18166,21 @@
   },
   {
     "relationType": "Claim",
+    "nation1": "RW7_UnitedBelem",
+    "region1": "RW7_Venezuela",
+    "dataName": "ClaimRW7_UnitedBelemRW7_Venezuela"
+  },
+  {
+    "relationType": "Claim",
     "nation1": "RW7_UnitedGreece",
     "region1": "RW7_Transylvania",
     "dataName": "ClaimRW7_UnitedGreeceRW7_Transylvania"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_BangladeshFederation",
-    "region1": "RW7_Xinjiang",
-    "dataName": "ClaimRW7_BangladeshFederationRW7_Xinjiang",
-    "hostileClaim": true
+    "nation1": "RW7_UnionofJohannesburg",
+    "region1": "RW7_Kigali",
+    "dataName": "ClaimRW7_UnionofJohannesburgRW7_Kigali"
   },
   {
     "relationType": "Claim",
@@ -18180,16 +18196,22 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_NorthernChad",
-    "region1": "RW7_NorthernSudan",
-    "dataName": "ClaimRW7_NorthernChadRW7_NorthernSudan"
+    "nation1": "RW7_BangladeshFederation",
+    "region1": "RW7_Xinjiang",
+    "dataName": "ClaimRW7_BangladeshFederationRW7_Xinjiang",
+    "hostileClaim": true
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_LiaoningDirectorate",
+    "nation1": "RW7_RMO",
     "region1": "RW7_Tibet",
-    "dataName": "ClaimRW7_LiaoningDirectorateRW7_Tibet",
-    "hostileClaim": true
+    "dataName": "ClaimRW7_RMORW7_Tibet"
+  },
+  {
+    "relationType": "Claim",
+    "nation1": "RW7_NorthernChad",
+    "region1": "RW7_NorthernSudan",
+    "dataName": "ClaimRW7_NorthernChadRW7_NorthernSudan"
   },
   {
     "relationType": "Claim",
@@ -18205,21 +18227,15 @@
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnitedBelem",
-    "region1": "RW7_Venezuela",
-    "dataName": "ClaimRW7_UnitedBelemRW7_Venezuela"
-  },
-  {
-    "relationType": "Claim",
     "nation1": "RW7_GreaterRostovskaya",
     "region1": "RW7_Armenia",
     "dataName": "ClaimRW7_GreaterRostovskayaRW7_Armenia"
   },
   {
     "relationType": "Claim",
-    "nation1": "RW7_UnionofJohannesburg",
-    "region1": "RW7_Kigali",
-    "dataName": "ClaimRW7_UnionofJohannesburgRW7_Kigali"
+    "nation1": "RW7_StPetersburg",
+    "region1": "RW7_Karelia",
+    "dataName": "ClaimRW7_StPetersburgRW7_Karelia"
   },
   {
     "relationType": "Claim",
@@ -18418,5 +18434,1117 @@
     "relationType": "Federation",
     "nation1": "RW7_CostaRicaCommonwealth",
     "federation": "RW7_Fed8"
+  },
+  {
+    "dataName": "ClaimACEmap_Aceh",
+    "relationType": "Claim",
+    "nation1": "ACE",
+    "region1": "map_Aceh",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAKAmap_Alaska",
+    "relationType": "Claim",
+    "nation1": "AKA",
+    "region1": "map_Alaska",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAMBmap_WestCameroon",
+    "relationType": "Claim",
+    "nation1": "AMB",
+    "region1": "map_WestCameroon",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAREmap_Kano",
+    "relationType": "Claim",
+    "nation1": "ARE",
+    "region1": "map_Kano",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimASMmap_Assam",
+    "relationType": "Claim",
+    "nation1": "ASM",
+    "region1": "map_Assam",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimATLmap_Halifax",
+    "relationType": "Claim",
+    "nation1": "ATL",
+    "region1": "map_Halifax",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimATZmap_Tijuana",
+    "relationType": "Claim",
+    "nation1": "ATZ",
+    "region1": "map_Tijuana",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAUSmap_NewSouthWales",
+    "relationType": "Claim",
+    "nation1": "AUS",
+    "region1": "map_NewSouthWales",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAZAmap_Gao",
+    "relationType": "Claim",
+    "nation1": "AZA",
+    "region1": "map_Gao",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAZEmap_Azerbaijan",
+    "relationType": "Claim",
+    "nation1": "AZE",
+    "region1": "map_Azerbaijan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimAZOmap_Azores",
+    "relationType": "Claim",
+    "nation1": "AZO",
+    "region1": "map_Azores",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBASmap_BasqueCountry",
+    "relationType": "Claim",
+    "nation1": "BAS",
+    "region1": "map_BasqueCountry",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBAVmap_Bavaria",
+    "relationType": "Claim",
+    "nation1": "BAV",
+    "region1": "map_Bavaria",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBCHmap_Baluchistan",
+    "relationType": "Claim",
+    "nation1": "BCH",
+    "region1": "map_Baluchistan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBEJmap_NorthernSudan",
+    "relationType": "Claim",
+    "nation1": "BEJ",
+    "region1": "map_NorthernSudan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBGLmap_Kolkata",
+    "relationType": "Claim",
+    "nation1": "BGL",
+    "region1": "map_Kolkata",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBIAmap_PortHarcourt",
+    "relationType": "Claim",
+    "nation1": "BIA",
+    "region1": "map_PortHarcourt",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBOLmap_Bolivia",
+    "relationType": "Claim",
+    "nation1": "BOL",
+    "region1": "map_Bolivia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBORmap_Borneo",
+    "relationType": "Claim",
+    "nation1": "BOR",
+    "region1": "map_Borneo",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBRAmap_Brasilia",
+    "relationType": "Claim",
+    "nation1": "BRA",
+    "region1": "map_Brasilia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBRTmap_Nantes",
+    "relationType": "Claim",
+    "nation1": "BRT",
+    "region1": "map_Nantes",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBSMmap_BosniaMontenegro",
+    "relationType": "Claim",
+    "nation1": "BSM",
+    "region1": "map_BosniaMontenegro",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimBURmap_Irkutsk",
+    "relationType": "Claim",
+    "nation1": "BUR",
+    "region1": "map_Irkutsk",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCALmap_California",
+    "relationType": "Claim",
+    "nation1": "CAL",
+    "region1": "map_California",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCANmap_Ontario",
+    "relationType": "Claim",
+    "nation1": "CAN",
+    "region1": "map_Ontario",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCAPmap_CapeTown",
+    "relationType": "Claim",
+    "nation1": "CAP",
+    "region1": "map_CapeTown",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCATmap_Barcelona",
+    "relationType": "Claim",
+    "nation1": "CAT",
+    "region1": "map_Barcelona",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCHAmap_Raipur",
+    "relationType": "Claim",
+    "nation1": "CHA",
+    "region1": "map_Raipur",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCHNmap_Beijing",
+    "relationType": "Claim",
+    "nation1": "CHN",
+    "region1": "map_Beijing",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCOLmap_Colombia",
+    "relationType": "Claim",
+    "nation1": "COL",
+    "region1": "map_Colombia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCORmap_CongoBrazzaville",
+    "relationType": "Claim",
+    "nation1": "COR",
+    "region1": "map_CongoBrazzaville",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCPHmap_Hijaz",
+    "relationType": "Claim",
+    "nation1": "CPH",
+    "region1": "map_Hijaz",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCRImap_Crimea",
+    "relationType": "Claim",
+    "nation1": "CRI",
+    "region1": "map_Crimea",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCRYmap_CanaryIslands",
+    "relationType": "Claim",
+    "nation1": "CRY",
+    "region1": "map_CanaryIslands",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCSAmap_Dixie",
+    "relationType": "Claim",
+    "nation1": "CSA",
+    "region1": "map_Dixie",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCSDmap_Cascadia",
+    "relationType": "Claim",
+    "nation1": "CSD",
+    "region1": "map_Cascadia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimCYEmap_Cyrenaica",
+    "relationType": "Claim",
+    "nation1": "CYE",
+    "region1": "map_Cyrenaica",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimDARmap_Darfur",
+    "relationType": "Claim",
+    "nation1": "DAR",
+    "region1": "map_Darfur",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimDONmap_Donetsk",
+    "relationType": "Claim",
+    "nation1": "DON",
+    "region1": "map_Donetsk",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimDVDmap_Chennai",
+    "relationType": "Claim",
+    "nation1": "DVD",
+    "region1": "map_Chennai",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimEGYmap_Egypt",
+    "relationType": "Claim",
+    "nation1": "EGY",
+    "region1": "map_Egypt",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimETHmap_Ethiopia",
+    "relationType": "Claim",
+    "nation1": "ETH",
+    "region1": "map_Ethiopia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimETKmap_Xinjiang",
+    "relationType": "Claim",
+    "nation1": "ETK",
+    "region1": "map_Xinjiang",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimFAMmap_Amazonia",
+    "relationType": "Claim",
+    "nation1": "FAM",
+    "region1": "map_Amazonia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimFNTmap_CanadianArctic",
+    "relationType": "Claim",
+    "nation1": "FNT",
+    "region1": "map_CanadianArctic",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimFUJmap_Fujian",
+    "relationType": "Claim",
+    "nation1": "FUJ",
+    "region1": "map_Fujian",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGAXmap_Nanning",
+    "relationType": "Claim",
+    "nation1": "GAX",
+    "region1": "map_Nanning",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGBRmap_England",
+    "relationType": "Claim",
+    "nation1": "GBR",
+    "region1": "map_England",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGRLmap_Greenland",
+    "relationType": "Claim",
+    "nation1": "GRL",
+    "region1": "map_Greenland",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGTMmap_Guatemala",
+    "relationType": "Claim",
+    "nation1": "GTM",
+    "region1": "map_Guatemala",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGUAmap_Guangzhou",
+    "relationType": "Claim",
+    "nation1": "GUA",
+    "region1": "map_Guangzhou",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGUJmap_Gujarat",
+    "relationType": "Claim",
+    "nation1": "GUJ",
+    "region1": "map_Gujarat",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimGWAmap_Indore",
+    "relationType": "Claim",
+    "nation1": "GWA",
+    "region1": "map_Indore",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimHAWmap_AmericanPacific",
+    "relationType": "Claim",
+    "nation1": "HAW",
+    "region1": "map_AmericanPacific",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimHKOmap_HongKong",
+    "relationType": "Claim",
+    "nation1": "HKO",
+    "region1": "map_HongKong",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimHNNmap_Hunan",
+    "relationType": "Claim",
+    "nation1": "HNN",
+    "region1": "map_Hunan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimHYDmap_Hyderabad",
+    "relationType": "Claim",
+    "nation1": "HYD",
+    "region1": "map_Hyderabad",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimIDNmap_Java",
+    "relationType": "Claim",
+    "nation1": "IDN",
+    "region1": "map_Java",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimINDmap_NewDelhi",
+    "relationType": "Claim",
+    "nation1": "IND",
+    "region1": "map_NewDelhi",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimINGmap_Novgorod",
+    "relationType": "Claim",
+    "nation1": "ING",
+    "region1": "map_Novgorod",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimIRNmap_Tehran",
+    "relationType": "Claim",
+    "nation1": "IRN",
+    "region1": "map_Tehran",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimISLmap_Iceland",
+    "relationType": "Claim",
+    "nation1": "ISL",
+    "region1": "map_Iceland",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimJAImap_Jaipur",
+    "relationType": "Claim",
+    "nation1": "JAI",
+    "region1": "map_Jaipur",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimJAMmap_Jamaica",
+    "relationType": "Claim",
+    "nation1": "JAM",
+    "region1": "map_Jamaica",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimJEFmap_Boise",
+    "relationType": "Claim",
+    "nation1": "JEF",
+    "region1": "map_Boise",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimJPNmap_NorthHonshu",
+    "relationType": "Claim",
+    "nation1": "JPN",
+    "region1": "map_NorthHonshu",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKACmap_UpperMyanmar",
+    "relationType": "Claim",
+    "nation1": "KAC",
+    "region1": "map_UpperMyanmar",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKALmap_Kaliningrad",
+    "relationType": "Claim",
+    "nation1": "KAL",
+    "region1": "map_Kaliningrad",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKARmap_Karelia",
+    "relationType": "Claim",
+    "nation1": "KAR",
+    "region1": "map_Karelia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKATmap_Lubumbashi",
+    "relationType": "Claim",
+    "nation1": "KAT",
+    "region1": "map_Lubumbashi",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKEOmap_NorthernAustralia",
+    "relationType": "Claim",
+    "nation1": "KEO",
+    "region1": "map_NorthernAustralia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKHAmap_Faridabad",
+    "relationType": "Claim",
+    "nation1": "KHA",
+    "region1": "map_Faridabad",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKHUmap_Ahvaz",
+    "relationType": "Claim",
+    "nation1": "KHU",
+    "region1": "map_Ahvaz",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKOMmap_Arkhangelsk",
+    "relationType": "Claim",
+    "nation1": "KOM",
+    "region1": "map_Arkhangelsk",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKRDmap_Mosul",
+    "relationType": "Claim",
+    "nation1": "KRD",
+    "region1": "map_Mosul",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKRKmap_Karakalpakstan",
+    "relationType": "Claim",
+    "nation1": "KRK",
+    "region1": "map_Karakalpakstan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimKSHmap_JammuandKashmir",
+    "relationType": "Claim",
+    "nation1": "KSH",
+    "region1": "map_JammuandKashmir",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimLNTmap_EastAngola",
+    "relationType": "Claim",
+    "nation1": "LNT",
+    "region1": "map_EastAngola",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimLOGmap_Logone",
+    "relationType": "Claim",
+    "nation1": "LOG",
+    "region1": "map_Logone",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMAHmap_Mumbai",
+    "relationType": "Claim",
+    "nation1": "MAH",
+    "region1": "map_Mumbai",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMDVmap_Kirov",
+    "relationType": "Claim",
+    "nation1": "MDV",
+    "region1": "map_Kirov",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMINmap_ViasyasyMindanao",
+    "relationType": "Claim",
+    "nation1": "MIN",
+    "region1": "map_ViasyasyMindanao",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMNCmap_Liaoning",
+    "relationType": "Claim",
+    "nation1": "MNC",
+    "region1": "map_Liaoning",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMOMmap_Mombasa",
+    "relationType": "Claim",
+    "nation1": "MOM",
+    "region1": "map_Mombasa",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMSOmap_Bangalore",
+    "relationType": "Claim",
+    "nation1": "MSO",
+    "region1": "map_Bangalore",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimMYSmap_MalayPeninsula",
+    "relationType": "Claim",
+    "nation1": "MYS",
+    "region1": "map_MalayPeninsula",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimNCFmap_NorthCaucasus",
+    "relationType": "Claim",
+    "nation1": "NCF",
+    "region1": "map_NorthCaucasus",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimNCLmap_FrenchPacific",
+    "relationType": "Claim",
+    "nation1": "NCL",
+    "region1": "map_FrenchPacific",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimNENmap_EnglishMidlands",
+    "relationType": "Claim",
+    "nation1": "NEN",
+    "region1": "map_EnglishMidlands",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimNGAmap_Lagos",
+    "relationType": "Claim",
+    "nation1": "NGA",
+    "region1": "map_Lagos",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimNUBmap_Luxor",
+    "relationType": "Claim",
+    "nation1": "NUB",
+    "region1": "map_Luxor",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimOCTmap_Toulouse",
+    "relationType": "Claim",
+    "nation1": "OCT",
+    "region1": "map_Toulouse",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimODImap_Odisha",
+    "relationType": "Claim",
+    "nation1": "ODI",
+    "region1": "map_Odisha",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimOGAmap_DireDiwa",
+    "relationType": "Claim",
+    "nation1": "OGA",
+    "region1": "map_DireDiwa",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPADmap_Milan",
+    "relationType": "Claim",
+    "nation1": "PAD",
+    "region1": "map_Milan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPATmap_Patagonia",
+    "relationType": "Claim",
+    "nation1": "PAT",
+    "region1": "map_Patagonia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPCFmap_RussianFarEast",
+    "relationType": "Claim",
+    "nation1": "PCF",
+    "region1": "map_RussianFarEast",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPERmap_Peru",
+    "relationType": "Claim",
+    "nation1": "PER",
+    "region1": "map_Peru",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPGNmap_FrenchGuiana",
+    "relationType": "Claim",
+    "nation1": "PGN",
+    "region1": "map_FrenchGuiana",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPRAmap_Aceh",
+    "relationType": "Claim",
+    "nation1": "PRA",
+    "region1": "map_Aceh",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimPROmap_AmericanCaribbean",
+    "relationType": "Claim",
+    "nation1": "PRO",
+    "region1": "map_AmericanCaribbean",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimQUBmap_Quebec",
+    "relationType": "Claim",
+    "nation1": "QUB",
+    "region1": "map_Quebec",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimRIOmap_Monterrey",
+    "relationType": "Claim",
+    "nation1": "RIO",
+    "region1": "map_Monterrey",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSAUmap_Najd",
+    "relationType": "Claim",
+    "nation1": "SAU",
+    "region1": "map_Najd",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSERmap_Belgrade",
+    "relationType": "Claim",
+    "nation1": "SER",
+    "region1": "map_Belgrade",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSHGmap_Shanxi",
+    "relationType": "Claim",
+    "nation1": "SHG",
+    "region1": "map_Shanxi",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSIBmap_Novosibirsk",
+    "relationType": "Claim",
+    "nation1": "SIB",
+    "region1": "map_Novosibirsk",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSICmap_Naples",
+    "relationType": "Claim",
+    "nation1": "SIC",
+    "region1": "map_Naples",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSILmap_Katowice",
+    "relationType": "Claim",
+    "nation1": "SIL",
+    "region1": "map_Katowice",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSINmap_Sindh",
+    "relationType": "Claim",
+    "nation1": "SIN",
+    "region1": "map_Sindh",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSPEmap_Arequipa",
+    "relationType": "Claim",
+    "nation1": "SPE",
+    "region1": "map_Arequipa",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSUBmap_PortoAlegre",
+    "relationType": "Claim",
+    "nation1": "SUB",
+    "region1": "map_PortoAlegre",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSUMmap_Sumatra",
+    "relationType": "Claim",
+    "nation1": "SUM",
+    "region1": "map_Sumatra",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimSVNmap_HoChiMinhCity",
+    "relationType": "Claim",
+    "nation1": "SVN",
+    "region1": "map_HoChiMinhCity",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTARmap_Volga",
+    "relationType": "Claim",
+    "nation1": "TAR",
+    "region1": "map_Volga",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTBTmap_Tibet",
+    "relationType": "Claim",
+    "nation1": "TBT",
+    "region1": "map_Tibet",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTEWmap_TeWaipounamu",
+    "relationType": "Claim",
+    "nation1": "TEW",
+    "region1": "map_TeWaipounamu",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTEXmap_Texas",
+    "relationType": "Claim",
+    "nation1": "TEX",
+    "region1": "map_Texas",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTHAmap_SouthThailand",
+    "relationType": "Claim",
+    "nation1": "THA",
+    "region1": "map_SouthThailand",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTIGmap_Mekelle",
+    "relationType": "Claim",
+    "nation1": "TIG",
+    "region1": "map_Mekelle",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTRAmap_Transylvania",
+    "relationType": "Claim",
+    "nation1": "TRA",
+    "region1": "map_Transylvania",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTURmap_Anatolia",
+    "relationType": "Claim",
+    "nation1": "TUR",
+    "region1": "map_Anatolia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTWNmap_Shanghai",
+    "relationType": "Claim",
+    "nation1": "TWN",
+    "region1": "map_Shanghai",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimTZAmap_WestTanzania",
+    "relationType": "Claim",
+    "nation1": "TZA",
+    "region1": "map_WestTanzania",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimUNBmap_Fortaleza",
+    "relationType": "Claim",
+    "nation1": "UNB",
+    "region1": "map_Fortaleza",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimURLmap_Urals",
+    "relationType": "Claim",
+    "nation1": "URL",
+    "region1": "map_Urals",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimUSAmap_Shenandoah",
+    "relationType": "Claim",
+    "nation1": "USA",
+    "region1": "map_Shenandoah",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimUZBmap_Uzbekistan",
+    "relationType": "Claim",
+    "nation1": "UZB",
+    "region1": "map_Uzbekistan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimVNMmap_Hanoi",
+    "relationType": "Claim",
+    "nation1": "VNM",
+    "region1": "map_Hanoi",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimWALmap_Wales",
+    "relationType": "Claim",
+    "nation1": "WAL",
+    "region1": "map_Wales",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimWAZmap_Peshawar",
+    "relationType": "Claim",
+    "nation1": "WAZ",
+    "region1": "map_Peshawar",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimWCAmap_Alberta",
+    "relationType": "Claim",
+    "nation1": "WCA",
+    "region1": "map_Alberta",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimWESmap_Westralia",
+    "relationType": "Claim",
+    "nation1": "WES",
+    "region1": "map_Westralia",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimWGAmap_Germany",
+    "relationType": "Claim",
+    "nation1": "WGA",
+    "region1": "map_Germany",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimWURmap_Shanghai",
+    "relationType": "Claim",
+    "nation1": "WUR",
+    "region1": "map_Shanghai",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimYMSmap_Yemen",
+    "relationType": "Claim",
+    "nation1": "YMS",
+    "region1": "map_Yemen",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimYUCmap_Merida",
+    "relationType": "Claim",
+    "nation1": "YUC",
+    "region1": "map_Merida",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimYUNmap_Yunnan",
+    "relationType": "Claim",
+    "nation1": "YUN",
+    "region1": "map_Yunnan",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
+  },
+  {
+    "dataName": "ClaimZANmap_Zanzibar",
+    "relationType": "Claim",
+    "nation1": "ZAN",
+    "region1": "map_Zanzibar",
+    "capitalClaim": true,
+    "projectUnlockName": "Project_RWPermanentGate"
   }
 ]

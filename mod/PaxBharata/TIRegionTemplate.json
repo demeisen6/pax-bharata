@@ -36,7 +36,9 @@
       "illustrations/illus_Accra_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Accra",
+    "localizationAlias": "Accra"
   },
   {
     "dataName": "RW7_Aceh",
@@ -76,7 +78,9 @@
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Aceh",
+    "localizationAlias": "Aceh"
   },
   {
     "dataName": "RW7_Adelaide",
@@ -163,7 +167,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Adelaide",
+    "localizationAlias": "Adelaide"
   },
   {
     "dataName": "RW7_Aden",
@@ -196,14 +202,16 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Old South Yemen"
+    "composedOf": "Old South Yemen",
+    "referenceAlias": "Aden",
+    "localizationAlias": "Aden"
   },
   {
     "dataName": "RW7_Afghanistan",
     "mapRegionName": "map_Afghanistan",
     "primaryCity": "Kabul",
     "sortNation": "Khorasan",
-    "population_Millions": 43.8789,
+    "population_Millions": 47.3789,
     "annualPopGrowthModifier": 0.25,
     "mineCapable": true,
     "environment": "Vulnerable",
@@ -235,7 +243,9 @@
       "illustrations/illus_Afghanistan_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Afghanistan",
+    "localizationAlias": "Afghanistan"
   },
   {
     "dataName": "RW7_Ahvaz",
@@ -270,7 +280,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Region 2"
+    "composedOf": "Region 2",
+    "referenceAlias": "Ahvaz",
+    "localizationAlias": "Ahvaz"
   },
   {
     "dataName": "RW7_Alaska",
@@ -377,7 +389,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Alaska"
+    "composedOf": "Alaska",
+    "referenceAlias": "Alaska",
+    "localizationAlias": "Alaska"
   },
   {
     "dataName": "RW7_Alberta",
@@ -481,7 +495,9 @@
       "illustrations/illus_Alberta_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Alberta",
+    "localizationAlias": "Alberta"
   },
   {
     "dataName": "RW7_Alexandria",
@@ -515,7 +531,9 @@
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
     "composedOf": "Beheira, Alexandria, Giza, Faiyum, Beni Suef, Minya, Matrouh",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Alexandria",
+    "localizationAlias": "Alexandria"
   },
   {
     "dataName": "RW7_Algeria",
@@ -548,14 +566,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Algeria",
+    "localizationAlias": "Algeria"
   },
   {
     "dataName": "RW7_Almaty",
     "mapRegionName": "map_Almaty",
     "primaryCity": "Almaty",
     "sortNation": "Chagatai Khanate",
-    "population_Millions": 13.0989,
+    "population_Millions": 13.5545,
     "annualPopGrowthModifier": 0.3,
     "mining": false,
     "mineCapable": false,
@@ -605,7 +625,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "East Kazakhstan, Pavlodar, Almaty, Zhambyl, South Kaz, Karagandy, Kyzylorda, Baykonur"
+    "composedOf": "East Kazakhstan, Pavlodar, Almaty, Zhambyl, South Kaz, Karagandy, Kyzylorda, Baykonur",
+    "referenceAlias": "Almaty",
+    "localizationAlias": "Almaty"
   },
   {
     "dataName": "RW7_Amazonia",
@@ -660,7 +682,9 @@
       "illustrations/illus_Amazonia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Amazonia",
+    "localizationAlias": "Amazonia"
   },
   {
     "dataName": "RW7_AmericanCaribbean",
@@ -717,7 +741,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Puerto Rico, U.S. Virgin Islands"
+    "composedOf": "Puerto Rico, U.S. Virgin Islands",
+    "referenceAlias": "AmericanCaribbean",
+    "localizationAlias": "AmericanCaribbean"
   },
   {
     "dataName": "RW7_AmericanPacific",
@@ -839,7 +865,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Hawaii, American Samoa, Guam, Northern Mariana Islands, Wake Island",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "AmericanPacific",
+    "localizationAlias": "AmericanPacific"
   },
   {
     "dataName": "RW7_Anatolia",
@@ -884,7 +912,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "West Anatolia, Mediterranean, Central Anatolia, West Black Sea"
+    "composedOf": "West Anatolia, Mediterranean, Central Anatolia, West Black Sea",
+    "referenceAlias": "Anatolia",
+    "localizationAlias": "Anatolia"
   },
   {
     "dataName": "RW7_AndhraPradesh",
@@ -918,7 +948,9 @@
       "illustrations/illus_AndhraPradesh_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "AndhraPradesh",
+    "localizationAlias": "AndhraPradesh"
   },
   {
     "dataName": "RW7_Angola",
@@ -960,7 +992,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Angola",
+    "localizationAlias": "Angola"
   },
   {
     "dataName": "RW7_Anhui",
@@ -991,7 +1025,9 @@
       "illustrations/illus_Anhui_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Anhui",
+    "localizationAlias": "Anhui"
   },
   {
     "dataName": "RW7_Arequipa",
@@ -1024,7 +1060,9 @@
       "illustrations/illus_Arequipa_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Arequipa",
+    "localizationAlias": "Arequipa"
   },
   {
     "dataName": "RW7_Arkhangelsk",
@@ -1058,7 +1096,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Arkhangelsk (r), Komi Republic, Nenets"
+    "composedOf": "Arkhangelsk (r), Komi Republic, Nenets",
+    "referenceAlias": "Arkhangelsk",
+    "localizationAlias": "Arkhangelsk"
   },
   {
     "dataName": "RW7_Armenia",
@@ -1089,7 +1129,9 @@
       "illustrations/illus_Armenia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Armenia",
+    "localizationAlias": "Armenia"
   },
   {
     "dataName": "RW7_ArunchalPradesh",
@@ -1137,7 +1179,9 @@
       "illustrations/illus_ArunchalPradesh_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "ArunchalPradesh",
+    "localizationAlias": "ArunchalPradesh"
   },
   {
     "dataName": "RW7_Assam",
@@ -1189,14 +1233,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "\u00a0Assam, Manipur,\u00a0Meghalaya,\u00a0Mizoram,\u00a0Nagaland, Tripura"
+    "composedOf": " Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura",
+    "referenceAlias": "Assam",
+    "localizationAlias": "Assam"
   },
   {
     "dataName": "RW7_Astana",
     "mapRegionName": "map_Astana",
     "primaryCity": "Astana",
     "sortNation": "Chagatai Khanate",
-    "population_Millions": 7.5024,
+    "population_Millions": 7.7633,
     "annualPopGrowthModifier": 0.3,
     "oilResource": false,
     "oilCapable": false,
@@ -1246,7 +1292,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Amola, North Kaz, Kostanay, Aktobe, West Kazakhstan, Atyrau, Mangystau"
+    "composedOf": "Amola, North Kaz, Kostanay, Aktobe, West Kazakhstan, Atyrau, Mangystau",
+    "referenceAlias": "Astana",
+    "localizationAlias": "Astana"
   },
   {
     "dataName": "RW7_Azerbaijan",
@@ -1290,7 +1338,9 @@
       "illustrations/illus_Azerbaijan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Azerbaijan",
+    "localizationAlias": "Azerbaijan"
   },
   {
     "dataName": "RW7_Azores",
@@ -1347,7 +1397,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Azores, Madeira"
+    "composedOf": "Azores, Madeira",
+    "referenceAlias": "Azores",
+    "localizationAlias": "Azores"
   },
   {
     "dataName": "RW7_Baghdad",
@@ -1382,7 +1434,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Basrah, Al-Muthanna, Thi Qar, Misan, Wasit, Al-Qadisiyah, Al-Najaf, Karbala, Babil, Baghdad, Anbar"
+    "composedOf": "Basrah, Al-Muthanna, Thi Qar, Misan, Wasit, Al-Qadisiyah, Al-Najaf, Karbala, Babil, Baghdad, Anbar",
+    "referenceAlias": "Baghdad",
+    "localizationAlias": "Baghdad"
   },
   {
     "dataName": "RW7_Bahamas",
@@ -1427,7 +1481,9 @@
       "illustrations/illus_Bahamas_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Bahamas",
+    "localizationAlias": "Bahamas"
   },
   {
     "dataName": "RW7_Baluchistan",
@@ -1469,7 +1525,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Baluchistan Province"
+    "composedOf": "Baluchistan Province",
+    "referenceAlias": "Baluchistan",
+    "localizationAlias": "Baluchistan"
   },
   {
     "dataName": "RW7_Bangalore",
@@ -1510,7 +1568,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Kerala, Lakshadweep, Puducherry, Tamil Nadu",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Bangalore",
+    "localizationAlias": "Bangalore"
   },
   {
     "dataName": "RW7_Bangkok",
@@ -1545,7 +1605,9 @@
       "illustrations/illus_Bangkok_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Bangkok",
+    "localizationAlias": "Bangkok"
   },
   {
     "dataName": "RW7_Bangladesh",
@@ -1581,7 +1643,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Bangladesh",
+    "localizationAlias": "Bangladesh"
   },
   {
     "dataName": "RW7_Barcelona",
@@ -1671,7 +1735,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Catalonia, Valencia, Baleric Islands, Aragon"
+    "composedOf": "Catalonia, Valencia, Baleric Islands, Aragon",
+    "referenceAlias": "Barcelona",
+    "localizationAlias": "Barcelona"
   },
   {
     "dataName": "RW7_BasqueCountry",
@@ -1715,7 +1781,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Basque, Navarre",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "BasqueCountry",
+    "localizationAlias": "BasqueCountry"
   },
   {
     "dataName": "RW7_Bavaria",
@@ -1771,7 +1839,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Baden-Wurttemberg, Bavaria, Hesse, Rhineland-Palatinate, Saarland"
+    "composedOf": "Baden-Wurttemberg, Bavaria, Hesse, Rhineland-Palatinate, Saarland",
+    "referenceAlias": "Bavaria",
+    "localizationAlias": "Bavaria"
   },
   {
     "dataName": "RW7_Beijing",
@@ -1805,7 +1875,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Beijing M, Tianjin M, Hebei"
+    "composedOf": "Beijing M, Tianjin M, Hebei",
+    "referenceAlias": "Beijing",
+    "localizationAlias": "Beijing"
   },
   {
     "dataName": "RW7_Belarus",
@@ -1839,7 +1911,9 @@
       "illustrations/illus_Belarus_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Belarus",
+    "localizationAlias": "Belarus"
   },
   {
     "dataName": "RW7_Belem",
@@ -1894,7 +1968,9 @@
       "illustrations/illus_Belem_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Belem",
+    "localizationAlias": "Belem"
   },
   {
     "dataName": "RW7_Belgium",
@@ -1954,7 +2030,9 @@
       "illustrations/illus_Belgium_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Belgium",
+    "localizationAlias": "Belgium"
   },
   {
     "dataName": "RW7_Belgrade",
@@ -1989,7 +2067,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Serbia"
+    "composedOf": "Serbia",
+    "referenceAlias": "Belgrade",
+    "localizationAlias": "Belgrade"
   },
   {
     "dataName": "RW7_Belize",
@@ -2038,7 +2118,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Belize",
+    "localizationAlias": "Belize"
   },
   {
     "dataName": "RW7_Bhutan",
@@ -2069,7 +2151,9 @@
       "illustrations/illus_Bhutan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Bhutan",
+    "localizationAlias": "Bhutan"
   },
   {
     "dataName": "RW7_Bihar",
@@ -2104,7 +2188,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Bihar"
+    "composedOf": "Bihar",
+    "referenceAlias": "Bihar",
+    "localizationAlias": "Bihar"
   },
   {
     "dataName": "RW7_Boise",
@@ -2209,7 +2295,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Idaho, Montana, Wyoming"
+    "composedOf": "Idaho, Montana, Wyoming",
+    "referenceAlias": "Boise",
+    "localizationAlias": "Boise"
   },
   {
     "dataName": "RW7_Bolivia",
@@ -2243,7 +2331,9 @@
       "illustrations/illus_Bolivia_4"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Bolivia",
+    "localizationAlias": "Bolivia"
   },
   {
     "dataName": "RW7_Borneo",
@@ -2308,14 +2398,16 @@
       "illustrations/illus_Borneo_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Borneo",
+    "localizationAlias": "Borneo"
   },
   {
     "dataName": "RW7_Botswana",
     "mapRegionName": "map_Botswana",
     "primaryCity": "Gaborone",
     "sortNation": "Lefatshe la Batswana",
-    "population_Millions": 2.6244,
+    "population_Millions": 5.2488,
     "annualPopGrowthModifier": 0.35,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -2345,7 +2437,9 @@
       "illustrations/illus_Botswana_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Botswana",
+    "localizationAlias": "Botswana"
   },
   {
     "dataName": "RW7_Brasilia",
@@ -2413,7 +2507,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Goaias, Federal District,Tocatins"
+    "composedOf": "Goaias, Federal District,Tocatins",
+    "referenceAlias": "Brasilia",
+    "localizationAlias": "Brasilia"
   },
   {
     "dataName": "RW7_Brazzaville",
@@ -2444,7 +2540,9 @@
       "illustrations/illus_Brazzaville_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Brazzaville",
+    "localizationAlias": "Brazzaville"
   },
   {
     "dataName": "RW7_Brisbane",
@@ -2553,7 +2651,9 @@
       "illustrations/illus_Brisbane_4"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Brisbane",
+    "localizationAlias": "Brisbane"
   },
   {
     "dataName": "RW7_BritishColumbia",
@@ -2655,7 +2755,9 @@
       "illustrations/illus_BritishColumbia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "BritishColumbia",
+    "localizationAlias": "BritishColumbia"
   },
   {
     "dataName": "RW7_BritishWestIndies",
@@ -2712,7 +2814,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Anguilla, Bermuda, Cayman Islands, Turks and Caicos Islands, Montserrat, British Virgin Islands"
+    "composedOf": "Anguilla, Bermuda, Cayman Islands, Turks and Caicos Islands, Montserrat, British Virgin Islands",
+    "referenceAlias": "BritishWestIndies",
+    "localizationAlias": "BritishWestIndies"
   },
   {
     "dataName": "RW7_Brunei",
@@ -2758,7 +2862,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Brunei",
+    "localizationAlias": "Brunei"
   },
   {
     "dataName": "RW7_Bulgaria",
@@ -2789,7 +2895,9 @@
       "illustrations/illus_Bulgaria_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Bulgaria",
+    "localizationAlias": "Bulgaria"
   },
   {
     "dataName": "RW7_BurkinaFaso",
@@ -2823,7 +2931,9 @@
       "illustrations/illus_BurkinaFaso_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "BurkinaFaso",
+    "localizationAlias": "BurkinaFaso"
   },
   {
     "dataName": "RW7_CaboVerde",
@@ -2865,7 +2975,9 @@
       "illustrations/illus_CaboVerde_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "CaboVerde",
+    "localizationAlias": "CaboVerde"
   },
   {
     "dataName": "RW7_Cairo",
@@ -2900,7 +3012,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "North Sinai, South Sinai, Port Said, Ismailia, Suez, Cairo (r), Sharqia, Qalyubia, Monufia, Gharbia, Dakahlia, Damietta, Kafr el-Sheikh, Red Sea - Ras Gharib"
+    "composedOf": "North Sinai, South Sinai, Port Said, Ismailia, Suez, Cairo (r), Sharqia, Qalyubia, Monufia, Gharbia, Dakahlia, Damietta, Kafr el-Sheikh, Red Sea - Ras Gharib",
+    "referenceAlias": "Cairo",
+    "localizationAlias": "Cairo"
   },
   {
     "dataName": "RW7_California",
@@ -3009,7 +3123,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "California, Nevada"
+    "composedOf": "California, Nevada",
+    "referenceAlias": "California",
+    "localizationAlias": "California"
   },
   {
     "dataName": "RW7_Cambodia",
@@ -3046,12 +3162,14 @@
       "illustrations/illus_Cambodia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Cambodia",
+    "localizationAlias": "Cambodia"
   },
   {
     "dataName": "RW7_Cameroon",
     "mapRegionName": "map_Cameroon",
-    "primaryCity": "Yaound\u00e9",
+    "primaryCity": "Yaoundé",
     "sortNation": "Ngong Fang",
     "population_Millions": 25.2317,
     "annualPopGrowthModifier": 0.75,
@@ -3085,7 +3203,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Cameroon",
+    "localizationAlias": "Cameroon"
   },
   {
     "dataName": "RW7_CanadianArctic",
@@ -3178,7 +3298,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Northwest Territories, Nunavut"
+    "composedOf": "Northwest Territories, Nunavut",
+    "referenceAlias": "CanadianArctic",
+    "localizationAlias": "CanadianArctic"
   },
   {
     "dataName": "RW7_CanaryIslands",
@@ -3220,7 +3342,9 @@
       "illustrations/illus_CanaryIslands_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "CanaryIslands",
+    "localizationAlias": "CanaryIslands"
   },
   {
     "dataName": "RW7_CapeTown",
@@ -3286,7 +3410,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Western Cape, Northern Cape, Eastern Cape"
+    "composedOf": "Western Cape, Northern Cape, Eastern Cape",
+    "referenceAlias": "CapeTown",
+    "localizationAlias": "CapeTown"
   },
   {
     "dataName": "RW7_Cascadia",
@@ -3389,7 +3515,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Washington, Oregon"
+    "composedOf": "Washington, Oregon",
+    "referenceAlias": "Cascadia",
+    "localizationAlias": "Cascadia"
   },
   {
     "dataName": "RW7_CentralAfricanRepublic",
@@ -3426,7 +3554,9 @@
       "illustrations/illus_CentralAfricanRepublic_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "CentralAfricanRepublic",
+    "localizationAlias": "CentralAfricanRepublic"
   },
   {
     "dataName": "RW7_Chad",
@@ -3474,7 +3604,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Chad",
+    "localizationAlias": "Chad"
   },
   {
     "dataName": "RW7_Chennai",
@@ -3512,7 +3644,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Karnataka"
+    "composedOf": "Karnataka",
+    "referenceAlias": "Chennai",
+    "localizationAlias": "Chennai"
   },
   {
     "dataName": "RW7_ChiangMai",
@@ -3546,7 +3680,9 @@
       "illustrations/illus_ChiangMai_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "ChiangMai",
+    "localizationAlias": "ChiangMai"
   },
   {
     "dataName": "RW7_Chongqing",
@@ -3583,7 +3719,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Sichuan, Chongqing M"
+    "composedOf": "Sichuan, Chongqing M",
+    "referenceAlias": "Chongqing",
+    "localizationAlias": "Chongqing"
   },
   {
     "dataName": "RW7_Colombia",
@@ -3614,12 +3752,14 @@
       "illustrations/illus_Colombia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Colombia",
+    "localizationAlias": "Colombia"
   },
   {
     "dataName": "RW7_CostaRica",
     "mapRegionName": "map_CostaRica",
-    "primaryCity": "San Jos\u00e9",
+    "primaryCity": "San José",
     "sortNation": "Muysca",
     "population_Millions": 5.5545,
     "annualPopGrowthModifier": 0,
@@ -3673,14 +3813,16 @@
       "illustrations/illus_CostaRica_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "CostaRica",
+    "localizationAlias": "CostaRica"
   },
   {
     "dataName": "RW7_Crimea",
     "mapRegionName": "map_Crimea",
     "primaryCity": "Sevastopol",
     "sortNation": "Taurida Kingdom",
-    "population_Millions": 2.5838,
+    "population_Millions": 3.2298,
     "annualPopGrowthModifier": -0.2,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -3712,7 +3854,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Crimea, Sevastapol"
+    "composedOf": "Crimea, Sevastapol",
+    "referenceAlias": "Crimea",
+    "localizationAlias": "Crimea"
   },
   {
     "dataName": "RW7_Cuba",
@@ -3754,12 +3898,14 @@
       "illustrations/illus_Cuba_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Cuba",
+    "localizationAlias": "Cuba"
   },
   {
     "dataName": "RW7_Cuiaba",
     "mapRegionName": "map_Cuiaba",
-    "primaryCity": "Cuiab\u00e1",
+    "primaryCity": "Cuiabá",
     "sortNation": "Pindorama",
     "population_Millions": 8.7925,
     "annualPopGrowthModifier": -0.25,
@@ -3808,7 +3954,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Matto Grosso, , Mato Grosso do Sul, Rodonia"
+    "composedOf": "Matto Grosso, , Mato Grosso do Sul, Rodonia",
+    "referenceAlias": "Cuiaba",
+    "localizationAlias": "Cuiaba"
   },
   {
     "dataName": "RW7_Cumberland",
@@ -3914,14 +4062,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Tennessee, Kentucky"
+    "composedOf": "Tennessee, Kentucky",
+    "referenceAlias": "Cumberland",
+    "localizationAlias": "Cumberland"
   },
   {
     "dataName": "RW7_Cyrenaica",
     "mapRegionName": "map_Cyrenaica",
     "primaryCity": "Benghazi",
     "sortNation": "Cyrenaica",
-    "population_Millions": 2.1899,
+    "population_Millions": 6.5697,
     "annualPopGrowthModifier": 0,
     "oilResource": false,
     "oilCapable": false,
@@ -3957,7 +4107,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Cyrenaica",
+    "localizationAlias": "Cyrenaica"
   },
   {
     "dataName": "RW7_Czechia",
@@ -3989,14 +4141,16 @@
       "illustrations/illus_Czechia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Czechia",
+    "localizationAlias": "Czechia"
   },
   {
     "dataName": "RW7_Dakota",
     "mapRegionName": "map_Dakota",
     "primaryCity": "Minneapolis",
     "sortNation": "Oceti Sakowin",
-    "population_Millions": 7.6979,
+    "population_Millions": 15.3958,
     "annualPopGrowthModifier": 0.2,
     "oilResource": true,
     "oilCapable": true,
@@ -4094,7 +4248,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "South Dakota, North Dakota, Minnesota"
+    "composedOf": "South Dakota, North Dakota, Minnesota",
+    "referenceAlias": "Dakota",
+    "localizationAlias": "Dakota"
   },
   {
     "dataName": "RW7_Darfur",
@@ -4136,7 +4292,9 @@
       "illustrations/illus_Darfur_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Darfur",
+    "localizationAlias": "Darfur"
   },
   {
     "dataName": "RW7_Darwin",
@@ -4224,7 +4382,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Darwin",
+    "localizationAlias": "Darwin"
   },
   {
     "dataName": "RW7_Denmark",
@@ -4307,7 +4467,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Denmark, Faroe Islands"
+    "composedOf": "Denmark, Faroe Islands",
+    "referenceAlias": "Denmark",
+    "localizationAlias": "Denmark"
   },
   {
     "dataName": "RW7_DireDiwa",
@@ -4356,7 +4518,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "East Ethiopia"
+    "composedOf": "East Ethiopia",
+    "referenceAlias": "DireDiwa",
+    "localizationAlias": "DireDiwa"
   },
   {
     "dataName": "RW7_Dixie",
@@ -4461,7 +4625,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "South Carolina, Georgia, Florida"
+    "composedOf": "South Carolina, Georgia, Florida",
+    "referenceAlias": "Dixie",
+    "localizationAlias": "Dixie"
   },
   {
     "dataName": "RW7_Diyarbakir",
@@ -4510,7 +4676,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Northeast Anatolia, Central East Anatolia, Southeast Anatolia, East Black Sea"
+    "composedOf": "Northeast Anatolia, Central East Anatolia, Southeast Anatolia, East Black Sea",
+    "referenceAlias": "Diyarbakir",
+    "localizationAlias": "Diyarbakir"
   },
   {
     "dataName": "RW7_Djibouti",
@@ -4542,7 +4710,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Djibouti",
+    "localizationAlias": "Djibouti"
   },
   {
     "dataName": "RW7_Donetsk",
@@ -4579,7 +4749,9 @@
     ],
     "occupyingNation": "RUS",
     "occupationValue": 0.59,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Donetsk",
+    "localizationAlias": "Donetsk"
   },
   {
     "dataName": "RW7_Dubai",
@@ -4614,7 +4786,9 @@
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Dubai",
+    "localizationAlias": "Dubai"
   },
   {
     "dataName": "RW7_DutchCaribbean",
@@ -4668,7 +4842,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Caribbean Netherlands, Curacao, Aruba, Sint Maarten"
+    "composedOf": "Caribbean Netherlands, Curacao, Aruba, Sint Maarten",
+    "referenceAlias": "DutchCaribbean",
+    "localizationAlias": "DutchCaribbean"
   },
   {
     "dataName": "RW7_EastAngola",
@@ -4704,7 +4880,9 @@
       "illustrations/illus_EastAngola_1"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "EastAngola",
+    "localizationAlias": "EastAngola"
   },
   {
     "dataName": "RW7_EastGermany",
@@ -4751,7 +4929,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Berlin, Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, Thuringia"
+    "composedOf": "Berlin, Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, Thuringia",
+    "referenceAlias": "EastGermany",
+    "localizationAlias": "EastGermany"
   },
   {
     "dataName": "RW7_EastHispanola",
@@ -4783,14 +4963,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Dominican Republic"
+    "composedOf": "Dominican Republic",
+    "referenceAlias": "EastHispanola",
+    "localizationAlias": "EastHispanola"
   },
   {
     "dataName": "RW7_EasternSiberia",
     "mapRegionName": "map_Irkutsk",
     "primaryCity": "Irkutsk",
     "sortNation": "Gelejian Khanate",
-    "population_Millions": 2.1715,
+    "population_Millions": 4.4215,
     "annualPopGrowthModifier": -0.18,
     "mineCapable": false,
     "environment": "Beneficiary",
@@ -4847,7 +5029,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Irkutsk (r), Buryatia, Zabaykalsk"
+    "composedOf": "Irkutsk (r), Buryatia, Zabaykalsk",
+    "referenceAlias": "EasternSiberia",
+    "localizationAlias": "EasternSiberia"
   },
   {
     "dataName": "RW7_Ecuador",
@@ -4879,7 +5063,9 @@
       "illustrations/illus_Ecuador_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Ecuador",
+    "localizationAlias": "Ecuador"
   },
   {
     "dataName": "RW7_ElSalvador",
@@ -4910,7 +5096,9 @@
       "illustrations/illus_ElSalvador_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "ElSalvador",
+    "localizationAlias": "ElSalvador"
   },
   {
     "dataName": "RW7_England",
@@ -5000,7 +5188,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Isle of Man, Jersey / Guernsey, Gibaltrar, South England"
+    "composedOf": "Isle of Man, Jersey / Guernsey, Gibaltrar, South England",
+    "referenceAlias": "England",
+    "localizationAlias": "England"
   },
   {
     "dataName": "RW7_EnglishMidlands",
@@ -5089,7 +5279,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "North/Central England (York, Manchester, Liverpool, Birmingham)"
+    "composedOf": "North/Central England (York, Manchester, Liverpool, Birmingham)",
+    "referenceAlias": "EnglishMidlands",
+    "localizationAlias": "EnglishMidlands"
   },
   {
     "dataName": "RW7_EquatorialGuinea",
@@ -5122,7 +5314,9 @@
       "illustrations/illus_EquatorialGuinea_1"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "EquatorialGuinea",
+    "localizationAlias": "EquatorialGuinea"
   },
   {
     "dataName": "RW7_Eritrea",
@@ -5171,7 +5365,9 @@
       "illustrations/illus_Eritrea_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Eritrea",
+    "localizationAlias": "Eritrea"
   },
   {
     "dataName": "RW7_Estonia",
@@ -5205,14 +5401,16 @@
       "illustrations/illus_Estonia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Estonia",
+    "localizationAlias": "Estonia"
   },
   {
     "dataName": "RW7_Eswatini",
     "mapRegionName": "map_Eswatini",
     "primaryCity": "Mbabane",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 58.0,
+    "population_Millions": 53.2382,
     "annualPopGrowthModifier": -0.5,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -5240,7 +5438,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Eswatini",
+    "localizationAlias": "Eswatini"
   },
   {
     "dataName": "RW7_Ethiopia",
@@ -5290,7 +5490,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Western Ethiopia"
+    "composedOf": "Western Ethiopia",
+    "referenceAlias": "Ethiopia",
+    "localizationAlias": "Ethiopia"
   },
   {
     "dataName": "RW7_Faridabad",
@@ -5326,14 +5528,16 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Punjab, Haryana, Himachal Pradesh, Uttarakhand",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Faridabad",
+    "localizationAlias": "Faridabad"
   },
   {
     "dataName": "RW7_Finland",
     "mapRegionName": "map_Finland",
     "primaryCity": "Helsinki",
     "sortNation": "Kvenland",
-    "population_Millions": 5.9407,
+    "population_Millions": 7.4259,
     "annualPopGrowthModifier": 0.25,
     "environment": "Beneficiary",
     "boostPerYear_tons": 0,
@@ -5366,7 +5570,9 @@
       "illustrations/illus_Finland_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Finland",
+    "localizationAlias": "Finland"
   },
   {
     "dataName": "RW7_Fortaleza",
@@ -5420,7 +5626,9 @@
       "illustrations/illus_Fortaleza_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Fortaleza",
+    "localizationAlias": "Fortaleza"
   },
   {
     "dataName": "RW7_FrenchGuiana",
@@ -5501,7 +5709,9 @@
       "illustrations/illus_FrenchGuiana_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "FrenchGuiana",
+    "localizationAlias": "FrenchGuiana"
   },
   {
     "dataName": "RW7_FrenchPacific",
@@ -5547,7 +5757,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "New Caledonia, French Polynesia, Wallis and Futuna"
+    "composedOf": "New Caledonia, French Polynesia, Wallis and Futuna",
+    "referenceAlias": "FrenchPacific",
+    "localizationAlias": "FrenchPacific"
   },
   {
     "dataName": "RW7_FrenchRatnakara",
@@ -5591,7 +5803,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Reunion, Mayotte",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "FrenchRatnakara",
+    "localizationAlias": "FrenchRatnakara"
   },
   {
     "dataName": "RW7_FrenchWestIndies",
@@ -5651,7 +5865,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Martinique, French Guiana, Saint Martin, Guadeloupe"
+    "composedOf": "Martinique, French Guiana, Saint Martin, Guadeloupe",
+    "referenceAlias": "FrenchWestIndies",
+    "localizationAlias": "FrenchWestIndies"
   },
   {
     "dataName": "RW7_Fujian",
@@ -5682,7 +5898,9 @@
       "illustrations/illus_Fujian_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Fujian",
+    "localizationAlias": "Fujian"
   },
   {
     "dataName": "RW7_Gambia",
@@ -5717,7 +5935,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Gambia",
+    "localizationAlias": "Gambia"
   },
   {
     "dataName": "RW7_Gansu",
@@ -5749,7 +5969,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Gansu, Ningxia"
+    "composedOf": "Gansu, Ningxia",
+    "referenceAlias": "Gansu",
+    "localizationAlias": "Gansu"
   },
   {
     "dataName": "RW7_Gao",
@@ -5787,7 +6009,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "(Northern Mali)"
+    "composedOf": "(Northern Mali)",
+    "referenceAlias": "Gao",
+    "localizationAlias": "Gao"
   },
   {
     "dataName": "RW7_Gdansk",
@@ -5819,7 +6043,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Pomerania, Kuyavia-Pomerania, Greater Poland, West Pomerania, Warmia-Masuria"
+    "composedOf": "Pomerania, Kuyavia-Pomerania, Greater Poland, West Pomerania, Warmia-Masuria",
+    "referenceAlias": "Gdansk",
+    "localizationAlias": "Gdansk"
   },
   {
     "dataName": "RW7_Georgia",
@@ -5850,7 +6076,9 @@
       "illustrations/illus_Georgia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Georgia",
+    "localizationAlias": "Georgia"
   },
   {
     "dataName": "RW7_Germany",
@@ -5903,7 +6131,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Bremen, Hamburg, Lower Saxony(Hanover), North Rhine-Westphalia, Schleswig-Holstein",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Germany",
+    "localizationAlias": "Germany"
   },
   {
     "dataName": "RW7_GranChaco",
@@ -5961,7 +6191,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Jujuy, Salta, Tucuman, Catamarca, Formosa, Chaco, Santiago del Estero, Corrientes, Misiones, Santa Fe (Nueve de Julio, Vera, General Obligado, San Cristobal, San Justo, San Javier departments)"
+    "composedOf": "Jujuy, Salta, Tucuman, Catamarca, Formosa, Chaco, Santiago del Estero, Corrientes, Misiones, Santa Fe (Nueve de Julio, Vera, General Obligado, San Cristobal, San Justo, San Javier departments)",
+    "referenceAlias": "GranChaco",
+    "localizationAlias": "GranChaco"
   },
   {
     "dataName": "RW7_Greece",
@@ -5995,7 +6227,9 @@
       "illustrations/illus_Greece_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Greece",
+    "localizationAlias": "Greece"
   },
   {
     "dataName": "RW7_Greenland",
@@ -6039,7 +6273,9 @@
       "illustrations/illus_Greenland_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Greenland",
+    "localizationAlias": "Greenland"
   },
   {
     "dataName": "RW7_Guangzhou",
@@ -6072,7 +6308,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Hainan, Guangdong,  Macau"
+    "composedOf": "Hainan, Guangdong,  Macau",
+    "referenceAlias": "Guangzhou",
+    "localizationAlias": "Guangzhou"
   },
   {
     "dataName": "RW7_Guatemala",
@@ -6103,7 +6341,9 @@
       "illustrations/illus_Guatemala_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Guatemala",
+    "localizationAlias": "Guatemala"
   },
   {
     "dataName": "RW7_Guinea",
@@ -6142,7 +6382,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Guinea",
+    "localizationAlias": "Guinea"
   },
   {
     "dataName": "RW7_GuineaBissau",
@@ -6173,7 +6415,9 @@
       "illustrations/illus_GuineaBissau_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "GuineaBissau",
+    "localizationAlias": "GuineaBissau"
   },
   {
     "dataName": "RW7_Guizhou",
@@ -6206,7 +6450,9 @@
       "illustrations/illus_Guizhou_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Guizhou",
+    "localizationAlias": "Guizhou"
   },
   {
     "dataName": "RW7_Gujarat",
@@ -6238,7 +6484,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Gujarat, Daman and Diu and Dadra and Nagar Haveli"
+    "composedOf": "Gujarat, Daman and Diu and Dadra and Nagar Haveli",
+    "referenceAlias": "Gujarat",
+    "localizationAlias": "Gujarat"
   },
   {
     "dataName": "RW7_GulfStates",
@@ -6273,7 +6521,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Qatar, Bahrain"
+    "composedOf": "Qatar, Bahrain",
+    "referenceAlias": "GulfStates",
+    "localizationAlias": "GulfStates"
   },
   {
     "dataName": "RW7_Guyana",
@@ -6339,7 +6589,9 @@
       "illustrations/illus_Guyana_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Guyana",
+    "localizationAlias": "Guyana"
   },
   {
     "dataName": "RW7_Halifax",
@@ -6433,7 +6685,9 @@
     "nuclearDetonations": 0,
     "composedOf": "Nova Scotia, New Brunswick, PEI, Labrador and Newfoundland",
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Halifax",
+    "localizationAlias": "Halifax"
   },
   {
     "dataName": "RW7_Hangzhou",
@@ -6464,7 +6718,9 @@
       "illustrations/illus_Hangzhou_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Hangzhou",
+    "localizationAlias": "Hangzhou"
   },
   {
     "dataName": "RW7_Hanoi",
@@ -6497,7 +6753,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "North Central Coast, Red River Delta, Northeast, Northwest Regions"
+    "composedOf": "North Central Coast, Red River Delta, Northeast, Northwest Regions",
+    "referenceAlias": "Hanoi",
+    "localizationAlias": "Hanoi"
   },
   {
     "dataName": "RW7_HighPlains",
@@ -6600,7 +6858,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Kansas, Nebraska, Iowa, Missouri"
+    "composedOf": "Kansas, Nebraska, Iowa, Missouri",
+    "referenceAlias": "HighPlains",
+    "localizationAlias": "HighPlains"
   },
   {
     "dataName": "RW7_Hijaz",
@@ -6635,7 +6895,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Tabuk, Medina, Meccah, Baha, Jizan, Asir"
+    "composedOf": "Tabuk, Medina, Meccah, Baha, Jizan, Asir",
+    "referenceAlias": "Hijaz",
+    "localizationAlias": "Hijaz"
   },
   {
     "dataName": "RW7_Himalayas",
@@ -6673,7 +6935,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Nepal"
+    "composedOf": "Nepal",
+    "referenceAlias": "Himalayas",
+    "localizationAlias": "Himalayas"
   },
   {
     "dataName": "RW7_HoChiMinhCity",
@@ -6705,7 +6969,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "South Central Coast, Central Highlands, Southeast, Mekong River Delta"
+    "composedOf": "South Central Coast, Central Highlands, Southeast, Mekong River Delta",
+    "referenceAlias": "HoChiMinhCity",
+    "localizationAlias": "HoChiMinhCity"
   },
   {
     "dataName": "RW7_Hokkaido",
@@ -6736,7 +7002,9 @@
       "illustrations/illus_Hokkaido_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Hokkaido",
+    "localizationAlias": "Hokkaido"
   },
   {
     "dataName": "RW7_Honduras",
@@ -6784,7 +7052,9 @@
       "illustrations/illus_Honduras_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Honduras",
+    "localizationAlias": "Honduras"
   },
   {
     "dataName": "RW7_HongKong",
@@ -6817,7 +7087,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Hong Kong"
+    "composedOf": "Hong Kong",
+    "referenceAlias": "HongKong",
+    "localizationAlias": "HongKong"
   },
   {
     "dataName": "RW7_Hunan",
@@ -6848,7 +7120,9 @@
       "illustrations/illus_Hunan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Hunan",
+    "localizationAlias": "Hunan"
   },
   {
     "dataName": "RW7_Hungary",
@@ -6879,7 +7153,9 @@
       "illustrations/illus_Hungary_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Hungary",
+    "localizationAlias": "Hungary"
   },
   {
     "dataName": "RW7_Hyderabad",
@@ -6912,14 +7188,16 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Telangana",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Hyderabad",
+    "localizationAlias": "Hyderabad"
   },
   {
     "dataName": "RW7_Iceland",
     "mapRegionName": "map_Iceland",
     "primaryCity": "Reykjavik",
     "sortNation": "Iceland",
-    "population_Millions": 0.3699,
+    "population_Millions": 0.5549,
     "annualPopGrowthModifier": 0.25,
     "environment": "Beneficiary",
     "boostPerYear_tons": 0,
@@ -6945,7 +7223,9 @@
       "illustrations/illus_Iceland_4"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Iceland",
+    "localizationAlias": "Iceland"
   },
   {
     "dataName": "RW7_Indore",
@@ -6977,14 +7257,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Madhya Pradesh"
+    "composedOf": "Madhya Pradesh",
+    "referenceAlias": "Indore",
+    "localizationAlias": "Indore"
   },
   {
     "dataName": "RW7_InnerMongolia",
     "mapRegionName": "map_InnerMongolia",
     "primaryCity": "Hohhot",
     "sortNation": "Tolui Khanate",
-    "population_Millions": 26.2959,
+    "population_Millions": 26.8099,
     "annualPopGrowthModifier": -0.5,
     "mining": true,
     "mineCapable": true,
@@ -7014,7 +7296,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Actually Outer Mongolia"
+    "composedOf": "Actually Outer Mongolia",
+    "referenceAlias": "InnerMongolia",
+    "localizationAlias": "InnerMongolia"
   },
   {
     "dataName": "RW7_Ireland",
@@ -7097,7 +7381,9 @@
       "illustrations/illus_Ireland_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Ireland",
+    "localizationAlias": "Ireland"
   },
   {
     "dataName": "RW7_Isfahan",
@@ -7130,7 +7416,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Region 4"
+    "composedOf": "Region 4",
+    "referenceAlias": "Isfahan",
+    "localizationAlias": "Isfahan"
   },
   {
     "dataName": "RW7_Israel",
@@ -7176,7 +7464,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Israel",
+    "localizationAlias": "Israel"
   },
   {
     "dataName": "RW7_Istanbul",
@@ -7219,7 +7509,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+    "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions",
+    "referenceAlias": "Istanbul",
+    "localizationAlias": "Istanbul"
   },
   {
     "dataName": "RW7_Italy",
@@ -7282,7 +7574,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Abruzzo, Lazio, Marche, Sardinia, Tuscany, Umbria, Vatican City"
+    "composedOf": "Abruzzo, Lazio, Marche, Sardinia, Tuscany, Umbria, Vatican City",
+    "referenceAlias": "Italy",
+    "localizationAlias": "Italy"
   },
   {
     "dataName": "RW7_IvoryCoast",
@@ -7316,7 +7610,9 @@
     "nuclearDetonations": 0,
     "coreEco": true,
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "IvoryCoast",
+    "localizationAlias": "IvoryCoast"
   },
   {
     "dataName": "RW7_Jaipur",
@@ -7351,7 +7647,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Rajasthan"
+    "composedOf": "Rajasthan",
+    "referenceAlias": "Jaipur",
+    "localizationAlias": "Jaipur"
   },
   {
     "dataName": "RW7_Jamaica",
@@ -7407,7 +7705,9 @@
       "illustrations/illus_Jamaica_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Jamaica",
+    "localizationAlias": "Jamaica"
   },
   {
     "dataName": "RW7_JammuandKashmir",
@@ -7445,7 +7745,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Jammu and Kashmir, Ladakh"
+    "composedOf": "Jammu and Kashmir, Ladakh",
+    "referenceAlias": "JammuandKashmir",
+    "localizationAlias": "JammuandKashmir"
   },
   {
     "dataName": "RW7_Java",
@@ -7512,14 +7814,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Java"
+    "composedOf": "Java",
+    "referenceAlias": "Java",
+    "localizationAlias": "Java"
   },
   {
     "dataName": "RW7_Jilin",
     "mapRegionName": "map_Jilin",
     "primaryCity": "Changchun",
     "sortNation": "Kolgen Khanate",
-    "population_Millions": 26.3225,
+    "population_Millions": 24.0725,
     "annualPopGrowthModifier": -0.5,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -7548,14 +7852,16 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Jilin",
+    "localizationAlias": "Jilin"
   },
   {
     "dataName": "RW7_Johannesburg",
     "mapRegionName": "map_Johannesburg",
     "primaryCity": "Johannesburg",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 40.2622,
+    "population_Millions": 36.9566,
     "annualPopGrowthModifier": 0,
     "mining": true,
     "mineCapable": true,
@@ -7616,7 +7922,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Free State, Northwest, KwaZulu-Natal, Gauteng, Mpumalanga, Limpopo"
+    "composedOf": "Free State, Northwest, KwaZulu-Natal, Gauteng, Mpumalanga, Limpopo",
+    "referenceAlias": "Johannesburg",
+    "localizationAlias": "Johannesburg"
   },
   {
     "dataName": "RW7_Jordan",
@@ -7650,7 +7958,9 @@
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Jordan",
+    "localizationAlias": "Jordan"
   },
   {
     "dataName": "RW7_Kaliningrad",
@@ -7685,7 +7995,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Kaliningrad",
+    "localizationAlias": "Kaliningrad"
   },
   {
     "dataName": "RW7_Kamchatka",
@@ -7745,7 +8057,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Kamchatka Krai, Madagan Oblast, Chukotka Autonomous Okrug"
+    "composedOf": "Kamchatka Krai, Madagan Oblast, Chukotka Autonomous Okrug",
+    "referenceAlias": "Kamchatka",
+    "localizationAlias": "Kamchatka"
   },
   {
     "dataName": "RW7_Kano",
@@ -7777,14 +8091,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Bauchi, Borno, Gombe, Jigawa, Kaduma, Kano, Katsima, Kebbi, Sokoto, Yobe, Zamfara"
+    "composedOf": "Bauchi, Borno, Gombe, Jigawa, Kaduma, Kano, Katsima, Kebbi, Sokoto, Yobe, Zamfara",
+    "referenceAlias": "Kano",
+    "localizationAlias": "Kano"
   },
   {
     "dataName": "RW7_Karakalpakstan",
     "mapRegionName": "map_Karakalpakstan",
     "primaryCity": "Nukus",
     "sortNation": "Chagatai Khanate",
-    "population_Millions": 3.9065,
+    "population_Millions": 4.0424,
     "annualPopGrowthModifier": 0.5,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -7811,14 +8127,16 @@
       "illustrations/illus_Karakalpakstan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Karakalpakstan",
+    "localizationAlias": "Karakalpakstan"
   },
   {
     "dataName": "RW7_Karelia",
     "mapRegionName": "map_Karelia",
     "primaryCity": "Murmansk",
     "sortNation": "Kvenland",
-    "population_Millions": 1.3152,
+    "population_Millions": 1.644,
     "annualPopGrowthModifier": -0.18,
     "environment": "Beneficiary",
     "boostPerYear_tons": 0,
@@ -7843,7 +8161,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Republic of Karelia, Murmansk Oblast"
+    "composedOf": "Republic of Karelia, Murmansk Oblast",
+    "referenceAlias": "Karelia",
+    "localizationAlias": "Karelia"
   },
   {
     "dataName": "RW7_Katowice",
@@ -7875,14 +8195,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Opole, Silesia, Lower Silesia, and Lubusz"
+    "composedOf": "Opole, Silesia, Lower Silesia, and Lubusz",
+    "referenceAlias": "Katowice",
+    "localizationAlias": "Katowice"
   },
   {
     "dataName": "RW7_Kenya",
     "mapRegionName": "map_Kenya",
     "primaryCity": "Nairobi",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 38.2501,
+    "population_Millions": 35.1097,
     "annualPopGrowthModifier": 0,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -7914,7 +8236,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "(rest of Kenya except what's in Mombasa region)",
-    "mineCapable": true
+    "mineCapable": true,
+    "referenceAlias": "Kenya",
+    "localizationAlias": "Kenya"
   },
   {
     "dataName": "RW7_Kharkiv",
@@ -7945,7 +8269,9 @@
       "illustrations/illus_Kharkiv_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Kharkiv",
+    "localizationAlias": "Kharkiv"
   },
   {
     "dataName": "RW7_Kiev",
@@ -7976,7 +8302,9 @@
       "illustrations/illus_Kiev_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Kiev",
+    "localizationAlias": "Kiev"
   },
   {
     "dataName": "RW7_Kigali",
@@ -8011,7 +8339,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Rwanda, Burundi"
+    "composedOf": "Rwanda, Burundi",
+    "referenceAlias": "Kigali",
+    "localizationAlias": "Kigali"
   },
   {
     "dataName": "RW7_Kinshasa",
@@ -8043,7 +8373,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Kongo Central, Kinshasa(r), Equateur, Mai-Ndombe, Sud-Ubangi, Nord-Ubangi, Mongala, Tshuapa, Kasai, Kasi Central, Kwango, Kwilu, Sankuru"
+    "composedOf": "Kongo Central, Kinshasa(r), Equateur, Mai-Ndombe, Sud-Ubangi, Nord-Ubangi, Mongala, Tshuapa, Kasai, Kasi Central, Kwango, Kwilu, Sankuru",
+    "referenceAlias": "Kinshasa",
+    "localizationAlias": "Kinshasa"
   },
   {
     "dataName": "RW7_Kirov",
@@ -8075,7 +8407,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Volga-East"
+    "composedOf": "Volga-East",
+    "referenceAlias": "Kirov",
+    "localizationAlias": "Kirov"
   },
   {
     "dataName": "RW7_Kisangani",
@@ -8108,7 +8442,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Base-Uele, Haut-Uele, Ituri, Tshopo, Maniema, Nord-Kivu, Sud-Kivu"
+    "composedOf": "Base-Uele, Haut-Uele, Ituri, Tshopo, Maniema, Nord-Kivu, Sud-Kivu",
+    "referenceAlias": "Kisangani",
+    "localizationAlias": "Kisangani"
   },
   {
     "dataName": "RW7_Kolkata",
@@ -8147,7 +8483,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Jharkhand,\u00a0West Bengal, Andeman and Nicobar Islands, Sikkim"
+    "composedOf": "Jharkhand, West Bengal, Andeman and Nicobar Islands, Sikkim",
+    "referenceAlias": "Kolkata",
+    "localizationAlias": "Kolkata"
   },
   {
     "dataName": "RW7_Kosovo",
@@ -8177,7 +8515,9 @@
       "illustrations/illus_Kosovo_1"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Kosovo",
+    "localizationAlias": "Kosovo"
   },
   {
     "dataName": "RW7_Kuwait",
@@ -8211,14 +8551,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Kuwait",
+    "localizationAlias": "Kuwait"
   },
   {
     "dataName": "RW7_Kyrgyzstan",
     "mapRegionName": "map_Kyrgyzstan",
     "primaryCity": "Bishkek",
     "sortNation": "Kyrgyzstan",
-    "population_Millions": 7.2262,
+    "population_Millions": 6.0,
     "annualPopGrowthModifier": 0.3,
     "environment": "Beneficiary",
     "boostPerYear_tons": 93.9,
@@ -8248,7 +8590,9 @@
       "illustrations/illus_Kyrgyzstan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Kyrgyzstan",
+    "localizationAlias": "Kyrgyzstan"
   },
   {
     "dataName": "RW7_KyushuandShikoku",
@@ -8279,7 +8623,9 @@
       "illustrations/illus_KyushuandShikoku_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "KyushuandShikoku",
+    "localizationAlias": "KyushuandShikoku"
   },
   {
     "dataName": "RW7_Lagos",
@@ -8314,7 +8660,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Abuja/Federal Capital, Edo, Ekiti, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Lagos",
+    "localizationAlias": "Lagos"
   },
   {
     "dataName": "RW7_Laos",
@@ -8345,7 +8693,9 @@
       "illustrations/illus_Laos_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Laos",
+    "localizationAlias": "Laos"
   },
   {
     "dataName": "RW7_Latvia",
@@ -8379,7 +8729,9 @@
       "illustrations/illus_Latvia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Latvia",
+    "localizationAlias": "Latvia"
   },
   {
     "dataName": "RW7_Laurentia",
@@ -8483,7 +8835,9 @@
       "illustrations/illus_Laurentia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Laurentia",
+    "localizationAlias": "Laurentia"
   },
   {
     "dataName": "RW7_Lebanon",
@@ -8519,7 +8873,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "Female"
+    "asi_RegionalHeadwear": "Female",
+    "referenceAlias": "Lebanon",
+    "localizationAlias": "Lebanon"
   },
   {
     "dataName": "RW7_Lesotho",
@@ -8553,7 +8909,9 @@
       "illustrations/illus_Lesotho_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Lesotho",
+    "localizationAlias": "Lesotho"
   },
   {
     "dataName": "RW7_LesserSundas",
@@ -8620,7 +8978,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Bali, West Nusa Tenggara, East Nusa Tenggara"
+    "composedOf": "Bali, West Nusa Tenggara, East Nusa Tenggara",
+    "referenceAlias": "LesserSundas",
+    "localizationAlias": "LesserSundas"
   },
   {
     "dataName": "RW7_Liaoning",
@@ -8654,7 +9014,9 @@
       "illustrations/illus_Liaoning_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Liaoning",
+    "localizationAlias": "Liaoning"
   },
   {
     "dataName": "RW7_Liberia",
@@ -8685,7 +9047,9 @@
       "illustrations/illus_Liberia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Liberia",
+    "localizationAlias": "Liberia"
   },
   {
     "dataName": "RW7_Libreville",
@@ -8720,14 +9084,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Gabon"
+    "composedOf": "Gabon",
+    "referenceAlias": "Libreville",
+    "localizationAlias": "Libreville"
   },
   {
     "dataName": "RW7_Libya",
     "mapRegionName": "map_Libya",
     "primaryCity": "Tripoli",
     "sortNation": "Tripolitania",
-    "population_Millions": 5.3643,
+    "population_Millions": 6.9736,
     "annualPopGrowthModifier": 0,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -8764,7 +9130,9 @@
     "asi_RegionalHeadwear": "All",
     "composedOf": "Tripoltemia and Fezzan",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Libya",
+    "localizationAlias": "Libya"
   },
   {
     "dataName": "RW7_Lithuania",
@@ -8798,7 +9166,9 @@
       "illustrations/illus_Lithuania_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Lithuania",
+    "localizationAlias": "Lithuania"
   },
   {
     "dataName": "RW7_Logone",
@@ -8835,7 +9205,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Eastern CAR"
+    "composedOf": "Eastern CAR",
+    "referenceAlias": "Logone",
+    "localizationAlias": "Logone"
   },
   {
     "dataName": "RW7_Lubumbashi",
@@ -8869,7 +9241,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Kasai Oriental, Lomama, Tangankyika, Haut-Lomamai, Lualaba, Haut-Katanga"
+    "composedOf": "Kasai Oriental, Lomama, Tangankyika, Haut-Lomamai, Lualaba, Haut-Katanga",
+    "referenceAlias": "Lubumbashi",
+    "localizationAlias": "Lubumbashi"
   },
   {
     "dataName": "RW7_Luxor",
@@ -8913,7 +9287,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "New Valley, Asyut, Sohag, Qena, Luxor (r), Aswan, Red Sea - South End"
+    "composedOf": "New Valley, Asyut, Sohag, Qena, Luxor (r), Aswan, Red Sea - South End",
+    "referenceAlias": "Luxor",
+    "localizationAlias": "Luxor"
   },
   {
     "dataName": "RW7_Luzon",
@@ -8968,7 +9344,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Included \"associated islands\""
+    "composedOf": "Included \"associated islands\"",
+    "referenceAlias": "Luzon",
+    "localizationAlias": "Luzon"
   },
   {
     "dataName": "RW7_Lyon",
@@ -9044,7 +9422,9 @@
       "illustrations/illus_Lyon_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Lyon",
+    "localizationAlias": "Lyon"
   },
   {
     "dataName": "RW7_Madagascar",
@@ -9079,7 +9459,9 @@
       "illustrations/illus_Madagascar_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Madagascar",
+    "localizationAlias": "Madagascar"
   },
   {
     "dataName": "RW7_Makhachkala",
@@ -9125,14 +9507,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "North Caucasian Federal District"
+    "composedOf": "North Caucasian Federal District",
+    "referenceAlias": "Makhachkala",
+    "localizationAlias": "Makhachkala"
   },
   {
     "dataName": "RW7_Malawi",
     "mapRegionName": "map_Malawi",
     "primaryCity": "Lilongwe",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 16.3448,
+    "population_Millions": 15.0029,
     "annualPopGrowthModifier": 1,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -9160,7 +9544,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "oilCapable": true
+    "oilCapable": true,
+    "referenceAlias": "Malawi",
+    "localizationAlias": "Malawi"
   },
   {
     "dataName": "RW7_MalayPeninsula",
@@ -9216,12 +9602,14 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "Female"
+    "asi_RegionalHeadwear": "Female",
+    "referenceAlias": "MalayPeninsula",
+    "localizationAlias": "MalayPeninsula"
   },
   {
     "dataName": "RW7_Maldives",
     "mapRegionName": "map_Maldives",
-    "primaryCity": "Mal\u00e9",
+    "primaryCity": "Malé",
     "sortNation": "Serendib",
     "population_Millions": 0.6529,
     "annualPopGrowthModifier": 0.5,
@@ -9259,7 +9647,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "Female"
+    "asi_RegionalHeadwear": "Female",
+    "referenceAlias": "Maldives",
+    "localizationAlias": "Maldives"
   },
   {
     "dataName": "RW7_Mali",
@@ -9297,7 +9687,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "(Southern Mali)"
+    "composedOf": "(Southern Mali)",
+    "referenceAlias": "Mali",
+    "localizationAlias": "Mali"
   },
   {
     "dataName": "RW7_Manchuria",
@@ -9334,7 +9726,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Heilongjiang",
-    "mineCapable": true
+    "mineCapable": true,
+    "referenceAlias": "Manchuria",
+    "localizationAlias": "Manchuria"
   },
   {
     "dataName": "RW7_Manitoba",
@@ -9436,7 +9830,9 @@
       "illustrations/illus_Manitoba_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Manitoba",
+    "localizationAlias": "Manitoba"
   },
   {
     "dataName": "RW7_Mashhad",
@@ -9469,7 +9865,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Region 5"
+    "composedOf": "Region 5",
+    "referenceAlias": "Mashhad",
+    "localizationAlias": "Mashhad"
   },
   {
     "dataName": "RW7_Mauritania",
@@ -9510,7 +9908,9 @@
       "illustrations/illus_Mauritania_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Mauritania",
+    "localizationAlias": "Mauritania"
   },
   {
     "dataName": "RW7_Mauritius",
@@ -9558,7 +9958,9 @@
       "illustrations/illus_Mauritius_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Mauritius",
+    "localizationAlias": "Mauritius"
   },
   {
     "dataName": "RW7_Mekelle",
@@ -9607,7 +10009,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "North Ethiopia"
+    "composedOf": "North Ethiopia",
+    "referenceAlias": "Mekelle",
+    "localizationAlias": "Mekelle"
   },
   {
     "dataName": "RW7_Melanesia",
@@ -9645,7 +10049,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Fiji, Solomon Islands, Vanatau"
+    "composedOf": "Fiji, Solomon Islands, Vanatau",
+    "referenceAlias": "Melanesia",
+    "localizationAlias": "Melanesia"
   },
   {
     "dataName": "RW7_Melbourne",
@@ -9732,7 +10138,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Includes Tasmania"
+    "composedOf": "Includes Tasmania",
+    "referenceAlias": "Melbourne",
+    "localizationAlias": "Melbourne"
   },
   {
     "dataName": "RW7_Merida",
@@ -9764,7 +10172,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Campeche, Chiapas, Quintana Roo, Tabasco, Yucatan"
+    "composedOf": "Campeche, Chiapas, Quintana Roo, Tabasco, Yucatan",
+    "referenceAlias": "Merida",
+    "localizationAlias": "Merida"
   },
   {
     "dataName": "RW7_MexicoCity",
@@ -9798,7 +10208,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Colima, Guanajuato, Guerrero, Hidalgo, Jalisco-Norte, Mexico (r), Michoacan, Morelos, Oaxaca, Puebla, Queretaro, Tlaxcala, Veracruz"
+    "composedOf": "Colima, Guanajuato, Guerrero, Hidalgo, Jalisco-Norte, Mexico (r), Michoacan, Morelos, Oaxaca, Puebla, Queretaro, Tlaxcala, Veracruz",
+    "referenceAlias": "MexicoCity",
+    "localizationAlias": "MexicoCity"
   },
   {
     "dataName": "RW7_Micronesia",
@@ -9833,7 +10245,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Micronesia, Kiribati, Marshall Islands, Palau, Nauru"
+    "composedOf": "Micronesia, Kiribati, Marshall Islands, Palau, Nauru",
+    "referenceAlias": "Micronesia",
+    "localizationAlias": "Micronesia"
   },
   {
     "dataName": "RW7_Milan",
@@ -9897,7 +10311,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Aosta Valley, Emilia-Romagna, Friuli-Venezia Giulia, Liguria, Lombardy, Piedmont, Trentino-South Tyrol, Veneto, San Marino"
+    "composedOf": "Aosta Valley, Emilia-Romagna, Friuli-Venezia Giulia, Liguria, Lombardy, Piedmont, Trentino-South Tyrol, Veneto, San Marino",
+    "referenceAlias": "Milan",
+    "localizationAlias": "Milan"
   },
   {
     "dataName": "RW7_MississippiDelta",
@@ -10000,7 +10416,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Louisiana, Mississippi, Arkansas, Mississippi, Alabama"
+    "composedOf": "Louisiana, Mississippi, Arkansas, Mississippi, Alabama",
+    "referenceAlias": "MississippiDelta",
+    "localizationAlias": "MississippiDelta"
   },
   {
     "dataName": "RW7_Moldova",
@@ -10031,7 +10449,9 @@
       "illustrations/illus_Moldova_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Moldova",
+    "localizationAlias": "Moldova"
   },
   {
     "dataName": "RW7_MoluccasandSulawesi",
@@ -10097,7 +10517,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Moluccas ONLY"
+    "composedOf": "Moluccas ONLY",
+    "referenceAlias": "MoluccasandSulawesi",
+    "localizationAlias": "MoluccasandSulawesi"
   },
   {
     "dataName": "RW7_Mombasa",
@@ -10135,14 +10557,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Mombasa-r, Kwale, Kilifi, Tana River, Lamu, Garissa, Isiolo-Minus, Wajir, Marsabit, Taita-Taveta, Mandera"
+    "composedOf": "Mombasa-r, Kwale, Kilifi, Tana River, Lamu, Garissa, Isiolo-Minus, Wajir, Marsabit, Taita-Taveta, Mandera",
+    "referenceAlias": "Mombasa",
+    "localizationAlias": "Mombasa"
   },
   {
     "dataName": "RW7_Mongolia",
     "mapRegionName": "map_Mongolia",
     "primaryCity": "Ulan Bataar",
     "sortNation": "Tolui Khanate",
-    "population_Millions": 3.6276,
+    "population_Millions": 3.6985,
     "annualPopGrowthModifier": 0.5,
     "mineCapable": true,
     "environment": "Beneficiary",
@@ -10167,7 +10591,9 @@
       "illustrations/illus_Mongolia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Mongolia",
+    "localizationAlias": "Mongolia"
   },
   {
     "dataName": "RW7_Montenegro",
@@ -10204,7 +10630,9 @@
       "illustrations/illus_Montenegro_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Montenegro",
+    "localizationAlias": "Montenegro"
   },
   {
     "dataName": "RW7_Monterrey",
@@ -10238,7 +10666,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Aguascalientes, Coahuila, Nuevo Leon, San Luis Potosi, Tamaulipas, Zacatecas, Jalisco Norte"
+    "composedOf": "Aguascalientes, Coahuila, Nuevo Leon, San Luis Potosi, Tamaulipas, Zacatecas, Jalisco Norte",
+    "referenceAlias": "Monterrey",
+    "localizationAlias": "Monterrey"
   },
   {
     "dataName": "RW7_Moskva",
@@ -10272,7 +10702,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Central Federal District - West"
+    "composedOf": "Central Federal District - West",
+    "referenceAlias": "Moskva",
+    "localizationAlias": "Moskva"
   },
   {
     "dataName": "RW7_Mosul",
@@ -10308,14 +10740,16 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Salah al-Din, Diyala, Nineveh, Dohuk, Arbil, Al-Sulaimaniyah, Kirkuk, Halabja"
+    "composedOf": "Salah al-Din, Diyala, Nineveh, Dohuk, Arbil, Al-Sulaimaniyah, Kirkuk, Halabja",
+    "referenceAlias": "Mosul",
+    "localizationAlias": "Mosul"
   },
   {
     "dataName": "RW7_Mozambique",
     "mapRegionName": "map_Mozambique",
     "primaryCity": "Maputo",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 12.4951,
+    "population_Millions": 11.4692,
     "annualPopGrowthModifier": 0.4,
     "environment": "Vulnerable",
     "boostPerYear_tons": 0,
@@ -10348,7 +10782,9 @@
       "illustrations/illus_Mozambique_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Mozambique",
+    "localizationAlias": "Mozambique"
   },
   {
     "dataName": "RW7_Mumbai",
@@ -10382,7 +10818,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Maharasthra, Goa"
+    "composedOf": "Maharasthra, Goa",
+    "referenceAlias": "Mumbai",
+    "localizationAlias": "Mumbai"
   },
   {
     "dataName": "RW7_Myanmar",
@@ -10415,7 +10853,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Ayeyarwady, Bago, Kayah, Kayin, Magway-South, Mandalay-South, Mon, Naypyidaw Union, Rakhine-South, Tanintharyi",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Myanmar",
+    "localizationAlias": "Myanmar"
   },
   {
     "dataName": "RW7_Najd",
@@ -10450,7 +10890,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": " Riyadh, Eastern Province, Najran"
+    "composedOf": " Riyadh, Eastern Province, Najran",
+    "referenceAlias": "Najd",
+    "localizationAlias": "Najd"
   },
   {
     "dataName": "RW7_Namibia",
@@ -10486,7 +10928,9 @@
       "illustrations/illus_Namibia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Namibia",
+    "localizationAlias": "Namibia"
   },
   {
     "dataName": "RW7_Nanchang",
@@ -10518,7 +10962,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Jiangxi"
+    "composedOf": "Jiangxi",
+    "referenceAlias": "Nanchang",
+    "localizationAlias": "Nanchang"
   },
   {
     "dataName": "RW7_Nanning",
@@ -10551,7 +10997,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Guangxi Zhuang"
+    "composedOf": "Guangxi Zhuang",
+    "referenceAlias": "Nanning",
+    "localizationAlias": "Nanning"
   },
   {
     "dataName": "RW7_Nantes",
@@ -10611,7 +11059,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Normandy, Brittany, Pays de la Loire, Poitou Charentaes, Nod Pas de Calais"
+    "composedOf": "Normandy, Brittany, Pays de la Loire, Poitou Charentaes, Nod Pas de Calais",
+    "referenceAlias": "Nantes",
+    "localizationAlias": "Nantes"
   },
   {
     "dataName": "RW7_Naples",
@@ -10674,7 +11124,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Apuli, Basilica, Calabria, Campania, Sicily, Molise, Malta"
+    "composedOf": "Apuli, Basilica, Calabria, Campania, Sicily, Molise, Malta",
+    "referenceAlias": "Naples",
+    "localizationAlias": "Naples"
   },
   {
     "dataName": "RW7_Netherlands",
@@ -10740,7 +11192,9 @@
       "illustrations/illus_Netherlands_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Netherlands",
+    "localizationAlias": "Netherlands"
   },
   {
     "dataName": "RW7_NewDelhi",
@@ -10778,7 +11232,9 @@
     "occupationValue": 0.35,
     "nuclearDetonations": 0,
     "composedOf": "Uttar Pradesh, Delhi",
-    "occupyingNation": "RW7_RLK"
+    "occupyingNation": "RW7_RLK",
+    "referenceAlias": "NewDelhi",
+    "localizationAlias": "NewDelhi"
   },
   {
     "dataName": "RW7_NewEngland",
@@ -10883,7 +11339,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Massachusetts, Connecticut, Rhode Island, Vermont, New Hampshire, Maine"
+    "composedOf": "Massachusetts, Connecticut, Rhode Island, Vermont, New Hampshire, Maine",
+    "referenceAlias": "NewEngland",
+    "localizationAlias": "NewEngland"
   },
   {
     "dataName": "RW7_NewGuinea",
@@ -10945,7 +11403,9 @@
       "illustrations/illus_NewGuinea_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "NewGuinea",
+    "localizationAlias": "NewGuinea"
   },
   {
     "dataName": "RW7_NewYork",
@@ -11055,7 +11515,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "New York, New Jersey, Pennsylvania"
+    "composedOf": "New York, New Jersey, Pennsylvania",
+    "referenceAlias": "NewYork",
+    "localizationAlias": "NewYork"
   },
   {
     "dataName": "RW7_NewZealand",
@@ -11138,14 +11600,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "North Island"
+    "composedOf": "North Island",
+    "referenceAlias": "NewZealand",
+    "localizationAlias": "NewZealand"
   },
   {
     "dataName": "RW7_Nicaragua",
     "mapRegionName": "map_Nicaragua",
     "primaryCity": "Managua",
     "sortNation": "Miskitu Nani",
-    "population_Millions": 7.2724,
+    "population_Millions": 14.5448,
     "annualPopGrowthModifier": -0.25,
     "environment": "Vulnerable",
     "boostPerYear_tons": 0,
@@ -11197,7 +11661,9 @@
       "illustrations/illus_Nicaragua_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Nicaragua",
+    "localizationAlias": "Nicaragua"
   },
   {
     "dataName": "RW7_Niger",
@@ -11239,7 +11705,9 @@
       "illustrations/illus_Niger_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Niger",
+    "localizationAlias": "Niger"
   },
   {
     "dataName": "RW7_Norilsk",
@@ -11279,7 +11747,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "North Krasnoyarsk"
+    "composedOf": "North Krasnoyarsk",
+    "referenceAlias": "Norilsk",
+    "localizationAlias": "Norilsk"
   },
   {
     "dataName": "RW7_NorthHonshu",
@@ -11312,7 +11782,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Tohoku, Kanto, Niigata Prefecture"
+    "composedOf": "Tohoku, Kanto, Niigata Prefecture",
+    "referenceAlias": "NorthHonshu",
+    "localizationAlias": "NorthHonshu"
   },
   {
     "dataName": "RW7_NorthKorea",
@@ -11344,7 +11816,9 @@
       "illustrations/illus_NorthKorea_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "NorthKorea",
+    "localizationAlias": "NorthKorea"
   },
   {
     "dataName": "RW7_NorthMacedonia",
@@ -11378,14 +11852,16 @@
       "illustrations/illus_NorthMacedonia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "NorthMacedonia",
+    "localizationAlias": "NorthMacedonia"
   },
   {
     "dataName": "RW7_NorthMozambique",
     "mapRegionName": "map_NorthMozambique",
     "primaryCity": "Nampula",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 14.3189,
+    "population_Millions": 13.1433,
     "annualPopGrowthModifier": 0.4,
     "oilCapable": false,
     "environment": "Vulnerable",
@@ -11419,12 +11895,14 @@
       "illustrations/illus_NorthMozambique_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "NorthMozambique",
+    "localizationAlias": "NorthMozambique"
   },
   {
     "dataName": "RW7_NorthernChad",
     "mapRegionName": "map_NorthernChad",
-    "primaryCity": "Ab\u00e9ch\u00e9",
+    "primaryCity": "Abéché",
     "sortNation": "Toubou-Nu",
     "population_Millions": 4.5214,
     "annualPopGrowthModifier": 0.25,
@@ -11467,7 +11945,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "NorthernChad",
+    "localizationAlias": "NorthernChad"
   },
   {
     "dataName": "RW7_NorthernIreland",
@@ -11508,7 +11988,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "NorthernIreland",
+    "localizationAlias": "NorthernIreland"
   },
   {
     "dataName": "RW7_NorthernSpain",
@@ -11595,7 +12077,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Castile and Leon, Galicia, La Rioja, Asturias, Cantabria"
+    "composedOf": "Castile and Leon, Galicia, La Rioja, Asturias, Cantabria",
+    "referenceAlias": "NorthernSpain",
+    "localizationAlias": "NorthernSpain"
   },
   {
     "dataName": "RW7_NorthernSudan",
@@ -11640,14 +12124,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "NorthernSudan",
+    "localizationAlias": "NorthernSudan"
   },
   {
     "dataName": "RW7_Norway",
     "mapRegionName": "map_Norway",
     "primaryCity": "Oslo",
     "sortNation": "Kvenland",
-    "population_Millions": 5.9072,
+    "population_Millions": 7.384,
     "annualPopGrowthModifier": 0.25,
     "oilResource": true,
     "oilCapable": true,
@@ -11728,7 +12214,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Norway, Svalbard"
+    "composedOf": "Norway, Svalbard",
+    "referenceAlias": "Norway",
+    "localizationAlias": "Norway"
   },
   {
     "dataName": "RW7_Novgorod",
@@ -11760,7 +12248,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Leningrad Oblast, Vologda Oblast, Novgorod Oblast, Pskov Oblast, St. Petersburg (r)"
+    "composedOf": "Leningrad Oblast, Vologda Oblast, Novgorod Oblast, Pskov Oblast, St. Petersburg (r)",
+    "referenceAlias": "Novgorod",
+    "localizationAlias": "Novgorod"
   },
   {
     "dataName": "RW7_Odesa",
@@ -11791,7 +12281,9 @@
       "illustrations/illus_Odesa_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Odesa",
+    "localizationAlias": "Odesa"
   },
   {
     "dataName": "RW7_Odisha",
@@ -11826,7 +12318,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Orissa"
+    "composedOf": "Orissa",
+    "referenceAlias": "Odisha",
+    "localizationAlias": "Odisha"
   },
   {
     "dataName": "RW7_Oman",
@@ -11860,7 +12354,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Oman",
+    "localizationAlias": "Oman"
   },
   {
     "dataName": "RW7_Ontario",
@@ -11963,7 +12459,9 @@
       "illustrations/illus_Ontario_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Ontario",
+    "localizationAlias": "Ontario"
   },
   {
     "dataName": "RW7_Palestine",
@@ -11995,7 +12493,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Palestine",
+    "localizationAlias": "Palestine"
   },
   {
     "dataName": "RW7_Pampas",
@@ -12055,7 +12555,9 @@
     "nuclearDetonations": 0,
     "composedOf": "Cordoba, Santa Fe (South), La Pampa, Buenos Aires, Mendoza, San Luis, Entre Rios, San Juan, La Rioja.",
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Pampas",
+    "localizationAlias": "Pampas"
   },
   {
     "dataName": "RW7_Panama",
@@ -12103,7 +12605,9 @@
       "illustrations/illus_Panama_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Panama",
+    "localizationAlias": "Panama"
   },
   {
     "dataName": "RW7_Paraguay",
@@ -12134,7 +12638,9 @@
       "illustrations/illus_Paraguay_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Paraguay",
+    "localizationAlias": "Paraguay"
   },
   {
     "dataName": "RW7_Paris",
@@ -12212,7 +12718,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Picardy, Champagne, Lorraine, Alsace, Franche Comte, Burgundy, Centre Val de Loire, Champagne, Paris, "
+    "composedOf": "Picardy, Champagne, Lorraine, Alsace, Franche Comte, Burgundy, Centre Val de Loire, Champagne, Paris, ",
+    "referenceAlias": "Paris",
+    "localizationAlias": "Paris"
   },
   {
     "dataName": "RW7_Patagonia",
@@ -12269,7 +12777,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Rio Negro, Neuquen, Chubut, Santa Cruz, Tierra del Fuego"
+    "composedOf": "Rio Negro, Neuquen, Chubut, Santa Cruz, Tierra del Fuego",
+    "referenceAlias": "Patagonia",
+    "localizationAlias": "Patagonia"
   },
   {
     "dataName": "RW7_Peru",
@@ -12321,7 +12831,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Peru",
+    "localizationAlias": "Peru"
   },
   {
     "dataName": "RW7_Peshawar",
@@ -12360,7 +12872,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Azad Jammu & Kashmir, FATA, KPK, Giglit-Baltistan"
+    "composedOf": "Azad Jammu & Kashmir, FATA, KPK, Giglit-Baltistan",
+    "referenceAlias": "Peshawar",
+    "localizationAlias": "Peshawar"
   },
   {
     "dataName": "RW7_Poland",
@@ -12393,7 +12907,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Lodz, Podlaskie, Lublin, Masovia, Subcarpathia, Lesser Poland, \u015awi\u0119tokrzyskie / Holy Cross"
+    "composedOf": "Lodz, Podlaskie, Lublin, Masovia, Subcarpathia, Lesser Poland, Świętokrzyskie / Holy Cross",
+    "referenceAlias": "Poland",
+    "localizationAlias": "Poland"
   },
   {
     "dataName": "RW7_Polynesia",
@@ -12428,7 +12944,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Niue, Samoa, Tonga, Tuvalu"
+    "composedOf": "Niue, Samoa, Tonga, Tuvalu",
+    "referenceAlias": "Polynesia",
+    "localizationAlias": "Polynesia"
   },
   {
     "dataName": "RW7_PortHarcourt",
@@ -12462,7 +12980,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Abia, Adamawa, Akwa Ibom, Anambra, Bayelsa, Benue, Cross River, Delta, Ebonyi, Enugu, Imo, Taraba"
+    "composedOf": "Abia, Adamawa, Akwa Ibom, Anambra, Bayelsa, Benue, Cross River, Delta, Ebonyi, Enugu, Imo, Taraba",
+    "referenceAlias": "PortHarcourt",
+    "localizationAlias": "PortHarcourt"
   },
   {
     "dataName": "RW7_PortMorseby",
@@ -12499,7 +13019,9 @@
       "illustrations/illus_PortMorseby_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "PortMorseby",
+    "localizationAlias": "PortMorseby"
   },
   {
     "dataName": "RW7_PortoAlegre",
@@ -12553,7 +13075,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Parana, Santa Catarina, Rio Grande do Sul (South Region)"
+    "composedOf": "Parana, Santa Catarina, Rio Grande do Sul (South Region)",
+    "referenceAlias": "PortoAlegre",
+    "localizationAlias": "PortoAlegre"
   },
   {
     "dataName": "RW7_Portugal",
@@ -12610,7 +13134,9 @@
       "illustrations/illus_Portugal_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Portugal",
+    "localizationAlias": "Portugal"
   },
   {
     "dataName": "RW7_Prairies",
@@ -12713,7 +13239,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Saskatechwan ONLY"
+    "composedOf": "Saskatechwan ONLY",
+    "referenceAlias": "Prairies",
+    "localizationAlias": "Prairies"
   },
   {
     "dataName": "RW7_Punjab",
@@ -12752,7 +13280,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Punjab Province and ICT"
+    "composedOf": "Punjab Province and ICT",
+    "referenceAlias": "Punjab",
+    "localizationAlias": "Punjab"
   },
   {
     "dataName": "RW7_Qassimah",
@@ -12787,7 +13317,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Jawf, Northern Borders, Hail, Qasim,"
+    "composedOf": "Jawf, Northern Borders, Hail, Qasim,",
+    "referenceAlias": "Qassimah",
+    "localizationAlias": "Qassimah"
   },
   {
     "dataName": "RW7_Qinghai",
@@ -12830,7 +13362,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Qinghai"
+    "composedOf": "Qinghai",
+    "referenceAlias": "Qinghai",
+    "localizationAlias": "Qinghai"
   },
   {
     "dataName": "RW7_Rabat",
@@ -12863,7 +13397,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Rabat",
+    "localizationAlias": "Rabat"
   },
   {
     "dataName": "RW7_Raipur",
@@ -12898,7 +13434,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Chattisgarh"
+    "composedOf": "Chattisgarh",
+    "referenceAlias": "Raipur",
+    "localizationAlias": "Raipur"
   },
   {
     "dataName": "RW7_Ratnakara",
@@ -12986,7 +13524,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Comoros Only"
+    "composedOf": "Comoros Only",
+    "referenceAlias": "Ratnakara",
+    "localizationAlias": "Ratnakara"
   },
   {
     "dataName": "RW7_Recife",
@@ -13039,7 +13579,9 @@
       "illustrations/illus_Recife_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Recife",
+    "localizationAlias": "Recife"
   },
   {
     "dataName": "RW7_RiodeJaneiro",
@@ -13109,7 +13651,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Minas Gerais, Espirito Santo, Rio de Janiero"
+    "composedOf": "Minas Gerais, Espirito Santo, Rio de Janiero",
+    "referenceAlias": "RiodeJaneiro",
+    "localizationAlias": "RiodeJaneiro"
   },
   {
     "dataName": "RW7_RockyMountains",
@@ -13224,7 +13768,9 @@
     "nuclearDetonations": 0,
     "composedOf": "Colorado, New Mexico, Arizona, Utah",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "RockyMountains",
+    "localizationAlias": "RockyMountains"
   },
   {
     "dataName": "RW7_Romania",
@@ -13255,7 +13801,9 @@
       "illustrations/illus_Romania_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Romania",
+    "localizationAlias": "Romania"
   },
   {
     "dataName": "RW7_Rostovskaya",
@@ -13293,7 +13841,9 @@
     "nuclearDetonations": 0,
     "composedOf": "Southern Federal District",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Rostovskaya",
+    "localizationAlias": "Rostovskaya"
   },
   {
     "dataName": "RW7_RussianFarEast",
@@ -13358,7 +13908,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Amur Oblast, Jewish Autonomous Oblast, Khabaorvsk Krai, Primosrky Krai"
+    "composedOf": "Amur Oblast, Jewish Autonomous Oblast, Khabaorvsk Krai, Primosrky Krai",
+    "referenceAlias": "RussianFarEast",
+    "localizationAlias": "RussianFarEast"
   },
   {
     "dataName": "RW7_RustBelt",
@@ -13466,7 +14018,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Wisconsin, Illinois, Indiana, Ohio, Michigan"
+    "composedOf": "Wisconsin, Illinois, Indiana, Ohio, Michigan",
+    "referenceAlias": "RustBelt",
+    "localizationAlias": "RustBelt"
   },
   {
     "dataName": "RW7_Ryukus",
@@ -13497,12 +14051,14 @@
       "illustrations/illus_Ryukus_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Ryukus",
+    "localizationAlias": "Ryukus"
   },
   {
     "dataName": "RW7_SaharanAlgeria",
     "mapRegionName": "map_SouthAlgeria",
-    "primaryCity": "B\u00e9char",
+    "primaryCity": "Béchar",
     "sortNation": "Kel Tamasheq",
     "population_Millions": 2.3202,
     "annualPopGrowthModifier": 0.25,
@@ -13532,7 +14088,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Saharan Regions 11,01,33,30,37,53,50,52,54,56,49,58,08,47"
+    "composedOf": "Saharan Regions 11,01,33,30,37,53,50,52,54,56,49,58,08,47",
+    "referenceAlias": "SaharanAlgeria",
+    "localizationAlias": "SaharanAlgeria"
   },
   {
     "dataName": "RW7_Sakha",
@@ -13565,7 +14123,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Yakutsk"
+    "composedOf": "Yakutsk",
+    "referenceAlias": "Sakha",
+    "localizationAlias": "Sakha"
   },
   {
     "dataName": "RW7_SakhalinKurils",
@@ -13612,7 +14172,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Sakhalin Oblast"
+    "composedOf": "Sakhalin Oblast",
+    "referenceAlias": "SakhalinKurils",
+    "localizationAlias": "SakhalinKurils"
   },
   {
     "dataName": "RW7_Santiago",
@@ -13644,7 +14206,9 @@
       "illustrations/illus_Santiago_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Santiago",
+    "localizationAlias": "Santiago"
   },
   {
     "dataName": "RW7_SaoPaulo",
@@ -13715,12 +14279,14 @@
     "nuclearDetonations": 0,
     "composedOf": "Sao Paulo",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "SaoPaulo",
+    "localizationAlias": "SaoPaulo"
   },
   {
     "dataName": "RW7_SaoTomePrincipe",
     "mapRegionName": "map_SaoTomePrincipe",
-    "primaryCity": "S\u00e3o Tom\u00e9",
+    "primaryCity": "São Tomé",
     "sortNation": "Sauvira",
     "population_Millions": 1.0133,
     "annualPopGrowthModifier": 0.25,
@@ -13759,7 +14325,9 @@
       "illustrations/illus_SaoTomePrincipe_1"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "SaoTomePrincipe",
+    "localizationAlias": "SaoTomePrincipe"
   },
   {
     "dataName": "RW7_Sarajevo",
@@ -13795,7 +14363,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Bosnia-Herzegovina"
+    "composedOf": "Bosnia-Herzegovina",
+    "referenceAlias": "Sarajevo",
+    "localizationAlias": "Sarajevo"
   },
   {
     "dataName": "RW7_SarawakandSabah",
@@ -13850,7 +14420,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "Female"
+    "asi_RegionalHeadwear": "Female",
+    "referenceAlias": "SarawakandSabah",
+    "localizationAlias": "SarawakandSabah"
   },
   {
     "dataName": "RW7_Scotland",
@@ -13883,7 +14455,9 @@
       "illustrations/illus_Scotland_4"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Scotland",
+    "localizationAlias": "Scotland"
   },
   {
     "dataName": "RW7_Senegambia",
@@ -13919,7 +14493,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Senegal ONLY"
+    "composedOf": "Senegal ONLY",
+    "referenceAlias": "Senegambia",
+    "localizationAlias": "Senegambia"
   },
   {
     "dataName": "RW7_Seychelles",
@@ -13968,14 +14544,16 @@
       "illustrations/illus_Seychelles_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Seychelles",
+    "localizationAlias": "Seychelles"
   },
   {
     "dataName": "RW7_Shandong",
     "mapRegionName": "map_Shandong",
     "primaryCity": "Jinan",
     "sortNation": "Wu",
-    "population_Millions": 111.0126,
+    "population_Millions": 106.1509,
     "annualPopGrowthModifier": -0.5,
     "oilResource": false,
     "oilCapable": false,
@@ -14002,14 +14580,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Shandong"
+    "composedOf": "Shandong",
+    "referenceAlias": "Shandong",
+    "localizationAlias": "Shandong"
   },
   {
     "dataName": "RW7_Shanghai",
     "mapRegionName": "map_Shanghai",
     "primaryCity": "Shanghai",
     "sortNation": "Wu",
-    "population_Millions": 119.86,
+    "population_Millions": 114.6109,
     "annualPopGrowthModifier": -0.5,
     "coreEco": false,
     "environment": "Standard",
@@ -14040,7 +14620,9 @@
     "nuclearDetonations": 0,
     "composedOf": "Jiangsu, Shanghai",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Shanghai",
+    "localizationAlias": "Shanghai"
   },
   {
     "dataName": "RW7_Shanxi",
@@ -14071,7 +14653,9 @@
       "illustrations/illus_Shanxi_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Shanxi",
+    "localizationAlias": "Shanxi"
   },
   {
     "dataName": "RW7_Shenandoah",
@@ -14180,7 +14764,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Maryland, Delaware, Virginia, West Virginia, North Carolina"
+    "composedOf": "Maryland, Delaware, Virginia, West Virginia, North Carolina",
+    "referenceAlias": "Shenandoah",
+    "localizationAlias": "Shenandoah"
   },
   {
     "dataName": "RW7_SierraLeone",
@@ -14215,7 +14801,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "SierraLeone",
+    "localizationAlias": "SierraLeone"
   },
   {
     "dataName": "RW7_Sindh",
@@ -14257,7 +14845,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Sindh Province"
+    "composedOf": "Sindh Province",
+    "referenceAlias": "Sindh",
+    "localizationAlias": "Sindh"
   },
   {
     "dataName": "RW7_Singapore",
@@ -14307,7 +14897,9 @@
       "illustrations/illus_Singapore_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Singapore",
+    "localizationAlias": "Singapore"
   },
   {
     "dataName": "RW7_Slovakia",
@@ -14338,7 +14930,9 @@
       "illustrations/illus_Slovakia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Slovakia",
+    "localizationAlias": "Slovakia"
   },
   {
     "dataName": "RW7_Slovenia",
@@ -14369,7 +14963,9 @@
       "illustrations/illus_Slovenia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Slovenia",
+    "localizationAlias": "Slovenia"
   },
   {
     "dataName": "RW7_Somalia",
@@ -14400,7 +14996,9 @@
       "illustrations/illus_Somalia_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Somalia",
+    "localizationAlias": "Somalia"
   },
   {
     "dataName": "RW7_Somaliland",
@@ -14431,7 +15029,9 @@
       "illustrations/illus_Somaliland_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Somaliland",
+    "localizationAlias": "Somaliland"
   },
   {
     "dataName": "RW7_SouthHonshu",
@@ -14463,7 +15063,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Chubu, Kansai, Chukobu (except Niigata)"
+    "composedOf": "Chubu, Kansai, Chukobu (except Niigata)",
+    "referenceAlias": "SouthHonshu",
+    "localizationAlias": "SouthHonshu"
   },
   {
     "dataName": "RW7_SouthKorea",
@@ -14495,7 +15097,9 @@
       "illustrations/illus_SouthKorea_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "SouthKorea",
+    "localizationAlias": "SouthKorea"
   },
   {
     "dataName": "RW7_SouthSudan",
@@ -14529,7 +15133,9 @@
       "illustrations/illus_SouthSudan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "SouthSudan",
+    "localizationAlias": "SouthSudan"
   },
   {
     "dataName": "RW7_Spain",
@@ -14619,7 +15225,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Madris, Extremadura, Castilla-La Mancha, Murcia, Andalusia"
+    "composedOf": "Madris, Extremadura, Castilla-La Mancha, Murcia, Andalusia",
+    "referenceAlias": "Spain",
+    "localizationAlias": "Spain"
   },
   {
     "dataName": "RW7_SriLanka",
@@ -14653,7 +15261,9 @@
       "illustrations/illus_SriLanka_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "SriLanka",
+    "localizationAlias": "SriLanka"
   },
   {
     "dataName": "RW7_Sudan",
@@ -14699,7 +15309,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "asi_RegionalHeadwear": "All"
+    "asi_RegionalHeadwear": "All",
+    "referenceAlias": "Sudan",
+    "localizationAlias": "Sudan"
   },
   {
     "dataName": "RW7_Sulawesi",
@@ -14766,7 +15378,9 @@
       "illustrations/illus_Sulawesi_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Sulawesi",
+    "localizationAlias": "Sulawesi"
   },
   {
     "dataName": "RW7_Sumatra",
@@ -14834,7 +15448,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Includes Riau Island Province, Bangka Belitung Islands Province, Does NOT include Aceh"
+    "composedOf": "Includes Riau Island Province, Bangka Belitung Islands Province, Does NOT include Aceh",
+    "referenceAlias": "Sumatra",
+    "localizationAlias": "Sumatra"
   },
   {
     "dataName": "RW7_Surgut",
@@ -14868,7 +15484,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Yamalia, Khantia-Mansia"
+    "composedOf": "Yamalia, Khantia-Mansia",
+    "referenceAlias": "Surgut",
+    "localizationAlias": "Surgut"
   },
   {
     "dataName": "RW7_Suriname",
@@ -14933,7 +15551,9 @@
       "illustrations/illus_Suriname_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Suriname",
+    "localizationAlias": "Suriname"
   },
   {
     "dataName": "RW7_Sweden",
@@ -15014,7 +15634,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Sweden"
+    "composedOf": "Sweden",
+    "referenceAlias": "Sweden",
+    "localizationAlias": "Sweden"
   },
   {
     "dataName": "RW7_Sydney",
@@ -15101,7 +15723,9 @@
       "illustrations/illus_Sydney_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Sydney",
+    "localizationAlias": "Sydney"
   },
   {
     "dataName": "RW7_Syria",
@@ -15140,7 +15764,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Syria"
+    "composedOf": "Syria",
+    "referenceAlias": "Syria",
+    "localizationAlias": "Syria"
   },
   {
     "dataName": "RW7_Tabriz",
@@ -15179,7 +15805,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Region 3"
+    "composedOf": "Region 3",
+    "referenceAlias": "Tabriz",
+    "localizationAlias": "Tabriz"
   },
   {
     "dataName": "RW7_Taiwan",
@@ -15211,14 +15839,16 @@
       "illustrations/illus_Taiwan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Taiwan",
+    "localizationAlias": "Taiwan"
   },
   {
     "dataName": "RW7_Tajikistan",
     "mapRegionName": "map_Tajikistan",
     "primaryCity": "Dushanbe",
-    "sortNation": "Khorasan",
-    "population_Millions": 10.7148,
+    "sortNation": "Kyrgyzstan",
+    "population_Millions": 5.0,
     "annualPopGrowthModifier": 0.5,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -15242,14 +15872,16 @@
       "illustrations/illus_Tajikistan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Tajikistan",
+    "localizationAlias": "Tajikistan"
   },
   {
     "dataName": "RW7_Tanzania",
     "mapRegionName": "map_Tanzania",
     "primaryCity": "Dar Es Salaam",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 20.6894,
+    "population_Millions": 18.9908,
     "annualPopGrowthModifier": 0.5,
     "oilCapable": false,
     "environment": "Vulnerable",
@@ -15283,14 +15915,16 @@
       "illustrations/illus_Tanzania_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Tanzania",
+    "localizationAlias": "Tanzania"
   },
   {
     "dataName": "RW7_TeWaipounamu",
     "mapRegionName": "map_TeWaipounamu",
     "primaryCity": "Christchurch",
     "sortNation": "Te Waipounamu",
-    "population_Millions": 1.2394,
+    "population_Millions": 2.4788,
     "annualPopGrowthModifier": 1,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -15366,7 +16000,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "South Island"
+    "composedOf": "South Island",
+    "referenceAlias": "TeWaipounamu",
+    "localizationAlias": "TeWaipounamu"
   },
   {
     "dataName": "RW7_Tehran",
@@ -15406,7 +16042,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
-    "composedOf": "Region 1"
+    "composedOf": "Region 1",
+    "referenceAlias": "Tehran",
+    "localizationAlias": "Tehran"
   },
   {
     "dataName": "RW7_Texas",
@@ -15512,7 +16150,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Texas, Oklahoma",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Texas",
+    "localizationAlias": "Texas"
   },
   {
     "dataName": "RW7_Tibet",
@@ -15558,7 +16198,9 @@
       "illustrations/illus_Tibet_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Tibet",
+    "localizationAlias": "Tibet"
   },
   {
     "dataName": "RW7_Tijuana",
@@ -15594,7 +16236,9 @@
     "nuclearDetonations": 0,
     "composedOf": "Baja California, Baja California Sur, Sonora, Sinaloa, Chihuahua, Nayarit, Durango",
     "oilCapable": true,
-    "oilResource": true
+    "oilResource": true,
+    "referenceAlias": "Tijuana",
+    "localizationAlias": "Tijuana"
   },
   {
     "dataName": "RW7_TimorLeste",
@@ -15649,7 +16293,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "TimorLeste",
+    "localizationAlias": "TimorLeste"
   },
   {
     "dataName": "RW7_Tirana",
@@ -15681,12 +16327,14 @@
       "illustrations/illus_Tirana_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Tirana",
+    "localizationAlias": "Tirana"
   },
   {
     "dataName": "RW7_Togo",
     "mapRegionName": "map_Togo",
-    "primaryCity": "Lom\u00e9",
+    "primaryCity": "Lomé",
     "sortNation": "Dharmapalapuri",
     "population_Millions": 9.3484,
     "annualPopGrowthModifier": 0.5,
@@ -15719,7 +16367,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Togo"
+    "composedOf": "Togo",
+    "referenceAlias": "Togo",
+    "localizationAlias": "Togo"
   },
   {
     "dataName": "RW7_TogoBenin",
@@ -15757,7 +16407,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Benin Only!"
+    "composedOf": "Benin Only!",
+    "referenceAlias": "TogoBenin",
+    "localizationAlias": "TogoBenin"
   },
   {
     "dataName": "RW7_Toulouse",
@@ -15834,7 +16486,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Includes Andorra"
+    "composedOf": "Includes Andorra",
+    "referenceAlias": "Toulouse",
+    "localizationAlias": "Toulouse"
   },
   {
     "dataName": "RW7_Transylvania",
@@ -15869,7 +16523,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Macroregion 1, Vest Region"
+    "composedOf": "Macroregion 1, Vest Region",
+    "referenceAlias": "Transylvania",
+    "localizationAlias": "Transylvania"
   },
   {
     "dataName": "RW7_Tunisia",
@@ -15901,7 +16557,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Tunisia",
+    "localizationAlias": "Tunisia"
   },
   {
     "dataName": "RW7_Turkmenistan",
@@ -15935,7 +16593,9 @@
       "illustrations/illus_Turkmenistan_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Turkmenistan",
+    "localizationAlias": "Turkmenistan"
   },
   {
     "dataName": "RW7_Uganda",
@@ -15972,7 +16632,9 @@
       "illustrations/illus_Uganda_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Uganda",
+    "localizationAlias": "Uganda"
   },
   {
     "dataName": "RW7_UpperMyanmar",
@@ -16004,7 +16666,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Chin, Kachin, Magway-North, Mandalay-North, Rakhine-North, Sagaing, Shan, Self-Admin-Zones"
+    "composedOf": "Chin, Kachin, Magway-North, Mandalay-North, Rakhine-North, Sagaing, Shan, Self-Admin-Zones",
+    "referenceAlias": "UpperMyanmar",
+    "localizationAlias": "UpperMyanmar"
   },
   {
     "dataName": "RW7_Urals",
@@ -16036,7 +16700,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Rest of Ural Federal District (except \"North Urals\")"
+    "composedOf": "Rest of Ural Federal District (except \"North Urals\")",
+    "referenceAlias": "Urals",
+    "localizationAlias": "Urals"
   },
   {
     "dataName": "RW7_Uruguay",
@@ -16095,14 +16761,16 @@
       "illustrations/illus_Uruguay_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Uruguay",
+    "localizationAlias": "Uruguay"
   },
   {
     "dataName": "RW7_Uzbekistan",
     "mapRegionName": "map_Uzbekistan",
     "primaryCity": "Tashkent",
     "sortNation": "Chagatai Khanate",
-    "population_Millions": 32.9993,
+    "population_Millions": 34.147,
     "annualPopGrowthModifier": 0.5,
     "environment": "Standard",
     "boostPerYear_tons": 0,
@@ -16139,12 +16807,14 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Uzbekistan",
+    "localizationAlias": "Uzbekistan"
   },
   {
     "dataName": "RW7_Valparaiso",
     "mapRegionName": "map_NorthernChile",
-    "primaryCity": "Valpara\u00edso",
+    "primaryCity": "Valparaíso",
     "sortNation": "Lickanantay",
     "population_Millions": 4.695,
     "annualPopGrowthModifier": 0.15,
@@ -16173,7 +16843,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Arica y Parinacota, Tarapaca, Antofagasta, Atacama, Coquimbo, Valparaiso"
+    "composedOf": "Arica y Parinacota, Tarapaca, Antofagasta, Atacama, Coquimbo, Valparaiso",
+    "referenceAlias": "Valparaiso",
+    "localizationAlias": "Valparaiso"
   },
   {
     "dataName": "RW7_Venezuela",
@@ -16206,7 +16878,9 @@
       "illustrations/illus_Venezuela_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Venezuela",
+    "localizationAlias": "Venezuela"
   },
   {
     "dataName": "RW7_ViasyasyMindanao",
@@ -16263,7 +16937,9 @@
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "Female",
     "composedOf": "Mindanao ONLY",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "ViasyasyMindanao",
+    "localizationAlias": "ViasyasyMindanao"
   },
   {
     "dataName": "RW7_Vienna",
@@ -16295,7 +16971,9 @@
       "illustrations/illus_Vienna_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Vienna",
+    "localizationAlias": "Vienna"
   },
   {
     "dataName": "RW7_Villavicencio",
@@ -16326,7 +17004,9 @@
       "illustrations/illus_Villavicencio_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Villavicencio",
+    "localizationAlias": "Villavicencio"
   },
   {
     "dataName": "RW7_Visayas",
@@ -16379,7 +17059,9 @@
       "illustrations/illus_Visayas_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Visayas",
+    "localizationAlias": "Visayas"
   },
   {
     "dataName": "RW7_Volga",
@@ -16430,7 +17112,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Volga-West"
+    "composedOf": "Volga-West",
+    "referenceAlias": "Volga",
+    "localizationAlias": "Volga"
   },
   {
     "dataName": "RW7_Voronezh",
@@ -16462,7 +17146,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Central Federal District - East"
+    "composedOf": "Central Federal District - East",
+    "referenceAlias": "Voronezh",
+    "localizationAlias": "Voronezh"
   },
   {
     "dataName": "RW7_Wales",
@@ -16541,7 +17227,9 @@
       "illustrations/illus_Wales_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Wales",
+    "localizationAlias": "Wales"
   },
   {
     "dataName": "RW7_WestCameroon",
@@ -16577,7 +17265,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Northwest Region, Southwest Region",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "WestCameroon",
+    "localizationAlias": "WestCameroon"
   },
   {
     "dataName": "RW7_WestHispanola",
@@ -16609,7 +17299,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Haiti"
+    "composedOf": "Haiti",
+    "referenceAlias": "WestHispanola",
+    "localizationAlias": "WestHispanola"
   },
   {
     "dataName": "RW7_WestIndies",
@@ -16675,14 +17367,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Barbados, Dominica, Grenada, St. Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago"
+    "composedOf": "Barbados, Dominica, Grenada, St. Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago",
+    "referenceAlias": "WestIndies",
+    "localizationAlias": "WestIndies"
   },
   {
     "dataName": "RW7_WestTanzania",
     "mapRegionName": "map_WestTanzania",
     "primaryCity": "Dodoma",
     "sortNation": "Nao Sauvira",
-    "population_Millions": 29.0416,
+    "population_Millions": 26.6573,
     "annualPopGrowthModifier": 0.5,
     "environment": "Vulnerable",
     "boostPerYear_tons": 0,
@@ -16716,12 +17410,14 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "oilCapable": true
+    "oilCapable": true,
+    "referenceAlias": "WestTanzania",
+    "localizationAlias": "WestTanzania"
   },
   {
     "dataName": "RW7_WesternSahara",
     "mapRegionName": "map_WesternSahara",
-    "primaryCity": "La\u00e2youne",
+    "primaryCity": "Laâyoune",
     "sortNation": "Marrakesh",
     "population_Millions": 0.6742,
     "annualPopGrowthModifier": -0.1,
@@ -16760,14 +17456,16 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "oilCapable": true
+    "oilCapable": true,
+    "referenceAlias": "WesternSahara",
+    "localizationAlias": "WesternSahara"
   },
   {
     "dataName": "RW7_WesternSiberia",
     "mapRegionName": "map_Novosibirsk",
     "primaryCity": "Novosibirsk",
     "sortNation": "Tolui Khanate",
-    "population_Millions": 15.5312,
+    "population_Millions": 15.8348,
     "annualPopGrowthModifier": -0.18,
     "oilCapable": true,
     "environment": "Beneficiary",
@@ -16813,7 +17511,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "South Krasnoyarsk, Tuva, Altai Krai, Altai Republic, Kemerovo, Novosibirsk (r), Tomsk, Omsk, Khakassia"
+    "composedOf": "South Krasnoyarsk, Tuva, Altai Krai, Altai Republic, Kemerovo, Novosibirsk (r), Tomsk, Omsk, Khakassia",
+    "referenceAlias": "WesternSiberia",
+    "localizationAlias": "WesternSiberia"
   },
   {
     "dataName": "RW7_Westralia",
@@ -16902,7 +17602,9 @@
       "illustrations/illus_Westralia_4"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Westralia",
+    "localizationAlias": "Westralia"
   },
   {
     "dataName": "RW7_Wuhan",
@@ -16934,7 +17636,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Henan"
+    "composedOf": "Henan",
+    "referenceAlias": "Wuhan",
+    "localizationAlias": "Wuhan"
   },
   {
     "dataName": "RW7_Xian",
@@ -16966,14 +17670,16 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Shaanxi"
+    "composedOf": "Shaanxi",
+    "referenceAlias": "Xian",
+    "localizationAlias": "Xian"
   },
   {
     "dataName": "RW7_Xinjiang",
     "mapRegionName": "map_Xinjiang",
     "primaryCity": "Urumqi",
     "sortNation": "Tolui Khanate",
-    "population_Millions": 28.2676,
+    "population_Millions": 28.8201,
     "annualPopGrowthModifier": -0.5,
     "oilResource": true,
     "oilCapable": true,
@@ -17020,7 +17726,9 @@
       "illustrations/illus_Xinjiang_3"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Xinjiang",
+    "localizationAlias": "Xinjiang"
   },
   {
     "dataName": "RW7_Yemen",
@@ -17053,7 +17761,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "composedOf": "Old North Yemen"
+    "composedOf": "Old North Yemen",
+    "referenceAlias": "Yemen",
+    "localizationAlias": "Yemen"
   },
   {
     "dataName": "RW7_Yukon",
@@ -17144,7 +17854,9 @@
       "illustrations/illus_Yukon_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Yukon",
+    "localizationAlias": "Yukon"
   },
   {
     "dataName": "RW7_Yunnan",
@@ -17177,7 +17889,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "mineCapable": true,
-    "mining": true
+    "mining": true,
+    "referenceAlias": "Yunnan",
+    "localizationAlias": "Yunnan"
   },
   {
     "dataName": "RW7_Zagreb",
@@ -17209,7 +17923,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Croatia only"
+    "composedOf": "Croatia only",
+    "referenceAlias": "Zagreb",
+    "localizationAlias": "Zagreb"
   },
   {
     "dataName": "RW7_Zambia",
@@ -17246,7 +17962,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Zambia"
+    "composedOf": "Zambia",
+    "referenceAlias": "Zambia",
+    "localizationAlias": "Zambia"
   },
   {
     "dataName": "RW7_Zanzibar",
@@ -17293,7 +18011,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "coreEco": true
+    "coreEco": true,
+    "referenceAlias": "Zanzibar",
+    "localizationAlias": "Zanzibar"
   },
   {
     "dataName": "RW7_Zhengzhou",
@@ -17325,7 +18045,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Henan"
+    "composedOf": "Henan",
+    "referenceAlias": "Zhengzhou",
+    "localizationAlias": "Zhengzhou"
   },
   {
     "dataName": "RW7_Zimbabwe",
@@ -17359,7 +18081,9 @@
       "illustrations/illus_Zimbabwe_2"
     ],
     "occupationValue": 0,
-    "nuclearDetonations": 0
+    "nuclearDetonations": 0,
+    "referenceAlias": "Zimbabwe",
+    "localizationAlias": "Zimbabwe"
   },
   {
     "dataName": "RW7_Zurich",
@@ -17398,6 +18122,8 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "composedOf": "Switzerland, Liechtenstein"
+    "composedOf": "Switzerland, Liechtenstein",
+    "referenceAlias": "Zurich",
+    "localizationAlias": "Zurich"
   }
 ]

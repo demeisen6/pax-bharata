@@ -23,13 +23,14 @@ If you prefer not to use the Workshop:
 3. Launch the game and pick the **Pax Bharata** scenario when starting a
    new campaign. Vanilla scenarios remain playable with the mod enabled.
 
-**Known limitation:** unification/fragmentation projects are
-scenario-locked but not scenario-hidden — each scenario shows the other's
-projects in the tech tree, permanently un-unlockable.
+Unification/fragmentation projects are fully scenario-scoped: Pax
+Bharata's tech tree contains only Pax Bharata's projects, and vanilla
+scenarios contain only vanilla's.
 
-**Supported game version:** built against the current (pre-Dark Skies)
-build of Terra Invicta. A compatibility update will follow shortly after
-Dark Skies launches.
+**Supported game version:** Terra Invicta **1.0.47 or later** (older game
+builds are not supported by the current mod version).
+
+**Changelog:** see [CHANGELOG.md](CHANGELOG.md).
 
 ## Bug reports
 

@@ -23,6 +23,9 @@
       "ModernStartFleets",
       "RW7_Habs",
       "StandardRepeatingEvents"
+    ],
+    "scenarioTags": [
+      "RW7World"
     ]
   },
   {
@@ -845,25 +848,27 @@
       "RW7_UnionofKolkataArmy3",
       "RW7_GujaratArmy1",
       "RW7_GujaratArmy2",
-      "RW7_GujaratArmy3",
-      "RW7_GujaratArmy4",
       "RW7_BaluchistanRepublicArmy1",
-      "RW7_BaluchistanRepublicArmy2",
       "RW7_MashhadArmy1",
-      "RW7_MashhadArmy2",
       "RW7_IsfahanRepublicArmy1",
-      "RW7_IsfahanRepublicArmy2",
       "RW7_OdishaArmy1",
       "RW7_OdishaArmy2",
       "RW7_KoreaArmy1",
       "RW7_GreaterFujianArmy2",
       "RW7_KarunaduArmy1",
       "RW7_KarunaduArmy2",
+      "RW7_RLKArmy4",
+      "RW7_ROSArmy2",
+      "RW7_RMOArmy2",
+      "RW7_ROAArmy2",
+      "RW7_ROAArmy3",
+      "RW7_BaghdadFederationArmy1",
       "RW7_UralsArmy1",
       "RW7_FreeAlmatyArmy1",
       "RW7_LiaoningDirectorateArmy1",
       "RW7_EasternSiberiaLeagueArmy1",
-      "RW7_FreeManchuriaArmy1"
+      "RW7_FreeManchuriaArmy1",
+      "RW7_FreeManchuriaArmy2"
     ]
   },
   {

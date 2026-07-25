@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "dataName": "RW7_Effect_CrossroadsGDPDushanbe",
+    "instantEffect": "MapRegionGDPPctChange_StrValue",
+    "value": 0.2,
+    "instantRnd": 0.1,
+    "strValue": "map_Tajikistan",
+    "effectTarget": "InputState",
+    "effectDuration": "instant",
+    "duration_months": -1
+  },
+  {
+    "dataName": "RW7_Effect_CrossroadsGDPBishkek",
+    "instantEffect": "MapRegionGDPPctChange_StrValue",
+    "value": 0.1,
+    "instantRnd": 0.1,
+    "strValue": "map_Kyrgyzstan",
+    "effectTarget": "InputState",
+    "effectDuration": "instant",
+    "duration_months": -1
+  },
+  {
+    "dataName": "RW7_Effect_CrossroadsGDPKabul",
+    "instantEffect": "MapRegionGDPPctChange_StrValue",
+    "value": 0.1,
+    "instantRnd": 0.1,
+    "strValue": "map_Afghanistan",
+    "effectTarget": "InputState",
+    "effectDuration": "instant",
+    "duration_months": -1
+  },
+  {
+    "dataName": "RW7_Effect_CrossroadsGDPPeshawar",
+    "instantEffect": "MapRegionGDPPctChange_StrValue",
+    "value": 0.1,
+    "instantRnd": 0.1,
+    "strValue": "map_Peshawar",
+    "effectTarget": "InputState",
+    "effectDuration": "instant",
+    "duration_months": -1
+  },
+  {
+    "dataName": "RW7_Effect_CrossroadsGDPUrumqi",
+    "instantEffect": "MapRegionGDPPctChange_StrValue",
+    "value": 0.1,
+    "instantRnd": 0.1,
+    "strValue": "map_Xinjiang",
+    "effectTarget": "InputState",
+    "effectDuration": "instant",
+    "duration_months": -1
+  },
+  {
+    "dataName": "RW7_Effect_CrossroadsGDPTashkent",
+    "instantEffect": "MapRegionGDPPctChange_StrValue",
+    "value": 0.1,
+    "instantRnd": 0.1,
+    "strValue": "map_Uzbekistan",
+    "effectTarget": "InputState",
+    "effectDuration": "instant",
+    "duration_months": -1
+  }
+]

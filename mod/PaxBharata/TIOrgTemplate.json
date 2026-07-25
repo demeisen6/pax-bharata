@@ -6354,5 +6354,21 @@
       "DetectCouncilActivity"
     ],
     "iconResource": "orglogos/S\u00fbret\u00e9del'\u00c9tat"
+  },
+  {
+    "dataName": "U.N.OfficeforOuterSpaceAffairs",
+    "homeRegionMapTemplateName": "map_NewDelhi"
+  },
+  {
+    "dataName": "UNESCO",
+    "homeRegionMapTemplateName": "map_Mumbai"
+  },
+  {
+    "dataName": "InternationalMonetaryFund",
+    "homeRegionMapTemplateName": "map_Mumbai"
+  },
+  {
+    "dataName": "WorldHealthOrganization",
+    "homeRegionMapTemplateName": "map_Punjab"
   }
 ]

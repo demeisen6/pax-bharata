@@ -865,9 +865,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Hawaii, American Samoa, Guam, Northern Mariana Islands, Wake Island",
-    "coreEco": true,
     "referenceAlias": "AmericanPacific",
-    "localizationAlias": "AmericanPacific"
+    "localizationAlias": "AmericanPacific",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Anatolia",
@@ -992,9 +992,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Angola",
-    "localizationAlias": "Angola"
+    "localizationAlias": "Angola",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Anhui",
@@ -1781,9 +1781,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Basque, Navarre",
-    "coreEco": true,
     "referenceAlias": "BasqueCountry",
-    "localizationAlias": "BasqueCountry"
+    "localizationAlias": "BasqueCountry",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Bavaria",
@@ -2118,9 +2118,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Belize",
-    "localizationAlias": "Belize"
+    "localizationAlias": "Belize",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Bhutan",
@@ -2862,9 +2862,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Brunei",
-    "localizationAlias": "Brunei"
+    "localizationAlias": "Brunei",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Bulgaria",
@@ -4710,9 +4710,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Djibouti",
-    "localizationAlias": "Djibouti"
+    "localizationAlias": "Djibouti",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Donetsk",
@@ -5438,9 +5438,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Eswatini",
-    "localizationAlias": "Eswatini"
+    "localizationAlias": "Eswatini",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Ethiopia",
@@ -5935,9 +5935,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Gambia",
-    "localizationAlias": "Gambia"
+    "localizationAlias": "Gambia",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Gansu",
@@ -6382,9 +6382,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Guinea",
-    "localizationAlias": "Guinea"
+    "localizationAlias": "Guinea",
+    "coreEco": true
   },
   {
     "dataName": "RW7_GuineaBissau",
@@ -7995,9 +7995,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "Kaliningrad",
-    "localizationAlias": "Kaliningrad"
+    "localizationAlias": "Kaliningrad",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Kamchatka",
@@ -8660,9 +8660,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "composedOf": "Abuja/Federal Capital, Edo, Ekiti, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau",
-    "coreEco": true,
     "referenceAlias": "Lagos",
-    "localizationAlias": "Lagos"
+    "localizationAlias": "Lagos",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Laos",
@@ -11232,9 +11232,9 @@
     "occupationValue": 0.35,
     "nuclearDetonations": 0,
     "composedOf": "Uttar Pradesh, Delhi",
-    "occupyingNation": "RW7_RLK",
     "referenceAlias": "NewDelhi",
-    "localizationAlias": "NewDelhi"
+    "localizationAlias": "NewDelhi",
+    "occupyingNation": "RW7_RLK"
   },
   {
     "dataName": "RW7_NewEngland",
@@ -11988,9 +11988,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "NorthernIreland",
-    "localizationAlias": "NorthernIreland"
+    "localizationAlias": "NorthernIreland",
+    "coreEco": true
   },
   {
     "dataName": "RW7_NorthernSpain",
@@ -14801,9 +14801,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "SierraLeone",
-    "localizationAlias": "SierraLeone"
+    "localizationAlias": "SierraLeone",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Sindh",
@@ -16293,9 +16293,9 @@
     ],
     "occupationValue": 0,
     "nuclearDetonations": 0,
-    "coreEco": true,
     "referenceAlias": "TimorLeste",
-    "localizationAlias": "TimorLeste"
+    "localizationAlias": "TimorLeste",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Tirana",
@@ -18011,9 +18011,9 @@
     "occupationValue": 0,
     "nuclearDetonations": 0,
     "asi_RegionalHeadwear": "All",
-    "coreEco": true,
     "referenceAlias": "Zanzibar",
-    "localizationAlias": "Zanzibar"
+    "localizationAlias": "Zanzibar",
+    "coreEco": true
   },
   {
     "dataName": "RW7_Zhengzhou",

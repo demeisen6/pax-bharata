@@ -74,7 +74,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 3000,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -96,7 +96,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 1500,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -118,7 +118,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 3000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -140,7 +140,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 1000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -287,6 +287,156 @@
   {
     "dataName": "Project_UnitedIndosphere",
     "requiresNation": "IDN"
+  },
+  {
+    "dataName": "Project_APeriodofUnity",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_AfricanUnion",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_CaribbeanCommunity",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_CentralAmericanConfederation",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_CommonwealthRestored",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_EastAfricanFederation",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_GreaterAustronesia",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_GreaterDominion",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_GreaterIndonesia",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_GreaterMalaysia",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_GulfCooperationCouncil",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_NigerianConfederation",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_PacificLeague",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_Pan-AsianCooperative",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_SouthAmericanUnion",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_SoutheastAsianAlliance",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_SouthernCross",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_StewardoftheSouth",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_TheGreaterCaliphate",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_TheHouseofIslam",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_TheShiaNation",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_UnidadColombia",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_UnitedArabLeague",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_UnitedMalayNation",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
+  },
+  {
+    "dataName": "Project_UnitedTurkestan",
+    "scenarioTags": [
+      "NotPostApoc"
+    ]
   },
   {
     "friendlyName": "The Colonial Reunion",
@@ -585,7 +735,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -832,7 +982,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -899,7 +1049,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 9000,
     "prereqs": [
-      "FallofEmpires",
+      "RW7_FallofEmpires",
       "RW7_Project_VserossiyskayaDerzhava"
     ],
     "oneTimeGlobally": true,
@@ -1057,7 +1207,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 6000,
     "prereqs": [
-      "IndependenceMovements",
+      "RW7_IndependenceMovements",
       "RW7_Project_LionAndMountain"
     ],
     "oneTimeGlobally": true,
@@ -1080,7 +1230,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 10000,
     "prereqs": [
-      "FallofEmpires",
+      "RW7_FallofEmpires",
       "RW7_Project_ScrambleReversed",
       "RW7_Project_UnconqueredTide"
     ],
@@ -1171,7 +1321,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 4000,
     "prereqs": [
-      "IndependenceMovements",
+      "RW7_IndependenceMovements",
       "RW7_Project_TainoSea"
     ],
     "oneTimeGlobally": true,
@@ -1776,7 +1926,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 3000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1798,7 +1948,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 3000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1820,7 +1970,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 3000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1842,7 +1992,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 3000,
     "prereqs": [
-      "IndependenceMovements"
+      "RW7_IndependenceMovements"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1864,7 +2014,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1886,7 +2036,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1908,7 +2058,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1930,7 +2080,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1952,7 +2102,7 @@
     "AI_projectRole": "ExpandNation",
     "researchCost": 5000,
     "prereqs": [
-      "FallofEmpires"
+      "RW7_FallofEmpires"
     ],
     "oneTimeGlobally": true,
     "repeatable": false,
@@ -1983,155 +2133,5 @@
     "oneTimeGlobally": false,
     "repeatable": false,
     "resourcesGranted": []
-  },
-  {
-    "dataName": "Project_APeriodofUnity",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_AfricanUnion",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_CaribbeanCommunity",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_CentralAmericanConfederation",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_CommonwealthRestored",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_EastAfricanFederation",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_GreaterAustronesia",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_GreaterDominion",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_GreaterIndonesia",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_GreaterMalaysia",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_GulfCooperationCouncil",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_NigerianConfederation",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_PacificLeague",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_Pan-AsianCooperative",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_SouthAmericanUnion",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_SoutheastAsianAlliance",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_SouthernCross",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_StewardoftheSouth",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_TheGreaterCaliphate",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_TheHouseofIslam",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_TheShiaNation",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_UnidadColombia",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_UnitedArabLeague",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_UnitedMalayNation",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
-  },
-  {
-    "dataName": "Project_UnitedTurkestan",
-    "scenarioTags": [
-      "NotPostApoc"
-    ]
   }
 ]

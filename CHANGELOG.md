@@ -7,7 +7,71 @@ Unreleased section.
 
 ## [Unreleased] — next Workshop update
 
-(nothing yet)
+## [1.2] — 2026-07-26 — game 1.0.48/49 compat
+
+### 1.0.48/49 compat: Independence Movements / Fall of Empires restored
+- Vanilla now tags exactly two techs ["NotPostApoc"] and every vanilla
+  scenario declares that tag — our scenarios don't, so both techs silently
+  vanished from Pax Bharata and League campaigns ("Bad tech prereq in
+  json" spam) and everything gated on them (breakaways, unions,
+  fragmentation) became researchable day one. Fix: world-tagged clones
+  (RW7_/RW1_IndependenceMovements, .../FallofEmpires) with vanilla display
+  text; all world projects' prereqs point at the clones. Declaring
+  NotPostApoc ourselves was not an option (it would resurrect the scoped-
+  out vanilla political projects), nor was multi-tagging vanilla's techs
+  (subset semantics would remove them from vanilla scenarios).
+
+
+### Starting-nation picker cleanup
+- Fixed the starting-nation picker showing vanilla nation names ("United
+  States of America", "Egypt, Turkey+"...) mixed into the scenario's
+  starter options: the landless ghost nations that used to block vanilla
+  projects carried vanilla picker groups. Scenario-scoping made the whole
+  ghost-lock architecture redundant, so ghost codes are now pruned from
+  the nation lists entirely (~138 fewer inert nation states per world;
+  starter options now show exactly the scenario's own nations).
+
+
+### League of Nations: suborbital-carrier boost ramp + defection crises
+- World boost 1660 -> 4150 t/yr (2.3x vanilla 2026's 1789): in a world
+  where the upper-middle class treats a Singapore-Belize suborbital hop as
+  a layover, the carriers' pads are enormous — and the League federation
+  pools that capacity to every member, so the majors ride the corporate
+  boost network... until the carriers start leaving.
+- Four one-shot "League Defection Crisis" events (new
+  TINarrativeEventTemplate ship): as federation membership falls past
+  31/29/26/21 of 32, all six majors take +0.5/+0.5/+0.75/+1.0 unrest —
+  the commuter economy seizing up as the charter system unravels.
+
+
+### League of Nations: corporate naming pass for the 25 free cities
+- The minors are now chartered carrier corporations (the majors are barred
+  from intercontinental-capable vehicles beyond their monitored ICBMs);
+  every free city gets a marketing-department brand — Hong Kong Global
+  Commerce, Gulf Logistics Solutions, Pan-American Aerospace, Corisco
+  Launch Systems, Kigali Ascent S.A., Saharan Transship Collective,
+  Irie Skies Leisure Group, Caribbean Adventures Ltd., Pacifica
+  Horizons S.A., TransAtlantic Leisure Trust…
+
+
+### League of Nations: fragmentation tree implemented (2026-07-26)
+- 96 successor states across 24 projects / 312 gated claims: 18 T2
+  "Devolution" projects (IndependenceMovements, 2500rp — every non-capital
+  core economic zone charters independence, grouped 3 per major by
+  longitude; Mediterranean seeds take a partner region) and 6 T3
+  "Dissolution" projects (FallofEmpires + all three devolutions, 5000rp —
+  every remaining region joins its planned successor; rumps keep
+  capital + 1-3 regions). Plan reviewed in
+  lore/league-fragmentation-plan.md.
+
+
+- (League of Nations sibling mod, not this Workshop item) Fixed a
+  campaign-start crash: the game's AI planner needs every continent to
+  keep a pickable capital nation after adjacency sweeps, which a 32-nation
+  world of continental blocs violated. The Atlantic Resort Authority is
+  now seated at the Azores and the American Common Interest Zone at
+  Brasilia; a new build-time audit (check_ai_targets.py) enforces the
+  constraint for all worlds.
 
 ## [1.1] — 2026-07-24 — game 1.0.47 update + balance overhaul
 
@@ -45,6 +109,33 @@ Unreleased section.
   New generator pass `scenario_scope.py` (wired into all three build
   scripts). Old saves that were mid-research on a now-scoped project will
   not load cleanly — start a new campaign (already required this update).
+
+### League of Nations: boot-crash hotfix (2026-07-25)
+- Fixed a game-boot crash introduced by shipping TIStartTimeTemplate.json:
+  the 1.0.47 mod-merge strict-parses the VANILLA file, which ships invalid
+  JSON (missing comma). The vanilla file is now patched in place (backup
+  .pavonis-orig.bak beside it) and make_league.py re-applies the patch if a
+  game update reverts it. Upstream bug — any mod touching start times
+  crashes 1.0.47 until Pavonis fixes their file.
+
+### League of Nations: first in-game review pass (2026-07-25)
+- Federation now displays "League of Nations" (union display names are
+  localization keys, not template fields — fallback name was "Mediterranean
+  Federation")
+- Carve fixes: Réunion + Comoros join the Indian Ocean Resort Authority;
+  Greenland + Iceland to the Americas; Baku + Yerevan to the Crossroads;
+  Buraydah, Jedda, Port Sudan, Gao, Nouakchott to the Mediterranean;
+  Kunming to the Archipelago
+- Core economic zones rebuilt: scaffold shuffle wiped, vanilla-2026
+  placements restored, 49 review additions (world total 90)
+- Starting research rework: Advanced Chemical Rocketry / Mission to Space /
+  Space Tourism pre-researched; Reusable Rockets, Climate Lab, Tourist
+  Berth, Hab Living Quarters completed for every faction; Advanced
+  Electromagnetism replaces Mission to Space as a starting option;
+  cryo rockets / space science lab / materials lab no longer pre-done
+- Starting stations rebuilt: Unity Station (Academy) and Concord Station
+  (Exodus) in equatorial LEO — solar collector, tourist berth, quarters,
+  plus a climate lab / life-science lab respectively
 
 ### New sibling mod in development: The League of Nations (not part of this
 Workshop item) — an alt-history federated-Earth scenario (6 treaty-bound

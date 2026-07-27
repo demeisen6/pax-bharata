@@ -20,6 +20,15 @@ Unreleased section.
   NotPostApoc ourselves was not an option (it would resurrect the scoped-
   out vanilla political projects), nor was multi-tagging vanilla's techs
   (subset semantics would remove them from vanilla scenarios).
+- The two live vanilla projects gated on those techs — Global Command
+  Structure and Freedom Fighters — had the same dropped-prereq problem
+  (Global Command Structure was researchable day one). They are re-gated
+  via sparse merge entries listing the vanilla tech plus every world's
+  clone: per scenario exactly one variant resolves and binds, the rest
+  drop. Both mods ship identical entries (and clones for both worlds) so
+  enabling League and Pax Bharata together stays consistent. The other
+  16 vanilla projects referencing the techs are disable:true dead
+  content and need nothing.
 
 
 ### Starting-nation picker cleanup

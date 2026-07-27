@@ -2133,5 +2133,22 @@
     "oneTimeGlobally": false,
     "repeatable": false,
     "resourcesGranted": []
+  },
+  {
+    "dataName": "Project_FreedomFighters",
+    "prereqs": [
+      "IndependenceMovements",
+      "Project_GuerrillaWarfare",
+      "RW1_IndependenceMovements",
+      "RW7_IndependenceMovements"
+    ]
+  },
+  {
+    "dataName": "Project_GlobalCommandStructure",
+    "prereqs": [
+      "IndependenceMovements",
+      "RW1_IndependenceMovements",
+      "RW7_IndependenceMovements"
+    ]
   }
 ]

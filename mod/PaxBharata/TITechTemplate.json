@@ -1,6 +1,38 @@
 [
   {
     "friendlyName": "Independence Movements",
+    "dataName": "RW1_IndependenceMovements",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_criticalTech": false,
+    "endGameTech": false,
+    "researchCost": 5000,
+    "prereqs": [
+      "ArrivalDomesticPolitics",
+      "ArrivalSociology"
+    ],
+    "scenarioTags": [
+      "RW1World"
+    ]
+  },
+  {
+    "friendlyName": "Fall of Empires",
+    "dataName": "RW1_FallofEmpires",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_criticalTech": false,
+    "endGameTech": false,
+    "researchCost": 10000,
+    "prereqs": [
+      "RW1_IndependenceMovements",
+      "ArrivalInternationalRelations"
+    ],
+    "scenarioTags": [
+      "RW1World"
+    ]
+  },
+  {
+    "friendlyName": "Independence Movements",
     "dataName": "RW7_IndependenceMovements",
     "techCategory": "SocialScience",
     "AI_techRole": "EarthPolitics",
